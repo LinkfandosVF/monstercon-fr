@@ -1,0 +1,47 @@
+>>>	popquiz1		
+>question	Choisis 3 de tes magical girl stéréotypés		
+>image	popquiz_chibis_unhinged	Unhinged	BOLDNESS
+>image	popquiz_chibis_leader	Leader	CHARM
+>image	popquiz_chibis_glassesgirl	Glasses girl	SMARTS
+>image	popquiz_chibis_sillyfaces	Silly faces	FUN
+>image	popquiz_chibis_popidol	Pop idol	CREATIVITY
+			
+>>>	popquiz2		
+>question	Choisis 3 archétypes de villains	
+>image	popquiz_chibis_worlddestroyer	World Destroyer	BOLDNESS
+>image	popquiz_chibis_tragiclover	Tragic Lover	CHARM
+>image	popquiz_chibis_mastermind	Mastermind	SMARTS
+>image	popquiz_chibis_evilclown	Evil Clown	FUN
+>image	popquiz_chibis_murderart	Murder Art	CREATIVITY
+			
+>>>	popquiz3		
+>question	Choisis 3 archétypes de personnages de jeux de combat	
+>image	popquiz_chibis_zoner	Zoner	SMARTS
+>image	popquiz_chibis_puncher	Puncher	BOLDNESS
+>image	popquiz_chibis_weirdo	Weirdo	CREATIVITY
+>image	popquiz_chibis_oversexualized	Oversexualized	FUN
+>image	popquiz_chibis_grappler	Grappler	CHARM
+			
+>>>	popquiz4		
+>question	Choisis ton top 3 de Pokézommes		
+>image	popquiz_chibis_accountant	Accountant	SMARTS
+>image	popquiz_chibis_gunhaver	Gunhaver	BOLDNESS
+>image	popquiz_chibis_ventriloquist	Ventriloquist	CREATIVITY
+>image	popquiz_chibis_40hands	40hands	FUN
+>image	popquiz_chibis_harryhairdo	HarryHairdo	CHARM
+			
+>>>	popquiz5		
+>question	Choisis ton top 3 de créatures de la forêt
+>image	popquiz_chibis_scarffox	Scarf Fox	SMARTS
+>image	popquiz_chibis_spikehead	Spike Head	BOLDNESS
+>image	popquiz_chibis_mothface	Moth Face	CREATIVITY
+>image	popquiz_chibis_shroom	Shroom	FUN
+>image	popquiz_chibis_flower	Flower	CHARM
+			
+>>>	popquiz6		
+>question	Choisis ton top 3 animaux préférés		
+>image	popquiz_chibis_owl	Owl	SMARTS
+>image	popquiz_chibis_fox	Wolf	BOLDNESS
+>image	popquiz_chibis_octopus	Octopus	CREATIVITY
+>image	popquiz_chibis_dolphin	Dolphin	FUN
+>image	popquiz_chibis_horse	Horse	CHARM

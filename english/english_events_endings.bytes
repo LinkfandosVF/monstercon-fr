@@ -1,0 +1,2078 @@
+>>>	success_doug1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	doug
+>action	3		Afterparty	
+	narrator		You finally gather your courage and ask your favorite sexy slime to go to the con afterparty with you...	
+>layout	solo	doug
+	doug	surprised	You wanna be MY date to the party?
+	doug	excited	[sin]YES YES YES YES YES YES YES YES!!![/sin]	DOU_heckyeah
+	doug	skeptical	Er... *ahem*, I mean...
+	doug	default	That sounds cool.
+
+>>>	success_doug2			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	doug
+>action	0		Afterparty	
+	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...	
+>layout	solo	doug
+	doug	happy	Awww! Of course I'll go to the party with you!	DOU_awwwhappy
+	doug	default	I'll pick you up at eight. Try not to wear loose-fitting clothing; I don't want it to get stuck in the back wheel of my moped.
+	doug	excited	As long as we don't crash, it'll be fun!
+
+>>>	success_doug3			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	doug
+>action	2		Afterparty	
+	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...	
+>layout	solo	doug
+	doug	happy	I'd love to be your date to the party!	DOU_heckyeah
+	doug	thinking	Gosh, this'll be the first party I've been to since my cousin's baby shower. Should I buy a gift or something?
+	player	default	Nah, just bring your handsome self.
+	doug	sweat	Oh, good! That sounds affordable!
+
+>>>	success_nico1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	nico
+>action	0		Afterparty
+	narrator		You finally gather your courage and ask your favorite not-very-shapeshifting mimic to go to the con afterparty with you...	
+>layout	solo	nico
+>outfit	nico	barbarian
+>special_command	specialstufftag	nicocosplaybarbarian
+	nico	determined	IT WOULD BE AN HONOR TO PARTY WITH YOU!	NC_rejoicebarbarians
+	nico	explaining	WE'LL RAID THE FESTIVITIES AT SUNDOWN!
+	nico	excited	THE SNACK TABLE WON'T KNOW WHAT HIT IT!
+
+>>>	success_nico2			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	nico
+>action	3		Afterparty
+	narrator		You finally gather your courage and ask your favorite sexy shapeshifter to go to the con afterparty with you...
+>layout	solo	nico
+	nico	happy	I'd love to go to the party with you! What cosplay should I wear?	NCex_happy
+	player	default	I think what you're wearing now is already plenty sexy. Why not just go as yourself?
+	nico	default	I can do that! I'm already in character!
+
+>>>	success_nico3			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	nico
+>action	1		Afterparty
+	narrator		You finally gather your courage and ask your favorite not-very-shapeshifting mimic to go to the con afterparty with you...	
+>layout	solo	nico
+>outfit	nico	noir
+>special_command	specialstufftag	nicocosplaynoir
+	nico	frustrated	Hmmm... it's been a long time since I've believed in the power of love. A long time since I've searched for it anywhere but the bottom of a bottle...	NC_needadrink
+	nico	explaining	But somehow, some way, you weaseled your way into my life and thawed my heart like butter on a hot muzzle.
+	nico	determined	I'm in. Let's paint this town red, kid.	NCex_determined
+
+>>>	success_liam1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	liam
+>action	0		Afterparty
+	narrator		You finally gather your courage and ask your favorite grump to go to the con afterparty with you...	
+>layout	solo	liam
+	liam	eyeroll	Ugh, the con afterparty? You're seriously going to that?	L_mainstream
+	player	default	Um... yes, but... I'm going IRONICALLY.
+	liam	bored	...
+	liam	thinking	...
+	liam	smile	That's genius. Count me in.	L_cool
+
+>>>	success_liam2			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	liam
+>action	2		Afterparty
+	narrator		You finally gather your courage and ask your favorite centuries-old hipster to go to the con afterparty with you...	
+>layout	solo	liam
+	liam	default	The con afterparty? Hmm, let me check my schedule.
+	liam	thinking	"6:00: brood. 7:00: pass judgment. 8:30: snack break. 9:00: brainstorm titles for my memoir: [i]Liam [WORKING TITLE][/i]...." Sorry, I'm booked.	Lex_thinking
+	liam	surprised	Actually, now that I think about it... [i]Liam: A Working Title[/i] is EXACTLY the subversive title my memoir should have!
+	liam	talking	%CURRENTPLAYERNAME%, you're in luck: my schedule just opened up. It's a date.	Lex_talking
+
+>>>	success_liam3			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	liam
+>action	3		Afterparty	
+	narrator		You finally gather your courage and ask one sexy purple gummy bear to go to the con afterparty with you...
+>layout	solo	liam
+	liam	thinking	A date to the afterparty, you say?	Lex_thinking
+	liam	smile	Allow me to recite my answer in the form of poetry.
+	liam	talking	"Yours is an evening I'd be happy to join."
+	liam	blush	"Your smile stirs my heart and tickles my loins."
+	liam	blushside	...It's a rough draft, okay?	Lex_blushside
+
+>>>	success_omen1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	omen
+>action	1		Afterparty
+	narrator		You finally gather your courage and ask your favorite evildoer to go to the con afterparty with you...	
+>layout	solo	omen
+	omen	unimpressed	Hmm... yes, I suppose I am agreeable to going on a date with you.	O_ilikethis
+	omen	unimpressed	What is the protocol? Do I send you a calling card? Do I need to gain your elder's blessing?
+	omen	mischievous	You are not already betrothed, are you? I could kill your suitor. It would be an honor, in fact.
+	player	default	Um, no, none of that stuff is required anymore. You can just be my date if you want to.
+	omen	surprised	Ah! How efficient!	Oex_surprised
+
+>>>	success_omen2			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	omen
+>action	3		Afterparty
+	narrator		You finally gather your courage and ask your beloved badass villain to go to the con afterparty with you...	
+>layout	solo	omen
+	omen	surprised	You are asking me on a date? Just like that?	Oex_surprised
+	omen	unimpressed	How times have changed. Previously, my suitors would have groveled at my feet just to feel my hand wrapped around their throat.
+	player	default	I mean... I could be persuaded to do that, if you want.
+	omen	scheming	Hmmmm... later, perhaps. For now, let us party.	Oex_scheming
+
+>>>	success_omen3			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	omen
+>action	0		Afterparty
+	narrator		You finally gather your courage and ask your least-friendly friend to go to the con afterparty with you...
+>layout	solo	omen
+	omen	surprised	A party, you say?	Oex_surprised
+	omen	unimpressed	The last party I went to was Diabolos, Scourge of All That is Holy's 112th birthday.	
+	omen	scary	We burned a village to the ground, salted the fields, and rejoiced at the sight of so many charred corpses.	
+	omen	surprised	Will this "afterparty" be anything like that?
+	player	default	Uh... no, probably not. But there'll be a hot dog truck!
+	omen	laugh	Oh, why did you not open with that? Let us party!	O_splendid
+
+>>>	success_april1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	april
+>action	1		Afterparty
+	narrator		You finally gather your courage and ask your favorite clownish cutie to go to the con afterparty with you...
+>layout	solo	april
+	april	default	Sure, I'd love to be your date to the party!	APR_droll
+	april	thinking	But if anyone from my agency sees us, I'm telling them you're a wealthy fan who paid $100 to go out with me, okay?
+	april	sing
+	cynicalmascot	default	You can send me that $100 in a few weeks. I take cash, check, and cryptocurrency.
+	april	cheerful	Honk honk! This'll be fun!	APRex_cheerful
+
+>>>	success_april2			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	april
+>action	0		Afterparty
+	narrator		You finally gather your courage and ask your good friend April to go to the con afterparty with you...
+>layout	solo	april
+	april	thinking	Umm... well... I need my agency's approval before I accept any dates...	APRex_thinking
+	player	default	What if it's just a hang-out between friends?
+	april	default	Oh, okay! My contract has no clauses against me having friends.
+	april	crying
+	sadmascot	default	[i]Yet.[/i]	
+	april	nervous	Haha... anyway... see you at the party!	APR_hahaanyway
+
+>>>	success_april3			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	april
+>action	3		Afterparty
+	narrator		You finally gather your courage and ask your favorite idol if she's "down to clown" at the con afterparty with you...	
+>layout	solo	april
+	april	happy	Yes, I'd love to go to the party with you!	APRex_happy
+	april	wink	I really like you, %CURRENTPLAYERNAME%. You make my heart swell like a balloon...
+	hornymascot	default	And I can't wait for you to make me pop!	APR_horny_oooh
+
+>>>	success_zoe1			
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	zoe
+>action	2		Afterparty
+	narrator		You finally gather your courage and ask your favorite eldritch cutie to go to the con afterparty with you...	
+>layout	solo	zoe
+	zoe	excited	Hell yeah! I'd love to go to the party with you!	Z_fyeah
+	zoe	eyebrows	I'll be the Romeo to your Juliet; the Bonnie to your Clyde; the Castiel to your Dean...
+	player	default	...Don't one or both of those people die at the end?
+	zoe	laugh	Yup, just like real mortals. Your lifespans are so funny and short, heehee!
+	zoe	hyped	So let's make the most of the time you have and PAAARTY!	Zex_happy
+
+>>>	success_zoe2			
+>writer	moyano
+>event_type	ending
+>ending_type	success
+>ending_npc	zoe
+>action	0		Afterparty
+	narrator		You finally gather your courage and ask your best bud Zoe to go to the con afterparty with you...	
+>layout	solo	zoe
+	zoe	happy	Yeah, I'll totally go to the party with you!	Zex_happy
+	zoe	dreamy	I appreciate you asking me.
+	zoe	laugh	This con has been the best "friends-to-best-friends" 100k slowburn ever!
+
+>>>	success_zoe3			
+>writer	moyano
+>event_type	ending
+>ending_type	success
+>ending_npc	zoe
+>action	3		Afterparty
+	narrator		You finally gather your courage and ask your tantalizing, tentacled friend Zoe to go to the con afterparty with you...	
+>layout	solo	zoe
+	zoe	laugh	You wanna go to the party with me? That's funny!	Zex_laugh
+	player	default	Why?
+	zoe	happy	Cause I actually wrote a one-off fanfic this morning where we went to the party together!	Z_fanficcometrue
+	zoe	blush	We were both cosplaying, and when the party was over we came back here and took off our cosplays and...
+	player	default	...And?
+	zoe	hyped	Heehee! No spoilers allowed!
+
+>>>	finalsuccess_doug1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	doug
+>action	0		Afterparty
+	narrator		The afterparty was amazing!	
+	narrator		Doug especially loved the "gourmet" appetizers.
+	narrator		They were just regular appetizers, but he's been living off ramen for so long that anything's gourmet in comparison.
+	narrator		You decided to make your next hang-out at a grocery store. So mature of you!
+
+>>>	finalsuccess_doug2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	doug
+>action	3		Afterparty
+	narrator		The afterparty was lit!	
+	narrator		Doug had more to drink than he's used to, and he wound up tearing up the dance floor!
+	narrator		It turns out he's a solid dancer when he's not paralyzed by stage fright.
+	narrator		And as it turns out, the same is true for him in the bedroom! Hubba hubba!
+
+>>>	finalsuccess_doug3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	doug
+>action	2		Afterparty
+	narrator		The afterparty was wonderful!	
+	narrator		After a few drinks, Doug ended up venting to you about the future. Will he get a good job? Will he ever become "cool"? Will he make everyone proud?
+	narrator		You assured him that you believe in him wholeheartedly, and no matter what life has in store, you'll be there to tackle it with him.
+	narrator		He hugged you tightly... and absolutely soaked you in slime residue.
+	narrator		You're never washing these clothes again!
+
+>>>	finalsuccess_nico1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	nico
+>action	0		Afterparty
+	narrator		The afterparty was awesome!
+	narrator		You and Nico partied harder than ever.
+	narrator		In fact, you partied so hard that Patroclus the Party Wizard appeared to give you the Hardest Partiers Award.
+	narrator		Your mom would be so proud.
+
+>>>	finalsuccess_nico2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	nico
+>action	3		Afterparty
+	narrator		The afterparty was stellar!	
+	narrator		When the party ended, you and Nico weren't ready to say goodbye yet, so you went stargazing in the park.
+	narrator		It turned out to be a night you'll treasure forever...	
+	narrator		Ah, yes, "treasure" is such a fitting word... especially since you put both your hands inside a certain treasure chest...	
+
+>>>	finalsuccess_nico3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	nico
+>action	1		Afterparty
+	narrator		The afterparty kicked ass!	
+	narrator		There was a surprise karaoke competition! Nico got up there and attempted to do the entire Pokemans rap from memory.
+	narrator		They'd already had a few drinks by that time, so it didn't go super well.
+	narrator		But they got a standing ovation anyway. Who cares about accuracy when you have Nico's infectious enthusiasm and beautiful, bouncing pecs? Hubba hubba!
+
+>>>	finalsuccess_liam1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	liam
+>action	3		Afterparty
+	narrator		The afterparty was wonderful!	
+	narrator		You didn't expect Liam to be such a hit on the dance floor, but that night, he showed you that dance is one of his greatest art forms.
+	narrator		...Closely followed by the art of having really, really good sex.
+	narrator		Très magnifique!
+
+>>>	finalsuccess_liam2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	liam
+>action	2		Afterparty
+	narrator		The afterparty was perfect!	
+	narrator		You and Liam stood in a corner all night, gossiping about the other attendees.
+	narrator		You discussed their heinous outfits, their terrible dance moves, the cringiness of their emotional availability...
+	narrator		...and then, suddenly, Liam was hardcore making out with you.
+	narrator		You knew being an unapologetic prick would eventually turn him on. Mission accomplished!
+
+>>>	finalsuccess_liam3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	liam
+>action	0		Afterparty
+	narrator		The afterparty was spectacular!	
+	narrator		You were both surprised to learn that there was a final cosplay contest being held, and Liam won second place for "Best 'Liam Prom' Cosplay."	
+	narrator		Liam was annoyed until he found out the prize was an interview in the local newspaper.
+	narrator		He spent the entire interview criticizing the homogenization of pop culture under capitalism. They didn't ask him any questions about that, but it didn't stop him.
+	narrator		Classic Liam!
+
+>>>	finalsuccess_omen1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	omen
+>action	3		Afterparty
+	narrator		The afterparty was glorious!	
+	narrator		Omen arrived in their finest armor, wielding their finest flail, and announced that they were here to "conquer" the festivities.
+	narrator		You could've tried to stop them... but what can you say? You're a sucker for a beautiful person who can kick your ass.
+	narrator		The cops aren't, though, and you were both arrested for the bloodbath you two caused on the dance floor.
+	narrator		At least you and Omen got to spend the night in jail together. Who knew fucking in a holding cell could be so hot?
+
+>>>	finalsuccess_omen2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	omen
+>action	0		Afterparty
+	narrator		The afterparty was a momentous occasion!
+	narrator		Omen challenged the bartender to an arm-wrestling contest to get free drinks!
+	narrator		The bartender agreed, thinking he had an advantage. But even though Omen's minus an arm, what they say is true: quality over quantity!	
+	narrator		Omen got you both free drinks for as long as you could avoid security. Hell yeah!
+
+>>>	finalsuccess_omen3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	omen
+>action	1		Afterparty
+	narrator		The afterparty was a dream come true!	
+	narrator		It was Omen's first time at a modern party, so you showed her the ropes.
+	narrator		She loved the DJ and the open buffet, though there was a bit of an altercation when she tried to take an entire roast chicken for herself...
+	narrator		But still, it was a wonderful night, and Omen genuinely appreciated you showing her this strange new world.
+	narrator		And you're happy to do it, if it means she'll smile at you like that again.
+
+>>>	finalsuccess_april1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	april
+>action	0		Afterparty
+	narrator		The afterparty was the best!	
+	narrator		They hosted a surprise duet karaoke competition. You and April dominated, obviously.
+	narrator		And because she's famous, April got to charge the con an extra appearance fee for doing it.
+	narrator		Respect the hustle!
+
+>>>	finalsuccess_april2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	april
+>action	1		Afterparty
+	narrator		The afterparty was amazing!	
+	narrator		After midnight, April snuck you into the [i]after[/i]-afterparty that's only for the con's famous guests.
+	narrator		You spent the night rubbing elbows with former child stars, washed-up Power Rangers, and viral influencers you've never heard of.
+	narrator		But you mostly rubbed elbows with April, who kept your arm linked in hers all night long. It's fun being arm candy!
+
+>>>	finalsuccess_april3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	april
+>action	3		Afterparty
+	narrator		The afterparty was incredible!	
+	narrator		April brought you a balloon bouquet! How sweet!
+	narrator		Then, after the party, she invited you back to her hotel room and showed you how to use balloons in an entirely different, sexy way.
+	narrator		You fear that, from now on, the sound of a balloon popping might have the Pavlovian effect of turning you on.
+	narrator		Your therapist may be hearing about that later, but for now, what a night!
+
+>>>	finalsuccess_zoe1			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	zoe
+>action	0		Afterparty
+	narrator		The afterparty was fantastic!	
+	narrator		Zoe introduced you to all sorts of famous authors, artists, and journalists she met while giving various panels. All of them heaped praise on Zoe for her work.
+	narrator		It was a delight to see Zoe in her element, surrounded by people who recognize her greatness.
+	narrator		In some ways, it's like she's still the stunning goddess she was always meant to be... but this time, it's on her own terms.
+
+>>>	finalsuccess_zoe2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	zoe
+>action	3		Afterparty
+	narrator		The afterparty was fabulous!
+	narrator		Zoe brought her notebook and showed you some new fanfic ideas she's been cooking up.
+	narrator		Even the outlines of such magnificent erotica got you all hot and bothered...
+	narrator		Zoe noticed, so she offered to take you out back and relieve your "literary intrigue".
+	narrator		Who knew reading could be so... hands-on? ;)
+
+>>>	finalsuccess_zoe3			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	zoe
+>action	2		Afterparty
+	narrator		The afterparty was amazing!	
+	narrator		You and Zoe spent the whole night reminiscing about how fun the con was.
+	narrator		You asked her what she plans to do next, and she said she doesn't know. But isn't that the beautiful part of life: not knowing what comes next?
+	narrator		Zoe said that that's what she loves about mortality: every moment is precious, and she never knows what the next one will entail...	
+	narrator		...and that includes where things go between the two of you.
+	narrator		And then she kissed you, and you surely didn't expect that.
+
+>>>	success_none1
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	none
+	narrator		You didn't ask anyone to go to the afterparty with you, because you don't need a romantic ending to this amazing experience.	
+	narrator		You came to the con to make friends, make memories, and spend an obscene amount of money on merch.
+	narrator		And you're 3 for 3! That's a win in your book!
+
+>>>	success_none2
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	none
+	narrator		You didn't ask anyone to go to the afterparty with you.	
+	narrator		Who needs another half? You're two halves of a whole %CURRENTPLAYERNAME%, and that's the best thing you could be!
+
+>>>	success_none3
+>writer	quinn
+>event_type	ending
+>ending_type	success
+>ending_npc	none
+	narrator		You didn't ask anyone to go to the afterparty with you. You've got the perfect night planned already!	
+	narrator		You're picking yourself up in a limo, treating yourself to a nice dinner, and plan to arrive a fashionable 3 hours late.
+	narrator		You even got yourself a bouquet! Shhh! It's a surprise!
+
+>>>	finalsuccess_none1
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	none
+	narrator		You had an awesome time at the party!	
+	narrator		You had nobody to dance with during the slow songs, so you said "fuck it" and started breakdancing instead.
+	narrator		And you'd better believe that none of those snooty couples got a ring of people to circle around them and chant "%CURRENTPLAYERNAME%! %CURRENTPLAYERNAME%!"
+	narrator		What a night!
+
+>>>	finalsuccess_none2			
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	none
+	narrator		You had an excellent time at the party!	
+	narrator		You found a secret pop-up bar in the back lot behind the building!
+	narrator		They had lots of cool drinks, like "Schnapps That Are Only Legal in Six States" and "This Shot's Free if You Don't Tell Security I'm Here".
+	narrator		Support small businesses!
+
+>>>	finalsuccess_none3
+>writer	quinn
+>event_type	ending
+>ending_type	finalsuccess
+>ending_npc	none
+	narrator		You had an epic time at the party!	
+	narrator		You left it all on the dance floor. Your moves were sick; they were nasty; they were ABSOLUTELY DISGUSTING!
+	narrator		I mean all that in a good way, of course. A hip way, even.
+	narrator		Best party ever! It was off the chizzain! How do you do, fellow youths?
+
+>>>	failure_doug1
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	doug
+	narrator		You finally gather your courage and ask Doug to go to the con afterparty with you...
+>layout	solo	doug
+	doug	surprised	Oh, crap... I mean... crap, I've never done this before! How do I put it...	DOU_crap
+	doug	thinking	It's not you, it's me. Yeah, that's it. I'm the one who doesn't like you!
+	doug	surprised	Wait, that came out wrong, sorry! It's just that I don't wanna go...
+	doug	exhausted	...with you. Crap, that sounded awful again. I'd better shut up.
+	doug	sweat	Anyway, have fun! Without me, that is!	DOU_farewell3
+
+>>>	failure_doug2
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	doug
+	narrator		You finally gather your courage and ask Doug to go to the con afterparty with you...
+>layout	solo	doug
+	doug	default	You wanna go to the party with me? I'm flattered!
+	doug	thinking	It's just that... you know, this con has taught me so much.	DOU_dunno
+	doug	blush	Like loving myself for who I am, and being able to say no.
+	doug	sweat	So... there, I said it! No!
+	doug	happy	Hey, that was easier than I thought! Anyway, have fun at the party!	DOU_whoa
+
+>>>	failure_doug3
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	doug
+	narrator		You finally gather your courage and ask Doug to go to the con afterparty with you...
+>layout	solo	doug
+	doug	blush	Aw, I'm so flattered! But I'm already going with someone...	DOU_nosorry
+	player	default	Really? Who?
+	doug	bliss	Oh, you don't know her. She's pretty shy, but we're getting to know each other...
+	doug	happy	Anyway, I gotta go. She's waiting for me!	DOU_farewell6
+	narrator		Doug leaves. From the window, you see him... hugging a dakimakura.	
+
+>>>	failure_nico1
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	nico
+	narrator		You finally gather your courage and ask Nico to go to the con afterparty with you...
+>layout	solo	nico
+>outfit	nico	noir
+>special_command	specialstufftag	nicocosplaynoir
+	nico	blank	A date with me? No dice, kiddo.
+	nico	bummed	This old detective has been double-crossed far too many times.
+	nico	frustrated	There's no heart under this trench coat anymore; just a bad liver and an empty flask.	NC_needadrink
+	nico	bummed	Call me when you need someone to investigate your murder.
+
+>>>	failure_nico2
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	nico
+	narrator		You finally gather your courage and ask Nico to go to the con afterparty with you...
+>layout	solo	nico
+>outfit	nico	powerranger
+>special_command	specialstufftag	nicocosplaypowerranger
+	nico	happy	That'd be great!	NCex_happy
+	nico	blank	...Is what I'd say if I'd chosen another cosplay.
+	nico	explaining	You see, Rangers are all about the "power of friendship." Not the "power of friendship with benefits" or the "power of relationship."
+	nico	default	Sorry, but I have to stay in character!
+
+>>>	failure_nico3
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	nico
+	narrator		You finally gather your courage and ask Nico to go to the con afterparty with you...
+>layout	solo	nico
+>outfit	nico	spock
+>special_command	specialstufftag	nicocosplayspock
+	nico	blank	You desire a romantic entanglement with... me?	NC_questionwhat
+	nico	surprised	But I am a Vulcan! And love, like all feelings, does not align well with Vulcan philosophy.
+	nico	thinking	I'm sorry, %CURRENTPLAYERNAME%. Wait, no: regret is also a feeling, so I can't be sorry!
+	nico	surprised	Phew, you almost made me break character! I'd better leave.
+	nico	thinking	Sorry again! I mean, not sorry!
+
+>>>	failure_liam1
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	liam
+	narrator		You finally gather your courage and ask Liam to go to the con afterparty with you...
+>layout	solo	liam
+	liam	smile	Oh, %CURRENTPLAYERNAME%. I commend you for your good taste.
+>special_command	specialstufftag	batliam
+	liam	thinking	However, if I have learned anything at this con, it's that I'm still young.
+	liam	talking	I may have lived for centuries, but I still have so much to learn; so many lifestyles to explore!	Lex_talking
+	player	default	...Do any of those lifestyles involve a date with me?
+	liam	unimpressed	No.	L_nope
+
+>>>	failure_liam2
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	liam
+	narrator		You finally gather your courage and ask Liam to go to the con afterparty with you...
+>layout	solo	liam
+	liam	disgust	Ugh, the afterparty... such an unoriginal finale to this experience!	L_mainstream
+>special_command	specialstufftag	batliam
+	liam	disgust	And you want me to attend as part of a [i]couple[/i]? It can't get more conventional than that!
+	player	default	But... but... there'll be appetizers!
+	liam	thinking	Hmm... that sounds like something I'd enjoy criticizing. I may attend after all.
+	player	default	With me?
+	liam	default	No.	L_nope
+
+>>>	failure_liam3
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	liam
+	narrator		You finally gather your courage and ask Liam to go to the con afterparty with you...
+>layout	solo	liam
+	liam	thinking	Well, I commend you for your good taste. But I can't.	L_nope
+>special_command	specialstufftag	batliam
+	liam	smile	You see, after "Liam Prom", I've become a somewhat popular figure at this con.
+	liam	talking	In order to avoid the public eye, I'll have to attend incognito.
+	player	default	So? We can avoid the public eye together!
+	liam	default	No offense, %CURRENTPLAYERNAME%, but you're not well known for your discretion.
+	player	default	WHAT?! I CAN BE DISCREET! I'LL BE THE DISCREETEST!
+	liam	unimpressed	...Sorry, but no.	Lex_unimpressed
+
+>>>	failure_omen1
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	omen
+	narrator		You finally gather your courage and ask Omen to go to the con afterparty with you...
+>layout	solo	omen
+	omen	evil	You wish to go on a date? HA! That is humorous!	O_haexc
+	omen	laugh	Nay, it is not merely humorous: it is the apex of buffoonery! HAHA!
+	omen	laugh	HAHAHA! Indeed, it is risible! SO RISIBLE! HAHAHAHA!	Oex_laugh
+	omen	confident	Thank you, %CURRENTPLAYERNAME%! I have not laughed like that in over a century!
+
+>>>	failure_omen2
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	omen
+	narrator		You finally gather your courage and ask Omen to go to the con afterparty with you...
+>layout	solo	omen
+	omen	surprised	You dare request to engage in ritualized courtship?
+	omen	laugh	HA! I would NEVER stoop so low as to date a puny weakling like you!	O_haexc
+	omen	laugh	The mere suggestion is an affront! You should be grateful I do not crush your weak spine with my single hand!
+	omen	unimpressed	...Wait, I think that was what Liam keeps calling "needless cruelty." I shall attempt to express it with what you call "tact."
+	omen	default	Sorry, I am not interested.	O_farewell2
+
+>>>	failure_omen3
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	omen
+	narrator		You finally gather your courage and ask Omen to go to the con afterparty with you...
+>layout	solo	omen
+	omen	surprised	You are requesting to engage in ritual courtship with me?
+	omen	grumpy	You must be joking. I have been imprisoned for almost a century, and I am finally free!	O_stopnonsense
+	omen	disgust	I am not about to willingly submit myself to the rules and mores of contemporary love!
+	omen	rage	I SHALL NOT BE TIED DOWN! I DEMAND COMPLETE FREEDOM TO FUCK!
+	player	default	Maybe we could have an open relationship?
+	omen	angry	I AM TOO MAD TO ASK WHAT THAT MEANS! BEGONE!	O_begone
+
+>>>	failure_april1			
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	april
+	narrator		You finally gather your courage and ask April to go to the con afterparty with you...
+>layout	solo	april
+	april	thinking	Oh... uh... I can't, sorry. I have something else to do.	APR_sorryno
+	player	default	Aww, dang. What're you doing?
+	april	skeptical
+	uppitymascot	default	Not you, that's for sure.
+	april	yikes	Uh... honk?	APRex_yikes
+
+>>>	failure_april2
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	april
+	narrator		You finally gather your courage and ask April to go to the con afterparty with you...
+>layout	solo	april
+	april	surprised	Oh, %CURRENTPLAYERNAME%...
+	april	shocked
+	nervousmascot	default	Oh my God, we have to reject %HIMHER% now! How do we do that?	APR_nervous_ohno
+	sadmascot	default	This is terrible! %HESHE% %VERB_IS_ARE% gonna start crying, and then I'll start crying!
+	april	broken
+	nervousmascot	default	Oh no, %HESHE% %VERB_IS_ARE% on to us now, we gotta do something quick!
+	psychomascot	default	Let's kill %HIMHER% off and end %HISHER% suffering!	APR_psycho_murder
+	april	nervous	I... uh... I gotta go!
+
+>>>	failure_april3
+>writer	moyano
+>event_type	ending
+>ending_type	failure
+>ending_npc	april
+	narrator		You finally gather your courage and ask April to go to the con afterparty with you...
+>layout	solo	april
+	april	surprised	You want to go to the party with me?	APRex_surprised
+	april	skeptical	Don't you remember I can't date, as per my contract? It's been mentioned several times!
+	player	default	I don't know, I thought you gave me signs.
+	april	surprised	You mean when I winked at you? I was JOKING! I'm a clown!
+	april	skeptical
+	cynicalmascot	default	Great, you don't listen AND you don't get me. What else can you fail at?	APR_cynical_whatsuppose
+	april	nervous	...Oops.
+
+>>>	failure_zoe1
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	zoe
+	narrator		You finally gather your courage and ask Zoe to go to the con afterparty with you...
+>layout	solo	zoe
+	zoe	default	You wanna go to the party with me?
+	zoe	laugh	This is awesome! I'll finally get some real-life rejection experience for my latest angst fic!	Z_fanficcometrue
+	zoe	excited	I gotta write this down while the inspiration's hot!
+>layout	none
+	player	default	...
+>layout	solo	zoe
+	zoe	laugh	Oops, I almost forgot to reject you. Haha! Yeah, sorry, the answer's no.	Z_sorryno
+
+>>>	failure_zoe2
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	zoe
+	narrator		You finally gather your courage and ask Zoe to go to the con afterparty with you...
+>layout	solo	zoe
+	zoe	surprised	You wanna go to the party with me?	Zex_surprised
+	zoe	surprised	Um...
+	zoe	default	"Read at 6:52 pm"
+>layout	none
+	narrator		Did... did she just ghost you in real life?
+
+>>>	failure_zoe3
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	zoe
+	narrator		You finally gather your courage and ask Zoe to go to the con afterparty with you...
+>layout	solo	zoe
+	zoe	surprised	Um... I... oh, sorry! I gotta take this call, it's important.	Z_farewell7
+	player	default	That's not a phone... you're just holding your hand in the shape of a phone by your face.
+	zoe	grumpy	I know, but can't you just pretend it's a real phone call? It'd hurt your feelings way less than me rejecting you outright.	Zex_grumpy
+	zoe	laugh	Heyyy, Erica! It's been too long!
+>layout	none
+	narrator		Zoe leaves to finish her "phone call", while your own phone remains silent... forever.
+
+>>>	failure_none1
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	none
+	narrator		Seriously? You're not asking ANYONE to the party?
+	narrator		You're telling me that when presented with the options "Make a Lifelong Connection Maybe" and "Die Alone Definitely", you'd choose the second one?
+	narrator		Fine, it's your life, I guess... but maybe consider getting some perspective. Jeez.
+
+>>>	failure_none2			
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	none
+	narrator		You didn't ask anyone to go to the con afterparty with you.
+	narrator		You were just too nervous! What if they said no? What if everyone laughed at you and your pants fell down?!
+	narrator		No, much better to accept disappointment now than risk rejection... right?
+
+>>>	failure_none3
+>writer	quinn
+>event_type	ending
+>ending_type	failure
+>ending_npc	none
+	narrator		You didn't ask anyone to go to the afterparty with you.
+	narrator		As a fourth-wall-breaking game dev, I have to assume that means you didn't like any of the characters we presented to you, and I take offense to that.
+	narrator		You seriously couldn't get into ANY of them? Like, Liam I can understand, but NONE OF THEM???
+	narrator		Pfft. Fine. Keep your high standards, jerk.
+
+>>>	finalfail1
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		The pain of loneliness was too much. You decided to move to Scotland and become a goatherd.
+	narrator		You fully isolated yourself from society. You grew your own crops and wiped your ass with reusable toilet paper made from goat wool.
+	narrator		And when the solitude was too much to bear, you carved a wooden dildo from a pine tree and did what you must.
+	narrator		And no, it's NOT sad! Everyone ELSE is just sad that they don't have goats to herd, or a wooden dildo to -- [sha]AHHHHHH! SPLINTER![/sha]
+
+>>>	finalfail2
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		As soon as you're rejected, you feel literally heartbroken. As in, your heart is shattered and the shards are jiggling inside your chest.
+	narrator		You go to the doctor, who tells you you have a very rare, inoperable heart condition. It's called "%CURRENTPLAYERNAME% Heart".
+	narrator		You spend the rest of your life hearing that annoying jiggling sound. Guess you should have done more cardio before getting rejected!
+
+>>>	finalfail3
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		You refuse to admit your rejection ever happened, so you decide to act as if time had stopped for you.
+	narrator		You stay frozen in place at the con, long after it's dismantled and replaced by a shopping mall.
+	narrator		The architects decide to build a fountain around you, and you become the centerpiece of "The Rejection Fountain".
+	narrator		As part of a new superstition, customers start throwing coins in the fountain, wishing to never meet your fate.	
+
+>>>	finalfail4
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		While everyone else enjoyed the party, you glumly packed your bags and boarded the bus to go home.
+	narrator		But you accidentally boarded a party bus for swingers. Everyone was hot and heavy for each other.
+	narrator		However, the stench of loneliness and rejection clung to you so hard that nobody wanted to include you in the fun.
+	narrator		Wow, rejected multiple times in one day! That's gotta be a new record for you.
+
+>>>	finalfail5
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		None of your friends looked at you the same way after you failed to find a companion for the party.
+	narrator		Doug never said anything outright, but his looks of pity were almost too much to bear.
+	narrator		Zoe made a new character called "Forever Alone Liam". He has your hairstyle.
+	narrator		Omen laughed in your face and said, "I WILL NEVER LOOK AT YOU THE SAME WAY AFTER YOU FAILED TO FIND A COMPANION FOR THE PARTY!"
+	narrator		Ouch.
+
+>>>	finalfail6
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		And so, you finished the con alone.
+	narrator		At least you bought a dakimakura to keep you company at night.
+	narrator		But your pillow friend always seemed distant from you... never warm, never friendly... almost as if it could sense that you're a loser.
+	narrator		You know the phrase "alone in a crowded room"? Well, you're alone in your own crowded bed. Sigh.
+
+>>>	finalfail7
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		Rejection hurts, so you bought a self-help book to help you through these trying times.
+	narrator		It's called "The 5 Stages of Rejection Grief: How to accept that you're going to die alone".
+	narrator		The first few chapters were pretty good, but then the book suddenly started begging "Jessica" to "come home, I can't do this without you, please please please."
+	narrator		Maybe acceptance is a pipe dream. At least you and the author can cry over Jessica together.
+
+>>>	finalfail8
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		You decided to hone your suffering into something constructive and learn to use a sword.
+	narrator		Now you can tell people, "while you were busy finding love, I was studying the blade", which'll make it sound like you did it on purpose!
+	narrator		Unfortunately, you're even worse at swordplay than you were at finding a party date, and you ended up cutting your own ear off.
+	narrator		Now you're alone, bad at swords, AND minus an ear. Three fails for the price of one!
+
+>>>	finalfail9
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		Misery loves company, so you joined a support group for people who got rejected by their con crushes.
+	narrator		You were hoping this would be an opportunity to make friends, but all anyone wanted to do is talk about their missed opportunities to find nerdy love.
+	narrator		It's like the worst kind of first date where all your date will talk about is their ex, except it's with ten people.
+	narrator		And you're one of them... yikes.
+
+>>>	finalfail10
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+	narrator		You drowned your lonely sorrows at the bottom of the bottle... a bottle of milk, that is!
+	narrator		It's "Loveless Larry's Rejection Milk", guaranteed to fix your broken heart or your money back!
+	narrator		This was a bad way to find out you're lactose intolerant.
+	narrator		You don't get your money back, either. Loveless Larry only promised to fix your heart, not your colon. RIP.
+
+>>>	finalfail11
+>writer	moyano
+>event_type	ending
+>ending_type	finalfailure
+	narrator		You want to shake off the feeling of rejection, so you start filling out every application you find in the hopes that SOMEONE will accept you.
+	narrator		You apply for a mortgage, a PhD scholarship, and a Belgian passport.
+	narrator		Sadly, you're broke, you don't have a college degree and you're not Belgian, so you get rejected three more times.
+	narrator		Now you think of your rejection every time you see a house, a college sweatshirt or a waffle. Fuck, you used to love waffles!
+
+>>>	finalfail12
+>writer	moyano
+>event_type	ending
+>ending_type	finalfailure
+	narrator		The pain of rejection is too much to bear, so you pretend it never happened.
+	narrator		You pretend so hard that, whenever someone asks how the con was, you say "What con? I've never been to a con!"
+	narrator		You get so addicted to denial you start denying everything. You deny ever being at a con, a road trip, summer camp... even Spooky Academy.
+	narrator		Wow, you basically erased our entire franchise out of spite. Thanks.
+
+>>>	finalfail13
+>writer	moyano
+>event_type	ending
+>ending_type	finalfailure
+	narrator		You refuse to believe this happened to you, so you decide to forego your previous identity.
+	narrator		You stop responding to the name "%CURRENTPLAYERNAME%" and become "Skronk the Destroyer," which sounds much cooler.
+	narrator		Unfortunately, your awesome name intimidates everyone you meet, so you have an even harder time meeting people.
+	narrator		When you try to go back to your previous identity, the DMV has erased all your records. Guess you're stuck with your terrifying identity, Skronk!
+
+>>>	finalfail_none1
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+>ending_npc	none
+	narrator		That was the last time you could bring yourself to show your face at a con.
+	narrator		In fact, you pivoted away from nerd culture so hard that you ended up throwing yourself into sports.
+	narrator		Sadly, you're almost as bad at sports as you were at going to the afterparty alone.
+	narrator		Sigh...
+
+>>>	finalfail_none2
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+>ending_npc	none
+	narrator		Instead of going to the party, you turned on a shojo anime to fill the lonely void in your heart.
+	narrator		The protagonist of the anime is also nervous about rejection, but they learn to accept failure as a part of life that shouldn't stop you from chasing your dreams.
+	narrator		Dang, you really could've used that lesson a few hours earlier.
+
+>>>	finalfail_none3
+>writer	quinn
+>event_type	ending
+>ending_type	finalfailure
+>ending_npc	none
+	narrator		You accepted loneliness as part of your personal brand.
+	narrator		You tried to go the way of the tiger: solitary, stealthy, majestic...
+	narrator		Unfortunately, you couldn't pull it off, and you also got kicked out of the tiger exhibit at the zoo. Womp womp.
+
+>>>	secretending_dates_miranda			
+>writer	quinn			
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	miranda
+>action	1		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you've already got your heart set on an adorable mermaid!
+>layout	solo	miranda
+	miranda	kawaii	A party, you say? I would be delighted to attend!
+	miranda	thinking	What sort of party is it? A coronation? A royal birth?
+	miranda	evil	Ooh, is it an execution? I've been looking for an excuse to use my bloodletter's breadknife!
+	player	default	Uh... no. It's just a casual, low-stakes party for all the con attendees.
+	miranda	thinking	Hmm... all right. Can I still bring my breadknife?
+	player	default	Totally!
+
+>>>	finalsuccess_miranda			
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	miranda
+>action	1		Afterparty
+	narrator		The afterparty was splendiferous!	Player_dateromantic
+	narrator		You and Miranda spent the evening showing all the lowly peons on the dance floor what a proper waltz looks like.
+	narrator		They gave you weird looks 'cause you were waltzing to the DJ's EDM music, but that's their fault for being uncultured.
+	narrator		At the end of the night, you gave Miranda a classy kiss on the hand, which evolved into some less-classy kisses on the lips. Huzzah!
+
+>>>	secretending_dates_sawyer			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	sawyer
+>action	1		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because Sawyer has already galloped their way into your heart!
+>layout	solo	sawyer
+	sawyer	thinking	A party? I dunno...
+	sawyer	bummed	I'd like to go a date with you, but parties aren't really my scene.
+	sawyer	blush	I guess I could view it through the lens of me being a quiet bunny watching a herd of loud, drunk horses cavort in my meadow...
+	player	default	Would... would that make you want to go?
+	sawyer	default	Yeah, why not?
+
+>>>	finalsuccess_sawyer
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	sawyer
+>action	1		Afterparty
+	narrator		The afterparty was the best!	Player_dateromantic
+	narrator		You and Sawyer spent the evening talking about anything and everything.
+	narrator		Your visit to Spooky Con was so manic and chaotic that it was nice to bask in Sawyer's quiet, easygoing vibes.
+	narrator		And when they shyly took your hand, it's like the world stopped turning and you finally knew peace.
+
+>>>	secretending_dates_freehugs			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	freehugs
+>action	2		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you've already fallen for an adorable love-bug!
+>layout	solo	freehugs
+	freehugs	default	Aww, yeah! I'd love to go to the party with you!
+	freehugs	confused	Should I bring my sign, or should I keep my hugging... monogamous?
+	player	default	Bring the sign! Share the love!
+	freehugs	friendly	Yayyy! I'm so glad you get me! <3
+
+>>>	finalsuccess_freehugs
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	freehugs
+>action	2		Afterparty
+	narrator		The afterparty was wonderful!	Player_dateromantic
+	narrator		Bruce's trademark positivity was infectious as always. He had everyone in a great mood!
+	narrator		His hugs were a big hit as well. You're pretty sure the entire party joined you for a group hug at one point!
+	narrator		But none of that compared to the sweet, special hugs he gave you... among other things. Wink!
+
+>>>	secretending_dates_gerard			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	gerard
+>action	1		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you've already got your eye on a grumpy emo boy.
+>layout	solo	gerard
+	gerard	resentful	The con afterparty? Are you serious?
+	player	default	C'mon, it'll be fun!
+	gerard	thinking	Hmph...
+	player	default	If you go, I'll ask the DJ to play "Welcome to the Black Parade".	
+	gerard	default	You drive a hard bargain, %CURRENTPLAYERNAME%... but okay.
+
+>>>	finalsuccess_gerard
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	gerard
+>action	1		Afterparty
+	narrator		The con afterparty was okay, you guess...	Player_dateromantic
+	narrator		Just kidding, it rocked!
+	narrator		You and Gerard had some drinks, talked about his feelings (a LOT), and you even got him to do an awkward little bounce on the dance floor!
+	narrator		When he dropped you off at the end of the night, he was forced to admit that the party was "a lot less terrible than he thought it would be."
+	narrator		And then he kissed you, which was NOT TERRIBLE AT ALL. Swoon!
+
+>>>	secretending_dates_kale			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	kale
+>action	0		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you'd much rather go with your best bud Kale!
+>layout	solo	kale
+	kale	thinking	An afterparty? Hmm, I don't normally like parties all that much...
+	player	default	I can almost guarantee you that there will be Pokemans cosplayers and weed there.
+	player	default	Maybe even both at the same time.
+	kale	smile	Say no more. Let's party!
+
+>>>	finalsuccess_kale
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	kale
+>action	0		Afterparty
+	narrator		The afterparty was great!	Player_dateplatonic
+	narrator		Kale was feeling a bit overwhelmed by the festivities; but that was nothing that couldn't be solved with some nice green.	
+	narrator		After getting stoned, you decided to ditch the dancing for some Pokemans action.	
+	narrator		A small group of party attendees even joined you! It made some sense since, while this was a party, it was still a nerd-populated, con-adjacent party.	
+	narrator		The small Pokemans session was much more Kale's speed... it was quite the nice evening together.	
+
+>>>	secretending_dates_mamimi			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	mamimi
+>action	2		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because Mamimi's the only oni for you!
+>layout	solo	mamimi
+	mamimi	judging	The afterparty, huh?
+	mamimi	eyebrows	Sure.
+	player	default	Whoa... you're saying yes? Just like that?
+	mamimi	eyebrows	Yup.
+	mamimi	winky	See you there, hot stuff.
+
+>>>	finalsuccess_mamimi
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	mamimi
+>action	2		Afterparty
+	narrator		The afterparty was dope!	Player_dateromantic
+	narrator		Mamimi dance-battled anyone who dared to face her. She killed it, every time.
+	narrator		Her competitive streak is truly a force of nature... she even kisses like she's trying to win at making out.
+	narrator		Not that you're complaining!
+
+>>>	secretending_dates_scott			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	scott
+>action	0		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because there's a very good boi that you'd much rather invite!
+>layout	solo	scott
+	scott	default	Yeah, I'd love to go to a party with you!
+	scott	thinking	Should we wear matching shoes?
+	player	default	Uh... why?
+	scott	laugh	So everyone knows we're best buds, of course! Only best friends have matching shoes!
+	player	default	Okay, why not? Let's go to the shoe store.
+	scott	eureka	WOOHOO!
+
+>>>	finalsuccess_scott
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	scott
+>action	0		Afterparty
+	narrator		The afterparty was so much fun!	Player_dateplatonic
+	narrator		You and Scott looked fresh to death in your matching shoes.
+	narrator		Everyone was all, "Hey, nice shoes!" And you were all, "Thanks, but you should see the other guy's."
+	narrator		And then Scott was all, "It's me! It's me! I'm the other guy! Look at my shoes! Wanna see how fast I can run in them?!"
+	narrator		Ah, Scott... has there ever been a more lovable goof? You doubt it!
+
+>>>	secretending_dates_vera			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	vera
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you're already stone-hard for a certain gorgon, if you know what I mean.
+>layout	solo	vera
+	vera	eyeroll	The con afterparty, huh? I guess that sounds fun.
+	vera	disgust	But you're not going to wear THAT, are you?
+	vera	annoyed	I'm not going to be seen with a date that's anything less than a twelve out of ten. C'mon, we're going to the mall so I can dress you.
+	vera	eyeroll	You'll also be buying me a new designer handbag for my troubles.
+	player	default	Yes, ma'am!
+
+>>>	finalsuccess_vera
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	vera
+>action	3		Afterparty
+	narrator		The afterparty was fun, but your night was even better!	Player_datenaughty
+	narrator		Vera indulged the party for about an hour, then declared she was "all nerded out" and took you to a classy cocktail lounge.
+	narrator		One drink turned into several, which turned into making out, which turned into a bathroom rendezvous, and...
+	narrator		Well, I'll say this: that stall door will probably never recover from the pounding it took that night. Wink!
+
+>>>	secretending_dates_veravalerie_hidden			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	vera
+>action	0		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because none of them are as cool as your sister Vera!
+>layout	solo	vera
+	vera	shock	You're inviting ME to the afterparty?
+	vera	eyeroll	I mean, I'll go, but I'd've thought you'd wanna take a date.
+	player	default	Eh, dates come and go. But the Oberlins are forever, aren't we?
+	vera	laugh	Ha! You know it, bitch. Let's go.
+
+>>>	finalsuccess_veravalerie_hidden
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	vera
+>action	0		Afterparty
+	narrator		The afterparty rocked!	SK_datevera
+	narrator		You and Vera pretended that you were con employees collecting ticket money at the door.
+	narrator		The party was actually free to enter, but you two know a thing or two about fooling people.	
+	narrator		You later ran the same racket at the bathroom door, and again when people tried to exit the party in the wee hours of the morning.
+	narrator		Siblings who scam together stay together!
+
+>>>	secretending_dates_fanzine			
+>writer	quinn			
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	fanzine
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because Yang Yang's already stolen your heart!
+>layout	solo	fanzine
+	fanzine	default	Oooh, the con afterparty?
+	fanzine	happy	I'd love to go!
+	fanzine	scheming	They wouldn't let me book a zine booth there, but they can't stop me from selling them out of my pockets!
+
+>>>	finalsuccess_fanzine
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	fanzine
+>action	3		Afterparty
+	narrator		The afterparty was awesome!	Player_datenaughty
+	narrator		With your help, Yang Yang sold all her zines in the first hour, mostly to people who wanted you two to stop shoving zines in their faces.
+	narrator		She spent the rest of the night in a great mood, and after the party, she took you back to her place, and one thing led to another...
+	narrator		You may not be super into DIY stuff, but you surely experimented a bit with DYYY: "Do Yang Yang Yourself!"	
+
+>>>	secretending_dates_puppet			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	puppet
+>action	2		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because a certain puppet has already pulled on your heartstrings.
+>layout	solo	puppet
+	puppet	smile	Hey, pal! Good to see ya.
+	puppet	default	The afterparty? I'm totally game!
+	puppet	teasing	Just don't get jealous when I show you up on the dance floor. Hahaha!
+
+>>>	finalsuccess_puppet
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	puppet
+>action	2		Afterparty
+	narrator		The afterparty was super fun!	Player_dateromantic
+	narrator		Wendy joined you for some of the festivities, but she tapped out around 10 p.m., and then Wyatt was all yours.
+	narrator		He seemed relieved to be alone too, because things got hot and handsy pretty quick...
+	narrator		That night, the puppet truly became the puppeteer... of you!
+
+>>>	secretending_dates_susanne			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	susanne
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because Susanne has already thundered her way into your heart!
+>layout	solo	susanne
+	susanne	smile	FUCK YEAH! I'd love to go to a party!
+	susanne	default	How much booze should I bring?
+	player	default	Oh, I think there'll be a bar--
+	susanne	winky	But the bar of Susanne is free, baby! I'll sneak a few flasks of rum in my bra.
+	susanne	smile	Let's take this party by storm!
+
+>>>	finalsuccess_susanne
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	susanne
+>action	3		Afterparty
+	narrator		The afterparty was incredible!	Player_datenaughty
+	narrator		Susanne picked you up on her motorcycle, and you two made quite an impression on all the other nerds in their Honda Civics.	
+	narrator		When it was over, Susanne proposed going back to relax at her hotel room... but that just proved to be the calm before the storm.
+	narrator		By the time she was done with you, you were harder than a category-5 earthquake and wetter than a hurricane!
+	narrator		...Is that enough weather metaphors? You get the gist. You fucked. Woohoo!
+
+>>>	secretending_dates_zorrito			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	zorrito
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because you'd rather take a chance on that sexy beanpole, Yi Feng!
+>layout	solo	zorrito
+	zorrito	default	Oooh, the afterparty? I suppose I can make an appearance.
+	zorrito	whatever	Or maybe I won't come! Who's to say...?
+	player	default	Oh...
+	zorrito	teasing	Only teasing, doll. You can bet on me being there, guaranteed!
+
+>>>	finalsuccess_zorrito
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	zorrito
+>action	3		Afterparty
+	narrator		The afterparty was an absolute delight!	Player_datenaughty
+	narrator		Yi Feng had the bartender make you both mystery cocktails all night. Suffice to say, you partied pretty hard.
+	narrator		Then he invited you back to his place and opened your legs like a mystery box.
+	narrator		There's a 100% chance you got your back blown out. Good for you!
+
+>>>	secretending_dates_faith			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	faith
+>action	0		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because there's a white-haired witch you'd much rather spend time with!
+>layout	solo	faith
+	faith	surprised	A party, you say? It's been quite a while since I've attended one of those...
+	player	default	Don't worry, it'll be fun! I'll hang out with you all night.
+	faith	smile	Okay, it's a deal. Just don't leave my side.
+
+>>>	finalsuccess_faith
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	faith
+>action	0		Afterparty
+	narrator		The afterparty was magical!	Player_dateplatonic
+	narrator		You and Faith chatted, laughed, and danced the night away.
+	narrator		Sure, Faith isn't loud or bombastic, but when you see one of her small smiles, or hear one of her rare jokes, you know you're lucky.
+	narrator		Because you're Faith Fernández's friend, and you wouldn't trade that for anything.
+
+>>>	secretending_dates_tengu			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	tengu
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because a sci-fi-loving tengu has already made her home in your heart!
+>layout	solo	tengu
+	tengu	default	Sure, I'll go to the afterparty with you! I think I can stop in for an hour or two before I hit the rest of the party circuit.
+	player	default	Wait, there are OTHER parties going on that night?
+	tengu	surprised	Riiight, you've only ever come to Spooky Con as an attendee, haven't you?
+	tengu	intense	I'll let you in on a little secret: us featured creators get up to all kinds of mischief when the con doors close. Let me show you how it's done.
+
+>>>	finalsuccess_tengu
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	tengu
+>action	3		Afterparty
+	narrator		The afterparty was stellar!
+	narrator		As promised, Nanase got you into several creator parties and cocktail hours throughout the night.
+	narrator		You ended up staying out until dawn, drinking top-shelf whiskey with comic artists and TV show script writers.
+	narrator		Nanase offered to take you back to your hotel room in her fancy vintage car... but you only made it as far as the back seat.
+	narrator		Shall I tell you how her lips tasted? What her hips felt like? What that long nose can do?
+	narrator		Nah. As any great author will tell you: it's best to show, not tell ;)
+
+>>>	secretending_tenguthreesome
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		The con has come to an end and, while sad, it means it's time for your three-sided date, so... fuck the con.
+	narrator		You're the first to arrive; but not long after, Nanase appears.
+>layout	solo	tengu		
+	tengu	default	Hey there, handsome.
+	tengu	confident	Were you so excited to meet me that you came to the date early?	
+	player		Eh... ah...
+	tengu	default	I'm joking!
+	player		Ah, yeah, of course! HAHA!
+	tengu	confident	I gotta say, you're such a genius. I've always struggled fitting dates in my calendar...	
+	tengu	intense	...who would've thought that the solution to that was combining dates together!
+>layout	duo	tengu,susanne		
+	susanne	default	Look at you two, already having fun without me!
+	tengu	default	Don't worry, you sexy tropical storm! I'm sure tonight there will be enough fun for everyone.
+	susanne	smile	Haha! I like your style!
+>layout	none
+	narrator		And so you embark in the most crowded date you've ever had!
+	narrator		You're a bit worried about the exact mechanics of a date between three people...	
+	narrator		...but in the end you're surprised by how intuitive it turns out to be.	
+	narrator		Susanne and Nanase are both so bold and flirty that you end up feeling incredibly comfortable and confident in turn.
+	narrator		And after some dinner and drinks, you take the date to a hotel room.
+>secretending_picture
+	narrator		That night offers you new, challenging situations that require all your skills and inventiveness...
+	narrator		But in the end, one thing is clear:
+	narrator		The more the merrier.
+
+>>>	secretending_dates_cosplayfixer			
+>writer	quinn
+>event_type	ending
+>ending_type	secretsuccess
+>ending_npc	cosplayfixer
+>action	3		Afterparty
+	narrator		You didn't ask any of your friends to go to the party with you... because there's a certain sexy spider you'd much rather invite!
+>layout	solo	cosplayfixer
+	cosplayfixer	thinking	The afterparty? I didn't really plan on going... I have a few more custom orders to finish up.
+	player	default	C'mon, you've been working hard all weekend. Don't you wanna let off a little steam?
+	cosplayfixer	blushside	Let off steam... with you? Well...
+	cosplayfixer	smirk	Okay, you've convinced me. Let's party.
+
+>>>	finalsuccess_cosplayfixer
+>writer	quinn
+>event_type	ending
+>ending_type	secretfinalsuccess
+>ending_npc	cosplayfixer
+>action	3		Afterparty
+	narrator		The afterparty was a blast!
+	narrator		Sasha enjoyed geeking out over everyone's fancy party attire.
+	narrator		He even gained popularity for bringing safety pins, saving a few people some serious wardrobe malfunctions.
+	narrator		But he showed his real talents later that night in your hotel room. Apparently the only thing he's better at than dressing people is UN-dressing them.
+	narrator		And oh, the things those six hands did to you that night... what a dream!
+
+>>>	secretending_cosplayfixerthreesome
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		The con has come to an end, and, as a self-proclaimed professional matchmaker, you want to check on the two lovebirds you matched.
+	narrator		You don't need to search for long, as they were looking for you too.
+>layout	duo	nico,cosplayfixer
+	nico	thinking	%CURRENTPLAYERNAME%, hey!
+	player		Oh, hi!
+	cosplayfixer	smirk	We wanted to thank you.
+	cosplayfixer	smirk	We're having the best time together, and it's partly thanks to you.
+	nico	default	Absolutely! Sasha and me? It was right in front of our noses, but we didn't see it!
+	nico	excited	But you? You're a visionary!
+	cosplayfixer	smirk	Yes... sometimes the best things are hidden in plain sight, right?
+	player		Aw... I'm so happy for you two.
+	nico	thinking	Totally, totally... but also, you know...
+	cosplayfixer	blushside	(C'mon, Nicky, tell %HIMHER%.)
+	nico	thinking	Yeah, yeah... you see, we were talking the other day... and we sort of remembered how you sort of joked about joining us?
+	nico	thinking	We were all like, "%HESHE% was clearly just joking", but...
+	cosplayfixer	thinking	We wanted to make sure it wasn't a real suggestion. Because if it was, maybe we'd want to take you up on it.
+	nico	surprised	But it's okay if it was a joke! We'd be okay with that too!
+	player		Oh... uhm... I was sort of half-joking? You know, a bit of a "JK, unless..."
+	player		But I would never want to interfere between you two.
+	nico	happy	Oh, pffft! You wouldn't be interfering!
+	cosplayfixer	smirk	Yes. We talked about this and, if anything, we thought it could be fun to... you know... have you come between us.
+>layout	none
+	narrator		Oh, my!
+	narrator		The three of you meet up later that week.
+	narrator		At first you worry it'll be a bit awkward, but you're surprised at how natural it turns out to be!
+	narrator		You're just having a fun night with your good friend Nico, and with Sasha, who you were already getting to know over these past few days.
+	narrator		So, in the end, it's just like meeting a couple of good friends!
+	narrator		Well, with one exception:
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		The night ends in a way that feels... a tad more than just friendly.
+	narrator		It's... simply delicious. The chemistry between these two is undeniable, and it surely translates into bed.
+	narrator		And they're incredibly welcoming to you. At some point you can feel eight different arms around you!
+	narrator		You wonder where this could go: will it be a one-time thing? Maybe you can become an official friend-with-benefits for these two? Or even get into throuple territory?
+	narrator		Ah, those are thoughts for your future self. Tonight, you decide to just go with the flow and plunge yourself into pleasure.
+
+>>>	secretending_aprilegg
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite clown to go to the con afterparty with you...
+>layout	solo	april
+	april	thinking	The afterparty, huh?
+	april	wink	I'm surprised you're not inviting "Little April."	APRex_wink
+	player	default	Haha, nah, I've put that phase behind me now.
+	april	sing	Well that's good, because I do really like you.
+	player	default	...!
+	april	happy	So, how about I pick you up at eight? Honk honk!	APR_honkhonkquestion
+>layout	none
+	player	default	Yes!!!
+>background	normal	aprilegg
+	player	default	We did it, old friend!
+>background	normal	normal
+	narrator		The afterparty was great, but the end of the night was even better.
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		April took you back to her place and showed you a good time in her "balloon room." It was a sight to behold.	APR_ending_egg
+	narrator		In a way, you're grateful for all the hoops you had to jump through to date her, since they led to this night of warm, balloon-ey bliss.
+	narrator		And soon after the con was over, you and April went together to give Little April to the clown egg registry. It was a tearful farewell.
+	narrator		Honk honk!
+
+>>>	secretending_aprilfreedom
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		The afterparty can wait. April's been through a LOT these past few days. You decide to check in and ask how she's feeling.
+>layout	solo	april
+	april	wink	Aww, thanks for asking, silly goose. I'm doing okay, I think.	APR_sillygoose
+	april	thinking	It's a little bittersweet, giving up my chance at stardom...
+	april	nervous	But you were right. All those contracts and restrictions were fucking with my head.
+	player	default	Dang, it's weird hearing you swear instead of a mascot.
+	april	cheerful	I know, right?	APRex_cheerful
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		That was the first day of the rest of April's life.
+	narrator		She started all over again, making sure her new journey was healthier than the last one.
+	narrator		In time, new collaborations and contracts came to be; but this time she made sure they weren't the fucking worst, always putting herself first.
+	narrator		These days you can find her performing at local bars, and her new Twatch channel has a small but earnest fanbase.
+	narrator		And one thing's for sure: you're always in her corner, cheering not for "April First", but for April, your dear friend.
+
+>>>	secretending_dougboomerang
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...
+>layout	solo	doug
+	doug	blush	Really? I mean, I'm flattered, but I'm surprised you'd wanna go to the party with a dork like me...	DOU_notcomplainingbut
+	player	default	Don't you get it, Doug? I like you BECAUSE you're a dork.
+	doug	surprised	You do?
+	player	default	Of course! You don't need to be some hotshot boomerang guy to get people's attention.
+	player	default	People love you because you're... well, you!
+	doug	bliss	...Thank you, %CURRENTPLAYERNAME%. I really needed to hear that.	DOU_awwwhappy
+>layout	none
+	narrator		And so, you two went to the afterparty.
+	narrator		Doug had a blast. It brought you enormous joy to see him come out of his shell.
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		And it brought you even MORE joy when you two went back to the hotel and he came out of his clothes!	DOU_ending_boomerang
+	narrator		It turns out Doug's just as appealing on the outside as he is on the inside. He's truly the total, adorkable package!
+
+>>>	secretending_dougmmorpg
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You go searching for Doug to invite him to the afterparty and find him gaming with The Funky Bunch.
+>layout	solo	doug
+	doug	hyped	Doug, I want you to guard Wyatt and Wendy's position in the backline. Justine and I will take point. Let's do this!	DOUex_hyped
+>layout	duo	doug,knightress
+	knightress	fist	We shan't fail you, Captain!
+>layout	trio	doug,knightress,divorcee
+	divorcee	smile	Let's kick some butt!
+>layout	quartet	puppet,doug,knightress,divorcee
+	puppet	teasing	I'll make sure to grab your loot if you all die.
+>layout	quartet	puppetsister,puppet,doug,knightress
+	puppetsister	surprised	Oh, %CURRENTPLAYERNAME%'s here!
+	player	default	Yeah, here goes... Doug, will you be my date to the afterparty tonight?
+	doug	shocked	YOU'RE asking ME out?!	DOUex_shocked
+	doug	shocked	Oh, gosh... I never thought this day would come... I thought I'd be wearing something nicer...!
+	puppet	smile	Just say yes, ya goober! We all know how bad you want %HIMHER%.
+>layout	quartet	puppet,doug,knightress,divorcee
+	divorcee	smile	Yes, go to %HIMHER%! There's no greater joy than young love. Enjoy it while you can.
+	doug	surprised	But what about the raid? We were thinking it'd take us all night...
+	knightress	default	Fear not, Captain. I shall lead the fight valiantly in your absence. Tonight, your quest is love.
+	doug	excited	Awww, thank you all so much. %CURRENTPLAYERNAME%, let's do this thing!	DOUex_excited
+>layout	none
+	narrator		You and Doug had a fantastic time at the con afterparty. But more than that, you had a fantastic time at the con meeting his guild.
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		True friendship can be hard to find, which is what makes the internet a beautiful thing.	DOU_ending_mmorpg
+	narrator		In real life, Doug can be unsure, cautious, and timid. But when he's leading The Funky Bunch, he shines in his role as their fearless leader.
+	narrator		And in turn, his friends prop him up and make him into the kind of person they know him to be; the best version of himself.
+
+>>>	secretending_liamttrpg
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite vampire dork to go to the con afterparty with you...
+>layout	solo	liam
+	liam	default	Sorry, %CURRENTPLAYERNAME%, but I'm going to have to decline. I'm busy this evening.
+	liam	smile	You see, me and the others from the W&W group have decided to turn our little oneshot into a weekly campaign.	Lex_smile
+	liam	talking	I'd love to have you join us, if you're interested.
+	player	default	Totally!
+	liam	blush	Excellent. Your character was a highlight of the group. Normally I abhor shenanigans, but somehow, in my campaign, yours felt... healing.
+	liam	glasses	The session starts tonight at six. Don't be late.	L_farewell7
+>layout	none
+	narrator		So, you ditched the afterparty to play board games with Liam. Did you really expect this to go any other way?
+	narrator		However, when the game ended, one thing you [i]didn't[/i] expect was... FOR LIAM TO HAVE SEX WITH YOU?!
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		That's right! Having everyone's rapt attention on him as GM must've gotten him all hot and bothered!	L_ending_sexy
+	narrator		You're glad you two could share this experience: playing games, rolling dice, processing Liam's trauma through the veneer of TTRPGs...
+	narrator		But more than that, you're glad you got to fuck him in that Angelus costume. Time to cross that off the ol' bucket list!
+
+>>>	secretending_liamjojo
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You track down Liam to ask him to go to the con afterparty with you, but it seems he was looking for you too...
+>layout	solo	liam
+	liam	smile	Ah, %CURRENTPLAYERNAME%, here you are.	L_greetings4
+	liam	blush	I wanted to apologize for getting so intense about JoJo.
+	liam	talking	You know I... can get very passionate when I get into a new thing.
+	liam	thinking	And this wasn't even me at my worst! You should've seen me when I went through my Proust-head phase...
+	liam	suspicious	I would get so mad if people even considered skipping parts of "À la recherche du temps perdu".	Lex_suspicious
+	player	default	It's okay, Liam! Your passion is what I like about you.
+	player	default	And at times you even looked kinda cute, getting all intense about JoJo.
+	player	default	Just try not to cross the line that goes from passionate to insufferable, okay?
+	liam	blush	Haha, yeah... thanks for calling me out on that.
+	player	default	Always!
+	liam	blush	So, I was thinking... would you go to the con afterparty with me?	Lex_blush
+	player	default	I was about to ask you the same!
+	player	default	I even thought that, if you wanted, after that we could go to the hotel room and...
+	player	default	...watch some JoJo.
+	liam	excited	YES! YES! YES! YES!	Lex_excited
+>layout	none
+	narrator		The afterparty is a blast. Liam manages to make only one or two JoJo's references!
+	narrator		And the after-afterparty? It was, as some may say, JoJo-licious!
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_liamjojo
+	narrator		It's hella hard to follow the plot. But everything is so absurd, it's actually quite fun to watch!	L_ending_jojoliamjapanese
+	narrator		And above all, you enjoy spending time with Liam, sharing his passions.
+	narrator		At one point you stop watching to look at Liam, entranced by an episode he has probably watched four times already.
+	narrator		It's a treat to see him so focused, so handsome. For a moment, you even feel like... time has stopped.
+	narrator		ZA WARUDO!
+
+>>>	secretending_nicocosplay_a
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite oversexualized mimic to go to the con afterparty with you...
+>layout	solo	nico
+	nico	default	Of course I'll go to the party with you! It's the least I could do.	NC_nowtalking
+	nico	happy	Without you, I never would've won the Cosplay Grand Prix!
+	player	default	Yeah, I did have some pretty good ideas, like "get your nipples out."
+	nico	happy	Haha, you know it!
+	nico	confident	And hey, if you like my nipples so much, maybe I can show 'em to you later... wink!	NCex_confident
+	narrator		You can clearly see their nips right now, but you are NOT going to complain about the subtext of that offer!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_nicocosplay
+	narrator		The party was great, but the sex afterward was even greater.	NC_ending_cosplay_gamegirl
+	narrator		It turns out it's very easy for Nico to get in the "oversexualized character" mindset with the right encouragement... and you were certainly encouraging!
+
+>>>	secretending_nicocosplay_b
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite villain to go to the con afterparty with you...
+>layout	solo	nico
+	nico	default	Of course I'll go to the party with you! It's the least I could do.	NC_nowtalking
+	nico	happy	Without you, I never would've won the Cosplay Grand Prix!
+	player	default	True! You really needed that crash-course in being evil.
+	nico	blank	Yeah. I just hope Evil Nico didn't permanently reshape my psyche...
+	player	default	Well, even if they did... I thought they were pretty hot.
+	nico	confident	Oh? In that case, I'll show you how hot evil can REALLY be!	NCex_confident
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_nicocosplay
+	narrator		The party was great, but the sex afterward was even greater.	NC_ending_cosplay_villain
+	narrator		Evil Nico may be evil, but they're definitely GOOD in bed! Mwahahahaha!
+
+>>>	secretending_nicocosplay_c
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask the con's steamiest cosplayer to go to the con afterparty with you...
+>layout	solo	nico
+	nico	default	Of course I'll go to the party with you! It's the least I could do.	NC_nowtalking
+	nico	happy	Without you, I never would've won the Cosplay Grand Prix!
+	nico	thinking	Or even really known what steampunk is.
+	player	default	...I still don't think I fully understand it, to be quite honest.
+	nico	confident	Who cares? The important thing is that I looked GREAT in that corset.
+	player	default	I think you'd look even better with it off...
+	nico	happy	Haha, you flirt!	NCex_happy
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_nicocosplay
+	narrator		The party was great, but the sex afterward was even greater.	NC_ending_cosplay_steampunk
+	narrator		Getting all of Nico's cogs, gears, whistles, bustles, and buttons off was a kind of foreplay in and of itself.
+	narrator		Maybe that's what steampunk is truly all about: having the steamiest, most convoluted sex known to monsterkind!
+
+>>>	secretending_nicocosplay_d
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask the most delicious pancake you know to go to the con afterparty with you...
+>layout	solo	nico
+	nico	default	Of course I'll go to the party with you! It's the least I could do.	NC_nowtalking
+	nico	happy	Without you, I never would've won the Cosplay Grand Prix!
+	nico	excited	Do you think the DJ will play the 10 hour rendition of the pancake song if I ask?	NCex_excited
+	player	default	Maybe, but don't be offended if it clears out the dance floor.
+	nico	default	That's fine. It gives me more room to do my pancake twerk! Wanna see it?
+	player	default	YES, PLEASE!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_nicocosplay
+	narrator		The party was great, but the sex afterward was even greater.	NC_ending_cosplay_pancake
+	narrator		Sweet, sticky, and with snacks afterward... just the way you like it.
+	narrator		Nico really is the most important meal of the day!
+
+>>>	secretending_nicoattorney
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You track down Nico and ask them to go to the con afterparty with you...
+>layout	solo	nico
+>outfit	nico	attorney
+	nico	determined	The afterparty? I wish I could, %CURRENTPLAYERNAME%, but I've gotta study for my case tomorrow.	NCex_determined
+	nico	confident	A good lawyer is always prepared!
+	player	default	Nico... this has been fun, but you know you're not ACTUALLY a lawyer, right?
+	nico	thinking	Look, I know I don't have all that fancy-shmancy stuff like "a degree to practice law"...
+	nico	explaining	But I've got something better: a will to protect my clients by any means necessary!
+	nico	determined	And with you as my trusty legal aid, we can't lose!
+	nico	hyped	So, won't you come with me to another case? The citizens of Monstropolis are counting on Nico Sharp: Face Attorney!	NCex_hyped
+	player	default	Well... I guess there's room for at least two sequels.
+	narrator		Hey, it's nice to be wanted, and it doesn't seem like you're getting arrested anytime soon... so lawyers it is!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		Nico went on to have many more misadventures in the courtroom.	NC_ending_attorney
+	narrator		They fabricated evidence; they acquitted murderers; they screamed "OBJECTION!" a lot...
+	narrator		It's surely changed Monstropolis' crime world for the worse, but that's a small price to pay to see Nico so happy.
+	narrator		Case closed!
+
+>>>	secretending_omenthwartedpower
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You go looking for Omen to invite them to the party, but they actually end up finding you first.
+>layout	solo	omen
+	omen	laugh	%CURRENTPLAYERNAMECAPS%!!! You will never believe it!	O_glorious
+	omen	evil	Liam actually convinced the Coven to let me take off my cape for a few hours!
+	omen	surprised	Who would have thought that that tedious fucker would actually be good for something?
+	omen	mischievous	This should allow me to channel at least some of my power.
+	player	default	That's incredible, Omen! What spells do you wanna cast first?
+	omen	unimpressed	Actually... I have decided not to cast any magic.
+	player	default	What? But I thought that was the whole reason you wanted to take the cape off.
+	omen	scheming	It was, at first. But now I've realized that there are... [i]other[/i] things I'd rather do without my clothes.	Oex_scheming
+	omen	unimpressed	...
+	omen	unimpressed	I am talking about having sex.
+	omen	shy	With you.
+	player	default	Yeah, no, I got that. I'm in!
+	omen	mischievous	Of course you are! Mwahahaha!	O_mwahaha
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		Considering that they've been out of practice for over 100 years, Omen's surprisingly great in bed.	O_ending_thwarted
+	narrator		You can't believe they gave up their chance to magically turn people inside-out just to fuck you! Maybe they're closer to redemption than you thought?
+	narrator		Or maybe they're just hornier than they are evil. Either way, it's a win!
+
+>>>	secretending_omenredeemed
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You go check on Omen. These last few days have been quite intense for them!
+>layout	solo	omen
+	player	default	Omen, hi! How are you doing?
+	omen	default	Hey, %CURRENTPLAYERNAME%.	O_greetings4
+	omen	confident	I'm... I'm actually doing quite well.
+	player	default	Oh, really?
+	omen	evil	Yeah. Dumb Liam wasn't wrong: facing my past and trying to amend my errors has felt sort of liberating.
+	player	default	That's so nice to hear!
+	player	default	Did you hear from the Slayers?
+	omen	default	Actually, I did. They contacted me earlier today and we had a meeting.
+	omen	default	The Coven apparently vouched for me, so the Slayers have said I might be helpful if I joined them on some of their missions.
+	player	default	Great!
+	omen	default	Also, it seems they have recently learned of a rogue Slayer who has been acting on their own for the past few years.	Oex_default
+	omen	unimpressed	Being a free agent goes against the code of the Slayers, so they are hesitant about how to act on it.
+	omen	confident	But they mentioned that perhaps I could be the one to make contact, since I know the importance of the Slayer ways and have been a rogue Slayer myself.
+	player	default	I was actually meaning to ask... and don't answer if you don't want to... but how come you went rogue?
+	omen	default	Nah, it's okay.
+	omen	bummed	I... I grew impatient.	Oex_bummed
+	omen	default	The Slayers' ways require a lot of trust in the group, and A LOT of patience.	
+	omen	default	Sometimes you must accept that your life's work will be but a tiny cog in the machine that is the Slayers' mission.
+	omen	bummed	Results may only be perceived after several generations.
+	omen	default	And so, once in a while, a Slayer (often a gifted one) will believe that they are different, that they can get things done faster.
+	omen	bummed	I was one of them: I believed I could become the Spear of Monsterkind myself.
+	omen	confident	But if the ways of the Slayers are to be believed, no one is meant to become that themselves. The Spear of Monsterkind is all of us, together.
+	player	default	I see.
+	omen	unimpressed	To fulfill that ambition you must attain power... and power tends to corrupt.
+	omen	bummed	I thought I was different, and yet I ended up the same way as almost all rogue Slayers have.
+	player	default	No, Omen, you didn't end like the other rogue Slayers... because your story is not done.
+	player	default	You've made mistakes, but I've seen you making an effort to change.
+	player	default	So, I could be mistaken, but I choose to believe you are an omen of good things to come.
+	omen	default	%CURRENTPLAYERNAME%...
+	omen	confident	Thank you.	Oex_confident
+>layout	none
+	narrator		You and Omen spend some time together. They seem to be... at peace.
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		They open themself up to you and tell you some of their war stories from back when they were a Slayer.	O_ending_redeemed1
+	narrator		And soon, they make new ones too.
+	narrator		Omen proves themself to be a valuable asset to the Slayers, helping to slowly but steadily move the needle in favor of the forces of good.
+	narrator		And what's most important: they stick to the Redemption Arc Program, even helping others in their process.
+	narrator		This also becomes their own way of showing Liam how grateful they are, without the need to openly admit that he was right.
+	narrator		And you're there by their side, happy to bear witness to their growth.
+
+>>>	secretending_zoeliamprom
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your beloved to go to the con afterparty with you...
+>layout	solo	zoe
+	zoe	shocked	The afterparty's TONIGHT? Aww, man!
+	zoe	surprised	I wish I could go, but tonight's there's a party to celebrate the reveal of the upcoming "Liam Prom" webseries!
+	zoe	happy	You're welcome to come to that, if you want. After all, it couldn't have happened without you.	Zex_happy
+	zoe	sentimental	You totally made my dreams come true!
+	player	default	Awww! It was an honor to help you bring "Liam Prom" to the next level.
+	zoe	happy	What? Oh, yeah, no, that's cool, but I'm talking about my dreams of owning the limited-edition Garfield lingerie!
+	zoe	naughty	Maybe after the launch party, I could... show it to you?	Zex_naughty
+	player	default	Yes, please!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		Ahh, Zoe. What a woman.	Z_ending_sexy
+	narrator		She's many things: a geek, a bestselling writer, a Garfield fanatic, a former deity of destruction and despair...
+	narrator		She's loud, she's confident, and she's unapologetically her weird, wonderful self.
+	narrator		And, most importantly, she's a freak in bed. Hubba hubba!
+
+>>>	secretending_zoeoldones
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You go check on your friends. Your head is still spinning from your recent adventure in the Merkingdom.
+>layout	duo	zoe,liam
+	player	default	That was... something, wasn't it?
+	liam	eyeroll	Quite the understatement.
+	zoe	hyped	But we did it! We kicked the shit out of that loser back into the Nothingness.	Zex_hyped
+	liam	default	Still... it was close. We must become better.
+	zoe	happy	You're not wrong, Liam. But focus on the bright side: your instincts were right with the Redemption Arc Program!	Zex_happy
+	zoe	default	If we hadn't been there, the Coven might not have had the time to go check with Adrien... and then what?
+	zoe	happy	Imagine when people like Gerard, Omen or Nu are ready to join us!
+	liam	thinking	Huh... that's true.	Lex_thinking
+	zoe	laugh	For now, I'd say we were lucky we had %CURRENTPLAYERNAME% with us, weren't we?
+	liam	eyeroll	Uhm... well, I must admit %HESHE% %VERB_WAS_WERE%n't half bad at fixing the drinks.
+	zoe	intense	Liam!
+>layout	none
+>secretending_picture	wide
+>special_command	playeventnamesfxover
+	narrator		You three spend the rest of the evening hyping each other up as you recall the highlights of the mission.	Z_ending_oldones
+	narrator		Then, you fix some drinks, and once you're tipsy, you decide to brainstorm cool names for this new group of anti-heroes.
+	narrator		The room is filled with the lightheartedness so common to the quiet after the storm.
+	narrator		It's nice to think the world is a bit better protected now.
+	narrator		And to think you played a part in saving it today.
+
+>>>	secretending_furryadventure
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You didn't ask any of your friends to go to the party with you... because after everything you've been through with your new pal Franz, how could you take anyone else?
+>layout	solo	furry
+	furry	default	Aww, I'd love to go to the party with you!
+	furry	default	I'm glad you invited me, because I've got a little surprise for you... look what I bought!
+	player	default	OMG!!! Franz, you didn't!
+	furry	default	I sure did! It was the last one on the rack, but I knew how much you wanted it, and it's just perfect for you.
+	player	default	But it was so expensive!
+	furry	default	Don't sweat it, dude. I'm a rocket scientist. I've got plenty of money to throw around.	
+	player	default	WHAT?!
+	furry	default	What, you didn't know about the massive overlap between furries and technicians? How do you think we afford the fursuits, silly?
+	furry	default	Anyway, we'd better get going if we wanna make the party on time. I'm ready to shake my tail on that dance floor!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		Franz Furdinand... what a stand-up fox!	Player_furry
+	narrator		You thought you came to this con to chase love, but in the end, you were chasing the thrill of the fursuit.
+	narrator		Whether or not you become a full-time furry is still up for consideration, but for tonight, you're just going to don your costume and enjoy this weird, wonderful experience.
+	narrator		UwU!
+
+>>>	secretending_beachday
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		Who gives a flying fuck about the afterparty? It's beach day time!
+>layout	trio	liam,zoe,nico
+>outfit	liam	summer
+>outfit	zoe	summer
+>outfit	nico	summer
+	nico	default	Hey, %CURRENTPLAYERNAME%! You ready to go?	NC_greetings1
+	liam	bored	I still can't believe we're doing this.
+	zoe	eyebrows	Well believe it, bitch, 'cause it's time to get sand in our buns!	Zex_eyebrows
+	nico	hyped	And play beach volleyball!
+	zoe	excited	And smash watermelons!
+	liam	eyeroll	And get horrendously sunburnt...	Lex_eyeroll
+	nico	happy	That's the spirit, Liam!
+	zoe	hyped	BEACH DAYYYY!	Z_squee
+>layout	none
+>secretending_picture	wide
+>special_command	playeventnamesfxover
+	narrator		It was truly the beach day to end all beach days.	Player_beach
+	narrator		You swam; you sunbathed; you smashed melons with the best of 'em...
+	narrator		And your friends were even sexier in their swimsuits than you ever could've anticipated.
+	narrator		Cons come and go, but beach episodes? They're one-of-a-kind!
+
+>>>	secretending_liampromultimate_a
+>event_type	ending
+>ending_type	secretending
+>icon_only_npc	narratorzoe
+>layout	none
+	narrator		You finally gather the courage to log into "Liam Prom" and ask your favorite Liam to go to the prom with you!
+>layout	solo	liambuff
+	liambuff	surprised	You wanna go to Liam Prom with... me? The least-Liam of all Liams?	Lex_surprised
+	player	default	You may be the least-Liam to those losers, but you're the Liam who stole my heart.
+	liambuff	shocked	I stole your heart? How?! Don't you need it to breathe?!
+	player	default	Uhh, it was just a metaphor... also, you use your lungs to breathe.
+	liambuff	thinking	Right, right... anatomy's not one of my strong suits.
+	liambuff	glasses	But I'm sure you can give me a more... [i]in-depth[/i] anatomy lesson later.	Lex_glasses
+	narratorzoe		[sin]Ooooh![/sin]
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_liampromultimate
+	narratorzoe		Liam Prom was magical!	L_ending_buff
+	narratorzoe		Buff Liam isn't much of a dancer, but he used you as a barbell and bench-pressed you on the dance floor, which is arguably way hotter.
+	narratorzoe		Not only was this experience fulfilling for you, it was fulfilling for the real-life Liam de Lioncourt, who finally got to play out his secret fantasy of being buff.
+	narratorzoe		He'll thank me one day!
+
+>>>	secretending_liampromultimate_b
+>event_type	ending
+>ending_type	secretending
+>icon_only_npc	narratorzoe
+>layout	none
+	narrator		You finally gather the courage to log into "Liam Prom" and ask your favorite Liam to go to the prom with you!
+>layout	solo	liamscribble
+	liamscribble	default	Prom, eh?
+	liamscribble	thinking	I was already planning to go and dump onion juice on everyone...
+	liamscribble	mischievous	But you can help with that, if you want!	Lex_excited
+	player	default	It's a date!
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_liampromultimate
+	narratorzoe		Liam Prom was a riot!	L_ending_crayon
+	narratorzoe		You and Little Bastard Liam wreaked chaos and havoc all night.
+	narratorzoe		All the other Liams HATED it, which only drove Little Bastard Liam to cause more problems on purpose.
+	narratorzoe		A toast to crimes and misdemeanors!
+
+>>>	secretending_liampromultimate_c
+>event_type	ending
+>ending_type	secretending
+>icon_only_npc	narratorzoe
+>layout	none
+	narrator		You finally gather the courage to log into "Liam Prom" and ask your favorite Liam to go to the prom with you!
+>layout	solo	liamglamrock
+	liamglamrock	blush	Prom? You and me? Hmmm...
+	liamglamrock	smile	I shall give you my answer in the form of song!	L_authentic
+	narratorzoe		What follows is a fifteen-minute, wordless key-tar solo.
+	player	default	...?
+	liamglamrock	eyeroll	Ah, I forgot you don't speak the language of music.
+	liamglamrock	blushside	I said yes.	Lex_blushside
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_liampromultimate
+	narratorzoe		Liam Prom was glamorous!	L_ending_glam
+	narratorzoe		Glam Rock Liam was hired to headline the event. He sang many beautiful, synth-filled songs.
+	narratorzoe		But the best part of the night was when he turned on a pre-recording and joined you on the dance floor for a slow dance.
+	narratorzoe		Glam Rock Liam may hate fame and fortune, but at least he doesn't seem to hate you!
+
+>>>	secretending_liampromultimate_d
+>event_type	ending
+>ending_type	secretending
+>icon_only_npc	narratorzoe
+>layout	none
+	narrator		You finally gather the courage to log into "Liam Prom" and ask your favorite Liam to go to the prom with you!
+>layout	solo	liamhero
+	liamhero	default	You're asking ME to prom?	L_questionwhat
+	player	default	Yup! I mean, I kinda have to, since everyone else is dead.
+	liamhero	thinking	Hmmm, good point.
+	liamhero	smile	Very well, then. I suppose if I had to be at the end of the world with a Liam, I'm glad it's you.	Lex_smile
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover	secretending_liampromultimate
+	narratorzoe		Liam Prom was wonderful!	L_ending_dark
+	narratorzoe		It was just the two of you, so you had all the punch to yourselves!
+	narratorzoe		There was no music, since DJ Liam died, so you and Brooding Post-Apocalyptic Liam slow-danced to the wind whistling through hundreds of dead Liams' skulls.
+	narratorzoe		Who knew the end of the world could be so romantic?
+
+>>>	secretending_carcinization
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		The whole "carcinization" thing has put a damper on the con afterparty... but that doesn't mean you and your friends can't still have fun!
+>layout	trio	omencrab,aprilcrab,zoecrab
+	omencrab	default	I still do not understand. What is a "crab rave"?	Oex_unimpressed
+	aprilcrab	happy	They're all the rage online! Just a bunch of crabs boppin' and jammin'...
+	zoecrab	eyebrows	It's like a Garfield rave, but with seafood instead of lasagna.	Zex_eyebrows
+	omencrab	unimpressed	...And what is a Garfield rave?
+	aprilcrab	skeptical	Omen, I'll make you a deal: you don't ask any more questions, and we'll let you pinch people at the rave.
+	omencrab	mischievous	YESSSS! MY PINCHER YEARNS FOR BLOOD!	O_hahayes
+>layout	none
+>secretending_picture
+>special_command	playeventnamesfxover
+	narrator		FUCK YEAH! CRAB RAVE!
+	narrator		Look at your friends and their silly dance moves!
+	narrator		You realize carcinization may have changed their lives forever... for the worse.
+	narrator		Very likely, most of their plans for the future have been utterly shattered, as they required them to be non-crustaceans.
+	narrator		But whatever, let's not think about it! CRAB RAAAAAAAAAAVE!
+
+>>>	secretending_carcinization_truefail_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		Who are you kidding? Nobody's gonna wanna go to the afterparty with you after you doomed them to a life of crab!
+	narrator		Not that it was really your fault that they turned into crabs... in fact, you tried to warn them about the dangers of carcinization several times...
+	narrator		But still, everyone's mad at you for some reason or other, so no crab dates for you. Boo.
+
+>>>	secretending_carcinization_fail_april_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite clown to go to the con afterparty with you...
+>layout	solo	aprilcrab
+	aprilcrab	skeptical	I appreciate the offer, but... can't you see I'm a crab?	APR_whatthe
+	player	default	I thought something looked different about you!
+	player	default	So, are we going or not?
+	aprilcrab	nervous	Um... no. I'm off to figure out how to stream Minecraft without fingers. Good luck with the rest of your life!	APR_farewell8
+
+>>>	secretending_carcinization_fail_doug_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...
+>layout	solo	dougcrab
+	dougcrab	default	Oh... I'm flattered, %CURRENTPLAYERNAME%, but I don't think it would be right for me to date you in this state.	DOU_dunno
+	dougcrab	sweat	I don't know if this "carcinization" thing is contagious. I wouldn't wanna infect you!
+	player	default	I'm pretty sure it doesn't work like that...
+	dougcrab	thinking	I mean, I'm pretty sure NONE of this is how carcinization works at all, but here we are.
+	dougcrab	happy	But I hope you have fun at the party, staying far away from me!	DOU_farewell2
+
+>>>	secretending_carcinization_fail_liam_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite vampire to go to the con afterparty with you...
+>layout	solo	liamcrab
+	liamcrab	default	Sorry, I can't go. I've got my hands full trying to convince our friends that carcinization can't affect them.	L_nope
+	player	default	Uh... I think that's gonna be pretty hard, considering you all turned into crabs.
+	liamcrab	talking	I've never shied away from a difficult debate before, and I refuse to start now!
+
+>>>	secretending_carcinization_fail_nico_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite mimic to go to the con afterparty with you...
+>layout	solo	nicocrab
+	nicocrab	default	Not now, %CURRENTPLAYERNAME%. I'm getting into character for my hermit crab cosplay!
+	player	default	But... you ARE a hermit crab.
+	nicocrab	happy	Really? The method acting must be working!	NCex_happy
+
+>>>	secretending_carcinization_fail_omen_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite overlord to go to the con afterparty with you...
+>layout	solo	omencrab
+	omencrab	unimpressed	...
+	omencrab	frustrated	[sha]PINCH![/sha]
+	player	default	OW!!!
+	omencrab	mischievous	MWAHAHAHAHA!	O_mwahaha
+>layout	none
+	narrator		Omen scuttles away... guess that's a no.
+
+>>>	secretending_carcinization_fail_zoe_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite eldritch cutie to go to the con afterparty with you...
+>layout	solo	zoecrab
+	zoecrab	default	Sorry, %CURRENTPLAYERNAME%, but I'm not interested in finding love or going to parties anymore.
+	zoecrab	happy	I've fully embraced #CrabLife!	Zex_happy
+	zoecrab	eyebrows	Now, if you'll excuse me, I'm going to get back to writing fanfiction about the minnow and the mollusk that live next to my hidey-hole.
+
+>>>	secretending_carcinization_fail_none_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You don't ask anyone out to the afterparty... but you fail to have a good time on your own.
+	narrator		You spend the whole night wondering when carcinization will come for you.
+	narrator		Are you truly ready for the crustacean way of life?
+	narrator		You were just starting to really like your non-crustacean life... dammit.
+
+>>>	secretending_beachday_fail_april_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite clown to go to the con afterparty with you...
+>layout	solo	april
+	april	thinking	Oh, I'm sorry... I can't... I've got plans already.	APR_sorryno
+	april	wink	Important plans, too... and totally boring... so sorry...
+	player	default	Why are you holding a beach towel and a tube of sunscreen?
+	april	nervous	Suuuuper boring... you wouldn't wanna go... soooo sorry...	APR_farewell12
+>layout	none
+	narrator		She keeps repeating this as she walks backwards out of the convention center, then takes off at a full sprint toward the beach.
+	narrator		Sigh...
+
+>>>	secretending_beachday_fail_doug_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...
+>layout	solo	doug
+	doug	happy	Haven't you heard? None of us are going to the afterparty. We're hitting the beach instead!	DOUex_happy
+	player	default	What?! When was this decided?
+	doug	default	In the group chat, silly! Y'know, the one named "Beach Day (DON'T TELL %CURRENTPLAYERNAMECAPS%)"?
+	doug	shocked	...Whoops.
+	player	default	...
+	doug	sweat	Well, bye!	DOU_farewell6
+>layout	none
+	narrator		He sprints off, presumably toward the beach. You didn't know Doug could run so fast... just like you didn't know your heart could be so broken.
+
+>>>	secretending_beachday_fail_liam_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite vampire to go to the con afterparty with you...
+>layout	solo	liam
+	liam	thinking	Ah, right... you weren't invited to the beach day.
+	player	default	Beach day? Why are you going to the beach when we're at the con?
+	liam	unimpressed	Believe me, I've asked this question SEVERAL times.	Lex_unimpressed
+	liam	eyeroll	But, for once, if everyone else is doing something, it seems Liam de Lioncourt must do it too.
+	liam	thinking	...Well, not EVERYONE else. You're being excluded, of course. No hard feelings.	L_farewell6
+
+>>>	secretending_beachday_fail_nico_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask your favorite cosplayer to go to the con afterparty with you...
+>layout	solo	nico
+	nico	default	Sorry, %CURRENTPLAYERNAME%, I can't. I gotta practice my lifeguard cosplay for the beach!	NC_noway
+	player	default	What? Why are you going to the beach?
+	nico	happy	For the beach day, silly! Y'know, the one you weren't invited to?
+	nico	thinking	Shame about that, but there's nothing to be done. But hey, you can help me rehearse if you wanna feel included.
+	nico	confident	Lay facedown in a bathtub and start drowning. I'll practice saving you!	NC_perfectcosplay
+	narrator		You're too sad to help. You glumly leave Nico to their beach day preparations.
+
+>>>	secretending_beachday_fail_omen_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask Omen to go to the con afterparty with you...
+>layout	solo	omen
+	omen	unimpressed	The afterparty? Oh, thank God. I thought you were going to ask to accompany me to the beach.
+	player	default	Huh? Why would I do that?
+	omen	default	Because myself and the others are going to the beach, and I desperately hoped that you would not be joining us.
+	omen	mischievous	It seems my wish came true!	O_hahayes
+>layout	none
+	narrator		They laugh and leave, and you're left with no date to the afterparty... or to the beach, apparently.
+
+>>>	secretending_beachday_fail_zoe_hidden
+>event_type	ending
+>ending_type	secretending
+>layout	none
+	narrator		You finally gather your courage and ask Zoe to go to the con afterparty with you...
+>layout	solo	zoe
+	zoe	default	Oh, yikes, I can't. Some of us already made plans to go to the beach today.	Z_bigyikes
+	player	default	Can I come?
+	zoe	what	Ummmmm... I think it would be kinda awkward if you did, on account of you not being invited.
+	zoe	default	Sorry, I just don't wanna ruin everyone's fun by bringing you along. I'm sure you understand.	Z_sorryno

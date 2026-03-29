@@ -1,0 +1,401 @@
+>>>	shonen					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_shonen_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25		Event_Comic_ShonenCrowd
+comic_shonen_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_shonen_panel_1_text_es0	label	none	0.0367751,0.2121641,0.8591195,0.9597484	waitinput		
+comic_shonen_panel_2_frame	sprite	tweenfromtop		waitfortween		
+comic_shonen_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_shonen_panel_2_text_es1	label	none	0.3224894,0.4314003,0.8238994,0.9446541	waitinput		
+comic_shonen_panel_3_frame	sprite	tweenfromleft		waitfortween		
+comic_shonen_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_shonen_panel_3_text_es2	label	none	0.00777935,0.09264498,0.1471698,0.3597485	waitinput		
+comic_shonen_panel_4_frame	sprite	tweenfrombottom		waitfortween		
+comic_shonen_panel_4_fx_1	sprite	tweenfrombottom		waittimeaftertween_1	QuickHorizontalShake	Event_Comic_ShonenBell
+comic_shonen_panel_5_frame	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_shonen_panel_5_bubble_1	sprite	tweenfromtop		waittimeaftertween_1.5	ShakeDecay	Event_Comic_ShonenAttack
+comic_shonen_panel_6_frame	sprite	tweenfrombottom		waitfortween		Event_Comic_ShonenPunch
+comic_shonen_panel_6_fx_1	sprite	tweenfromleft		waitfortween	ShakeDecay	
+comic_shonen_panel_6_fx_2	sprite	tweenfromright		waittimeaftertween_1.5	ShakeDecay	
+comic_shonen_panel_6_bubble_1	sprite	tweenfromright		waitfortween		
+comic_shonen_panel_6_text_es4	label	none	0.8041018,0.9908062,0.03270441,0.1295598	waitinput
+
+>>>	magicalgirls					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_magicalgirls_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25		Event_Comic_MagicalGirlsIntro
+comic_magicalgirls_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_magicalgirls_panel_1_text_es0	label	none	0.1380208,0.2213542,0.8777778,0.9851852	waitinput		
+comic_magicalgirls_panel_2_frame	sprite	tweenfrombottom		waitfortween		
+comic_magicalgirls_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_magicalgirls_panel_2_text_es1	label	none	0.3171875,0.3869792,0.9138889,0.9564815	waitinput		
+comic_magicalgirls_panel_3_frame	sprite	tweenfromleft		waitfortween		Event_Comic_MagicalGirlsTransformA
+comic_magicalgirls_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_magicalgirls_panel_3_text_es2	label	none	0.03177083,0.1557292,0.4759259,0.5425926	waitinput		
+comic_magicalgirls_panel_4_frame	sprite	tweenfromright		waittimeaftertween_1.5		Event_Comic_MagicalGirlsTransformB
+comic_magicalgirls_panel_5_frame	sprite	tweenfrombottom		waittimeaftertween_1.0	QuickHorizontalShake	Event_Comic_MagicalGirlsTransformC
+comic_magicalgirls_panel_5_bubble_1	sprite	tweenfromtop		waitfortween	ShakeDecayFast	
+comic_magicalgirls_panel_5_text_es3	label	none	0.4682292,0.5984375,0.8648148,0.9518518	waitinput		
+comic_magicalgirls_panel_6_frame	sprite	tweenfromright		waitfortween		
+comic_magicalgirls_panel_6_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_magicalgirls_panel_6_text_es4	label	none	0.7229167,0.8260416,0.8620371,0.9601852	waitinput		
+comic_magicalgirls_panel_7_frame	sprite	tweenfrombottom		waittimeaftertween_0.5			magicalgirls6
+comic_magicalgirls_panel_7_bubble_1	sprite	tweenfromright		waitfortween		Event_Comic_MagicalGirlsVillain
+comic_magicalgirls_panel_7_text_es5	label	none	0.7229167,0.8322917,0.5092593,0.6074074	waitinput		
+comic_magicalgirls_panel_7_bubble_2	sprite	tweenfromright		waitfortween		
+comic_magicalgirls_panel_7_text_es6	label	none	0.8854167,0.9927083,0.03333334,0.07222223	waitinput
+
+>>>	harem					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_harem_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25		Event_Comic_HaremDoor
+comic_harem_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_harem_panel_1_text_es0	label	none	0.1171875,0.2411458,0.8944445,0.9925926	waitinput		
+comic_harem_panel_2_frame	sprite	tweenfromtop		waitfortween		
+comic_harem_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_harem_panel_2_text_es1	label	none	0.3083333,0.390625,0.9018518,0.9740741	waitinput		
+comic_harem_panel_3_frame	sprite	tweenfromleft		waitfortween		Event_Comic_HaremChimes
+comic_harem_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_harem_panel_3_text_es2	label	none	0.0265625,0.1161458,0.4342593,0.5731481	waitinput		
+comic_harem_panel_4_frame	sprite	tweenfrombottom		waitfortween	ShakeDecayFast	Event_Comic_HaremSlam
+comic_harem_panel_4_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_harem_panel_4_text_es3	label	none	0.4125,0.5260417,0.4777778,0.5666667	waitinput	
+comic_harem_panel_5_frame	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_harem_panel_5_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_harem_panel_5_text_es4	label	none	0.7369792,0.8203125,0.8138889,0.9861111	waitinput	
+comic_harem_panel_5_bubble_2	sprite	tweenfromright		waitfortween		
+comic_harem_panel_5_text_es5	label	none	0.8359375,0.9755208,0.8740741,0.9814815	waitinput	
+comic_harem_panel_6_frame	sprite	tweenfrombottom		waitfortween	ShakeDecayFast	Event_Comic_HaremBolts
+comic_harem_panel_6_bubble_1	sprite	tweenfromright		waitfortween		
+comic_harem_panel_6_text_es6	label	none	0.8364583,0.8979167,0.3064815,0.4157407	waitinput		
+comic_harem_panel_6_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_harem_panel_6_text_es7	label	none	0.865625,0.9697917,0.03611111,0.06203704	waitinput		
+
+>>>	sports					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_sports_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25	QuickHorizontalShake	Event_Comic_SportsWhistle
+comic_sports_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_sports_panel_1_text_es0	label	none	0.1552083,0.2385417,0.8212963,0.9675926	waitinput		
+comic_sports_panel_2_frame	sprite	tweenfrombottom		waitfortween		
+comic_sports_panel_2_bubble_1	sprite	tweenfromright		waitfortween		
+comic_sports_panel_2_text_es1	label	none	0.4364583,0.5010417,0.8462963,0.9759259	waitinput		
+comic_sports_panel_3_frame	sprite	tweenfromleft		waitfortween		
+comic_sports_panel_3_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_sports_panel_3_text_es2	label	none	0.1411458,0.2182292,0.5046296,0.6453704	waitinput		
+comic_sports_panel_3_bubble_2	sprite	tweenfromtop		waitfortween		
+comic_sports_panel_3_text_es3	label	none	0.2625,0.3239583,0.5833333,0.6666667	waitinput		
+comic_sports_panel_4_frame	sprite	tweenfromright		waitfortween		
+comic_sports_panel_4_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_sports_panel_4_text_es4	label	none	0.434375,0.5104167,0.5638889,0.6490741	waitinput	
+comic_sports_panel_4_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_sports_panel_4_text_es5	label	none	0.4442708,0.4921875,0.4722222,0.5074074	waitinput	
+comic_sports_panel_5_frame	sprite	tweenfrombottom		waittimeaftertween_0.01	ShakeDecayFast	
+comic_sports_panel_5_fx_1	sprite	tweenfrombottom		waittimeaftertween_1.0	ShakeDecay	Event_Comic_HaremSlam
+comic_sports_panel_6_frame	sprite	tweenfromright		waitfortween		
+comic_sports_panel_6_bubble_1	sprite	tweenfromtop		waitfortween	ShakeDecayFast	
+comic_sports_panel_6_text_es6	label	none	0.1958333,0.3104167,0.1842593,0.3027778	waitinput		
+comic_sports_panel_7_frame	sprite	tweenfromleft		waittimefromstart_0.25		Event_Shock
+comic_sports_panel_8_frame	sprite	tweenfromtop		waittimefromstart_0.25		Event_Shock
+comic_sports_panel_9_frame	sprite	tweenfromright		waittimefromstart_0.25		Event_Shock
+comic_sports_panel_7_fx_1	sprite	tweenfromtop		waittimefromstart_0.25	QuickHorizontalShake	
+comic_sports_panel_8_fx_1	sprite	tweenfromtop		waittimeaftertween_1.5	QuickHorizontalShake	
+comic_sports_panel_10_frame	sprite	tweenfrombottom		waitfortween		Event_Comic_SportsFinal
+comic_sports_panel_10_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_sports_panel_10_text_es7	label	none	0.5729167,0.6864583,0.5555556,0.6462963	waitinput		
+comic_sports_panel_10_bubble_2	sprite	tweenfromright		waitfortween		
+comic_sports_panel_10_text_es8	label	none	0.8130208,0.9921875,0.08240741,0.2231482	waitinput		
+comic_sports_panel_10_fx_1	sprite	tweenfrombottom		waittimeaftertween_0.5		
+comic_sports_panel_10_text_es9	label	none	2.0,2.0,2.0,2.0	waitinput
+
+>>>	noir					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_noir_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_1.0		Event_Comic_NoirSaxo
+comic_noir_panel_1_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_noir_panel_1_text_es0	label	none	0.00625,0.1239583,0.8083333,0.8546296	waitinput		
+comic_noir_panel_2_frame	sprite	tweenfromtop		waittimeaftertween_0.5		
+comic_noir_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_noir_panel_2_text_es1	label	none	0.3875,0.5,0.8824074,0.9712963	waitinput		
+comic_noir_panel_3_frame	sprite	tweenfromleft		waitfortween		
+comic_noir_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_noir_panel_3_text_es2	label	none	0.01614583,0.08177083,0.5620371,0.7046296	waitinput		
+comic_noir_panel_3_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_noir_panel_3_text_es3	label	none	0.425,0.4989583,0.5518519,0.6944444	waitinput		
+comic_noir_panel_4_frame	sprite	tweenfromleft		waitfortween		
+comic_noir_panel_4_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_noir_panel_4_text_es4	label	none	0.1723958,0.2401042,0.05648148,0.1305556	waitinput		
+comic_noir_panel_5_frame	sprite	tweenfrombottom		waittimeaftertween_0.75		Event_Comic_NoirCigarrette
+comic_noir_panel_5_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_noir_panel_5_text_es5	label	none	0.3020833,0.3739583,0.1157407,0.3527778	waitinput		
+comic_noir_panel_6_frame	sprite	tweenfromtop		waitfortween		
+comic_noir_panel_6_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_noir_panel_6_text_es6	label	none	0.5265625,0.5973958,0.8351852,0.9888889	waitinput		
+comic_noir_panel_6_bubble_2	sprite	tweenfromtop		waitfortween		
+comic_noir_panel_6_text_es7	label	none	0.7026042,0.7609375,0.8620371,0.9694445	waitinput		
+comic_noir_panel_7_frame	sprite	tweenfromright		waittimeaftertween_1.0		Event_Comic_NoirRain
+comic_noir_panel_7_bubble_1	sprite	tweenfromright		waitfortween		
+comic_noir_panel_7_text_es8	label	none	0.9166667,0.978125,0.9222222,0.9925926	waitinput		
+comic_noir_panel_7_fx_1	sprite	tweenfromtop		waittimeaftertween_1.5	QuickHorizontalShake	Event_Comic_NoirExclamation
+comic_noir_panel_8_frame	sprite	tweenfromright		waittimeaftertween_1.0		
+comic_noir_panel_8_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_noir_panel_8_text_es9	label	none	0.5286458,0.5953125,0.6212963,0.7212963	waitinput		
+comic_noir_panel_8_bubble_2	sprite	tweenfromright		waitfortween		
+comic_noir_panel_8_text_es10	label	none	0.9255208,0.9921875,0.55,0.7203704	waitinput		
+comic_noir_panel_8_bubble_3	sprite	tweenfromright		waitfortween		
+comic_noir_panel_8_text_es11	label	none	0.9458333,0.9822916,0.4333333,0.4703704	waitinput		
+comic_noir_panel_9_frame	sprite	tweenfrombottom		waitfortween	QuickHorizontalShake	Event_Comic_NoirPunch
+comic_noir_panel_9_fx_1	sprite	tweenfrombottom		waittimeaftertween_2.5	ShakeDecay	
+comic_noir_panel_10_frame	sprite	tweenfromright		waittimeaftertween_1.5		Event_Comic_NoirEnd
+comic_noir_panel_10_bubble_1	sprite	tweenfromright		waitfortween		
+comic_noir_panel_10_text_es12	label	none	0.6875,0.846875,0.3018518,0.3814815	waitinput		
+comic_noir_panel_10_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_noir_panel_10_text_es13	label	none	0.853125,0.9916667,0.04351852,0.1898148	waitinput		
+
+>>>	spaceopera					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_spaceopera_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_1.0		Event_Comic_SpaceOperaAlarm
+comic_spaceopera_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_1_text_es0	label	none	0.05625,0.1364583,0.8268518,0.9527778	waitinput		
+comic_spaceopera_panel_1_bubble_2	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_1_text_es1	label	none	0.2802083,0.396875,0.8787037,0.9675926	waitinput		
+comic_spaceopera_panel_2_frame	sprite	tweenfrombottom		waittimeaftertween_0.5		Event_Comic_SpaceOperaComms
+comic_spaceopera_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_2_text_es2	label	none	0.4552083,0.5375,0.787963,0.9416667	waitinput		
+comic_spaceopera_panel_3_frame	sprite	tweenfromleft		waittimeaftertween_0.5		Event_Comic_SpaceOperaSteps
+comic_spaceopera_panel_3_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_3_text_es3	label	none	0.1296875,0.2515625,0.3111111,0.4074074	waitinput		
+comic_spaceopera_panel_4_frame	sprite	tweenfrombottom		waittimeaftertween_0.25		
+comic_spaceopera_panel_4_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_4_text_es4	label	none	0.3541667,0.4260417,0.3333333,0.4111111	waitinput		
+comic_spaceopera_panel_5_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_spaceopera_panel_5_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_spaceopera_panel_5_text_es5	label	none	0.7328125,0.8119792,0.8888889,0.9574074	waitinput		
+comic_spaceopera_panel_5_bubble_2	sprite	tweenfromright		waitfortween		
+comic_spaceopera_panel_5_text_es6	label	none	0.7328125,0.7994792,0.7268519,0.8342593	waitinput		
+comic_spaceopera_panel_6_frame	sprite	tweenfrombottom		waitfortween	QuickHorizontalShake	Event_Comic_SpaceOperaExplosion
+comic_spaceopera_panel_6_fx_1	sprite	tweenfromright		waittimeaftertween_2.0	ShakeDecay	
+comic_spaceopera_panel_6_bubble_1	sprite	tweenfromright		waitfortween		
+comic_spaceopera_panel_6_text_es7	label	none	0.7802083,0.990625,0.08518519,0.1907407	waitinput		
+comic_spaceopera_panel_6_fx_2	sprite	tweenfrombottom		waitfortween		
+comic_spaceopera_panel_6_text_es8	label	none	2.0,2.0,2.0,2.0	waitinput		
+
+>>>	superheroes					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_superheroes_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.5		Event_Comic_SuperheroHq
+comic_superheroes_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_1_text_es0	label	none	0.03333334,0.1052083,0.9037037,0.9462963	waitinput		
+comic_superheroes_panel_2_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_superheroes_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_2_text_es1	label	none	0.2578125,0.3328125,0.8694444,0.9453704	waitinput		
+comic_superheroes_panel_3_frame	sprite	tweenfromleft		waittimeaftertween_0.25		
+comic_superheroes_panel_3_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_3_text_es2	label	none	0.1541667,0.2447917,0.587037,0.6537037	waitinput		
+comic_superheroes_panel_4_frame	sprite	tweenfrombottom		waittimeaftertween_0.25		
+comic_superheroes_panel_4_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_superheroes_panel_4_text_es3	label	none	0.2916667,0.3802083,0.587963,0.6768519	waitinput		
+comic_superheroes_panel_4_bubble_2	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_4_text_es4	label	none	0.4497657,0.5096304,0.5892692,0.6762257	waitinput		
+comic_superheroes_panel_5_frame	sprite	tweenfrombottom		waittimeaftertween_0.25		
+comic_superheroes_panel_5_bubble_1	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_5_text_es5	label	none	0.1697917,0.2302083,0.2657408,0.3231482	waitinput		
+comic_superheroes_panel_6_frame	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_6_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_6_text_es6	label	none	0.2880208,0.3765625,0.2583333,0.3416667	waitinput		
+comic_superheroes_panel_6_bubble_2	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_6_text_es7	label	none	0.4427083,0.509375,0.2972222,0.3583333	waitinput		
+comic_superheroes_panel_7_frame	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_superheroes_panel_7_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_7_text_es8	label	none	0.50625,0.5854167,0.8398148,0.9712963	waitinput		
+comic_superheroes_panel_8_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_superheroes_panel_8_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_superheroes_panel_8_text_es9	label	none	0.7151042,0.7963542,0.8740741,0.9685185	waitinput		
+comic_superheroes_panel_8_bubble_2	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_8_text_es10	label	none	0.9088542,0.9776042,0.8907408,0.9611111	waitinput		
+comic_superheroes_panel_9_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_superheroes_panel_9_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_superheroes_panel_9_text_es11	label	none	0.6796875,0.7755209,0.6018519,0.6555555	waitinput		
+comic_superheroes_panel_9_bubble_2	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_9_text_es12	label	none	0.6854166,0.784375,0.4981481,0.5666667	waitinput		
+comic_superheroes_panel_10_frame	sprite	tweenfrombottom		waittimeaftertween_0.25		
+comic_superheroes_panel_10_bubble_1	sprite	tweenfromright		waitfortween		
+comic_superheroes_panel_10_text_es13	label	none	0.53125,0.5947917,0.2574074,0.3555556	waitinput		
+comic_superheroes_panel_11_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_superheroes_panel_11_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_superheroes_panel_11_text_es14	label	none	0.8510417,0.9625,0.2935185,0.3675926	waitinput		
+comic_superheroes_panel_11_bubble_2	sprite	tweenfrombottom		waitfortween		Event_Comic_SuperheroFinal
+comic_superheroes_panel_11_text_es15	label	none	0.7401041,0.9630209,0.05833333,0.1324074	waitinput		
+
+>>>	comicstrip					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_comicstrip_panel_1_frame	sprite	tweenfromright		waittimeaftertween_0.5		
+comic_comicstrip_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_comicstrip_panel_1_text_es0	label	none	0.2324127,0.3220427,0.6589435,0.8053753	waitinput		
+comic_comicstrip_panel_1_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_comicstrip_panel_1_text_es1	label	none	0.2532569,0.3262116,0.4865616,0.592215	waitinput		
+comic_comicstrip_panel_2_frame	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_comicstrip_panel_2_bubble_1	sprite	tweenfromright		waitfortween		
+comic_comicstrip_panel_2_text_es2	label	none	0.552371,0.642001,0.626506,0.721038	waitinput		
+comic_comicstrip_panel_3_bubble_1	sprite	tweenfromright		waitfortween		
+comic_comicstrip_panel_3_text_es3	label	none	0.6640625,0.8255208,0.8,0.8740741	waittimefromstart_0.25		
+comic_comicstrip_panel_3_frame	sprite	tweenfrombottom		waittimeaftertween_1.0		Event_Audience_Laugh	comicstrip6
+comic_comicstrip_panel_3_text_es4	label	none	2.0,2.0,2.0,2.0	waitinput		
+
+>>>	period					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_period_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25		
+comic_period_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_period_panel_1_text_es0	label	none	0.1265625,0.2130208,0.8824074,0.9657407	waitinput		
+comic_period_panel_1_bubble_2	sprite	tweenfromleft		waitfortween		
+comic_period_panel_1_text_es1	label	none	0.1333333,0.2208333,0.7490741,0.8472222	waitinput		
+comic_period_panel_2_frame	sprite	tweenfromright		waitfortween		
+comic_period_panel_2_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_period_panel_2_text_es2	label	none	0.425,0.4958333,0.8861111,0.9731482	waitinput		
+comic_period_panel_3_frame	sprite	tweenfrombottom		waitfortween		
+comic_period_panel_3_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_period_panel_3_text_es3	label	none	0.007291667,0.07916667,0.4518518,0.5851852	waitinput		
+comic_period_panel_4_frame	sprite	tweenfromright		waitfortween		
+comic_period_panel_4_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_period_panel_4_text_es4	label	none	0.3791667,0.4854167,0.487963,0.6120371	waitinput		
+comic_period_panel_4_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_period_panel_4_text_es5	label	none	0.3854167,0.4677083,0.3518519,0.4314815	waitinput		
+comic_period_panel_5_frame	sprite	tweenfromright		waitfortween		
+comic_period_panel_5_bubble_1	sprite	tweenfromright		waitfortween		
+comic_period_panel_5_text_es6	label	none	0.43125,0.5333334,0.1990741,0.2731481	waitinput		
+comic_period_panel_5_bubble_2	sprite	tweenfrombottom		waitfortween	QuickHorizontalShake	
+comic_period_panel_5_text_es7	label	none	0.4583333,0.5041667,0.1046296,0.1472222	waitinput		
+comic_period_panel_6_frame	sprite	tweenfromtop		waitfortween		
+comic_period_panel_6_bubble_1	sprite	tweenfromright		waitfortween		
+comic_period_panel_6_text_es8	label	none	0.7354167,0.8041667,0.8898148,0.9768519	waitinput		
+comic_period_panel_7_frame	sprite	tweenfromright		waitfortween		
+comic_period_panel_7_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_period_panel_7_text_es9	label	none	0.7901042,0.8515625,0.6962963,0.7888889	waitinput		
+comic_period_panel_7_bubble_2	sprite	tweenfromright		waitfortween		
+comic_period_panel_7_text_es10	label	none	0.9359375,0.9942709,0.6777778,0.7703704	waitinput		
+comic_period_panel_8_frame	sprite	tweenfrombottom		waitfortween	ShakeDecayFast	Event_Shock
+comic_period_panel_8_bubble_1	sprite	tweenfrombottom		waitfortween	QuickHorizontalShake
+comic_period_panel_8_text_es11	label	none	0.6697916,0.7072917,0.3925926,0.462963	waitinput		
+comic_period_panel_8_bubble_2	sprite	tweenfromright		waitfortween	
+comic_period_panel_8_text_es12	label	none	0.8848959,0.9692708,0.3472222,0.4935185	waitinput		
+comic_period_panel_8_bubble_3	sprite	tweenfromright		waitfortween	
+comic_period_panel_8_text_es13	label	none	0.871875,0.9916667,0.04166667,0.1138889	waitinput		
+
+>>>	artsy					
+comicending_panel_0_black	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_artsy_panel_1_frame	sprite	tweenfromleft		waitfortween		Event_MagicShort
+comic_artsy_panel_1_text_es0	label	none	0.2572917,0.2572917,0.6509259,0.6509259	waitinput		
+comic_artsy_panel_2_frame	sprite	tweenfromright		waitfortween		
+comic_artsy_panel_2_text_es1	label	none	0.4614583,0.4614583,0.6907408,0.6907408	waitinput		
+comic_artsy_panel_3_frame	sprite	tweenfrombottom		waitfortween		
+comic_artsy_panel_3_text_es2	label	none	0.2838542,0.2838542,0.04814815,0.04814815	waitinput		
+comic_artsy_panel_4_frame	sprite	tweenfromright		waitfortween		Event_Comic_HaremChimes
+comic_artsy_panel_4_text_es3	label	none	0.4713542,0.4713542,0.04629629,0.04629629	waitinput		
+comic_artsy_panel_5_frame	sprite	tweenfromright		waitfortween		
+comic_artsy_panel_5_text_es4	label	none	0.5807292,0.5807292,0.6972222,0.6972222	waitinput		
+comic_artsy_panel_6_frame	sprite	tweenfromtop		waitfortween		Event_Comic_MagicalGirlsTransformA
+comic_artsy_panel_6_text_es5	label	none	0.9911458,0.9911458,0.7111111,0.7111111	waitinput		
+comic_artsy_panel_7_frame	sprite	tweenfromright		waitfortween		Event_Comic_MagicalGirlsTransformC
+comic_artsy_panel_7_text_es6	label	none	0.6333333,0.6333333,0.04259259,0.04259259	waitinput		
+comic_artsy_panel_8_frame	sprite	tweenfrombottom		waittimeaftertween_1.0		Event_Comic_ArtsyFinal	artsy6
+comic_artsy_panel_8_text_es7	label	none	0.9984375,0.9984375,0.04259259,0.04259259	waitinput		
+
+>>>	domino					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_domino_panel_1_frame	sprite	tweenfromleft		waittimeaftertween_0.25		
+comic_domino_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_domino_panel_1_text_es0	label	none	0.0328125,0.1140625,0.8305556,0.9472222	waitinput		
+comic_domino_panel_2_frame	sprite	tweenfromright		waittimeaftertween_0.25		
+comic_domino_panel_2_fx_1	sprite	tweenfromtop		waittimeaftertween_1.5	QuickHorizontalShake	Event_Bell
+comic_domino_panel_3_frame	sprite	tweenfromleft		waitfortween		
+comic_domino_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_domino_panel_3_text_es1	label	none	0.02395833,0.1177083,0.5759259,0.6814815	waitinput		
+comic_domino_panel_3_bubble_2	sprite	tweenfrombottom		waitfortween		
+comic_domino_panel_3_text_es2	label	none	0.3161458,0.3848958,0.4787037,0.5824074	waitinput		
+comic_domino_panel_4_frame	sprite	tweenfromleft		waittimefromstart_0.25	ShakeDecayFast	Event_Shock
+comic_domino_panel_5_frame	sprite	tweenfrombottom		waittimefromstart_0.25	ShakeDecayFast	Event_Shock
+comic_domino_panel_6_frame	sprite	tweenfromright		waitfortween	ShakeDecayFast	Event_Shock
+comic_domino_panel_4_bubble_1	sprite	tweenfromtop		waitfortween	QuickHorizontalShake	
+comic_domino_panel_4_text_es3	label	none	0.03385417,0.09635416,0.2296296,0.3314815	waitinput	
+comic_domino_panel_5_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_domino_panel_5_text_es4	label	none	0.1807292,0.2598958,0.2527778,0.337963	waitinput	
+comic_domino_panel_6_bubble_1	sprite	tweenfromtop		waitfortween	QuickHorizontalShake	
+comic_domino_panel_6_text_es5	label	none	0.3369792,0.4151042,0.2768519,0.3342593	waitinput		
+comic_domino_panel_7_frame	sprite	tweenfromtop		waittimefromstart_1.0	QuickHorizontalShake	Event_Comic_DominoShock
+comic_domino_panel_7_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_domino_panel_7_text_es6	label	none	0.5130208,0.5984375,0.8259259,0.9870371	waitinput		
+comic_domino_panel_8_frame	sprite	tweenfrombottom		waittimefromstart_0.5		
+comic_domino_panel_8_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_domino_panel_8_text_es7	label	none	0.6692708,0.7432292,0.7592593,0.9092593	waitinput		
+comic_domino_panel_9_frame	sprite	tweenfromright		waitfortween		
+comic_domino_panel_9_fx_1	sprite	tweenfromtop		waitfortween	ShakeDecayFast	Event_Shock
+comic_domino_panel_9_bubble_1	sprite	tweenfromtop		waitfortween	QuickHorizontalShake	
+comic_domino_panel_9_text_es8	label	none	0.6484375,0.7171875,0.2351852,0.3092593	waitinput		
+comic_domino_panel_10_frame	sprite	tweenfrombottom		waitfortween		Event_Comic_DominoFinal
+comic_domino_panel_10_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_domino_panel_10_text_es9	label	none	0.7833334,0.8135417,0.6694444,0.7287037	waitinput		
+comic_domino_panel_10_bubble_2	sprite	tweenfromright		waitfortween		
+comic_domino_panel_10_text_es10	label	none	0.8125,0.9927083,0.09074074,0.1962963	waitinput		
+comic_domino_panel_10_fx_1	sprite	tweenfrombottom		waittimeaftertween_0.5		
+comic_domino_panel_10_text_es11	label	none	2.0,2.0,2.0,2.0	waitinput
+
+
+>>>	specialcomicpanels	omenredeemed_comicpanels					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.5		
+comic_omenredeemed_comicpanels_panel_1_frame	sprite	tweenfrombottom		waitfortween		
+comic_omenredeemed_comicpanels_panel_1_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_omenredeemed_comicpanels_panel_1_text_es0	label	none	0.06041666,0.1010417,0.8518519,0.9074074	waitinput		
+comic_omenredeemed_comicpanels_panel_2_frame	sprite	tweenfromright		waitfortween		
+comic_omenredeemed_comicpanels_panel_2_bubble_1	sprite	tweenfromright		waitfortween		
+comic_omenredeemed_comicpanels_panel_2_text_es1	label	none	0.4359375,0.5651042,0.8305556,0.9583333	waitinput		
+comic_omenredeemed_comicpanels_panel_3_frame	sprite	tweenfromright		waitfortween		
+comic_omenredeemed_comicpanels_panel_3_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_omenredeemed_comicpanels_panel_3_text_es2	label	none	0.371875,0.4979167,0.2824074,0.375	waitinput		
+comic_omenredeemed_comicpanels_panel_3_bubble_2	sprite	tweenfromright		waitfortween		
+comic_omenredeemed_comicpanels_panel_3_text_es3	label	none	0.3885417,0.5479167,0.1425926,0.2296296	waitinput		
+comic_omenredeemed_comicpanels_panel_4_frame	sprite	tweenfrombottom		waitfortween		
+comic_omenredeemed_comicpanels_panel_4_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_omenredeemed_comicpanels_panel_4_text_es4	label	none	0.728125,0.8645833,0.8101852,0.9064815	waitinput		
+
+>>>	specialcomicpanels	zoeoldones_comicpanels					
+comicending_panel_0	sprite	tweenfromtop		waittimeaftertween_0.25		
+comic_zoeoldones_comicpanels_panel_1_frame	sprite	tweenfromright		waitfortween		Event_Shock
+comic_zoeoldones_comicpanels_panel_1_fx_1	sprite	tweenfromleft		waittimeaftertween_2	QuickHorizontalShake	
+comic_zoeoldones_comicpanels_panel_2_frame	sprite	tweenfromtop		waitfortween		Event_Creepy_Crawl
+comic_zoeoldones_comicpanels_panel_2_fx_1	sprite	tweenfrombottom		waittimeaftertween_3	ShakeDecayFast	
+comic_zoeoldones_comicpanels_panel_3_frame	sprite	tweenfromright		waitfortween		
+comic_zoeoldones_comicpanels_panel_3_bubble_1	sprite	tweenfromright		waitfortween	QuickHorizontalShake	
+comic_zoeoldones_comicpanels_panel_3_text_es0	label	none	0.6732674,0.7201668,0.9036145,0.9490269	waitinput		
+comic_zoeoldones_comicpanels_panel_4_frame	sprite	tweenfrombottom		waitfortween	ShakeDecay	Event_Explosion
+comic_zoeoldones_comicpanels_panel_4_fx_1	sprite	tweenfromright		waittimeaftertween_3.5	ShakeDecay	
+comic_zoeoldones_comicpanels_panel_5_frame	sprite	tweenfrombottom		waitfortween		
+comic_zoeoldones_comicpanels_panel_5_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_zoeoldones_comicpanels_panel_5_text_es1	label	none	0.05263158,0.164148,0.223355,0.3503244	waitinput		
+comic_zoeoldones_comicpanels_panel_5_bubble_2	sprite	tweenfromright		waitfortween		
+comic_zoeoldones_comicpanels_panel_5_text_es2	label	none	0.7952059,0.9306931,0.2493049,0.3707136	waitinput		
+
+>>>	specialcomicpanels	zoeoldones_comicpanels2					
+comicending_panel_0	sprite	None		DoNotWait		
+comic_zoeoldones_comicpanels2_panel_1_frame	sprite	tweenfromtop		waitfortween	QuickHorizontalShake	
+comic_zoeoldones_comicpanels2_panel_1_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_zoeoldones_comicpanels2_panel_1_text_es0	label	none	0.09223554,0.1537259,0.9277108,0.9842446	waitinput		
+comic_zoeoldones_comicpanels2_panel_2_frame	sprite	tweenfromleft		waitfortween		
+comic_zoeoldones_comicpanels2_panel_2_bubble_1	sprite	tweenfrombottom		waitfortween		
+comic_zoeoldones_comicpanels2_panel_2_text_es1	label	none	0.02553413,0.1026576,0.5505098,0.6367006	waitinput		
+comic_zoeoldones_comicpanels2_panel_3_frame	sprite	tweenfrombottom		waitfortween		
+comic_zoeoldones_comicpanels2_panel_3_bubble_1	sprite	tweenfromleft		waitfortween		
+comic_zoeoldones_comicpanels2_panel_3_text_es2	label	none	0.009900991,0.06722251,0.2048193,0.2743281	waitinput		
+comic_zoeoldones_comicpanels2_panel_4_frame	sprite	tweenfromtop		waitfortween		
+comic_zoeoldones_comicpanels2_panel_4_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_zoeoldones_comicpanels2_panel_4_text_es3	label	none	0.3705055,0.4622199,0.8257646,0.9341983	waitinput		
+comic_zoeoldones_comicpanels2_panel_5_frame	sprite	tweenfromright		waitfortween		
+comic_zoeoldones_comicpanels2_panel_5_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_zoeoldones_comicpanels2_panel_5_text_es4	label	none	0.7613341,0.8884836,0.8646895,0.9842446	waitinput		
+comic_zoeoldones_comicpanels2_panel_6_frame	sprite	tweenfrombottom		waittimeaftertween_2	ShakeDecayFast	Event_Shock
+comic_zoeoldones_comicpanels2_panel_6_text_es5	label	none	2.0,2.0,2.0,2.0	waitinput
+
+>>>	specialcomicpanels	zoeoldones_comicpanels3					
+comicending_panel_0	sprite	None		DoNotWait		
+comic_zoeoldones_comicpanels3_panel_1_frame	sprite	tweenfromleft		waitfortween	ShakeDecayFast	
+comic_zoeoldones_comicpanels3_panel_1_fx_1	sprite	tweenfromleft		waittimeaftertween_3.5	ShakeDecay	Event_FaithMagic
+comic_zoeoldones_comicpanels3_panel_2_frame	sprite	tweenfrombottom		waitfortween	ShakeDecay	Event_Creepy_Crawl
+comic_zoeoldones_comicpanels3_panel_2_fx_1	sprite	tweenfromleft		waittimeaftertween_3	ShakeDecay	Event_CosmicBreach
+comic_zoeoldones_comicpanels3_panel_3_frame	sprite	tweenfromright		waitfortween		
+comic_zoeoldones_comicpanels3_panel_3_bubble_1	sprite	tweenfromtop		waitfortween		
+comic_zoeoldones_comicpanels3_panel_3_text_es0	label	none	0.8863992,0.9458051,0.8693234,0.9388322	waitinput		
+comic_zoeoldones_comicpanels3_panel_4_frame	sprite	tweenfrombottom		waittimeaftertween_2		
+comic_zoeoldones_comicpanels3_panel_4_text_es1	label	none	2.0,2.0,2.0,2.0	waitinput

@@ -1,0 +1,126 @@
+>>>	conshop_intro_1
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	If it isn't my favorite customer!
+	zorrito	bummed	Well, actually, you aren't my favorite YET... but you might be, if you'd pick a box already.	
+
+>>>	conshop_intro_2
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	Come in, come in!
+	zorrito	default	Pick a box, any box!	
+
+>>>	conshop_intro_3
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Welcome to my mystery shop: where fate does the choosing and you do the paying!	
+
+>>>	conshop_intro_4
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	offering	Welcome back, dollface.
+	zorrito	default	You know the drill. Choose blindly and choose wisely!	
+
+>>>	conshop_intro_5
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Ah, now here's a %MANWOMAN% with a taste for mystery!
+	zorrito	offering	Grab a box; any box! They're all the same, and all infinitely different!	
+
+>>>	conshop_intro_6
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Well, well, what do we have here? A lover of mystery!
+	zorrito	hello	I have just the thing for you: whatever you pick!	
+
+>>>	conshop_intro_7
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	shady	Welcome to my modest establishment. So modest it doesn't have a license!
+	zorrito	surprised	Don't be shy: pick a box before the cease and desist gets here!	
+
+>>>	conshop_intro_8
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Hey there! Fancy a mystery box?
+	zorrito	surprised	Nobody knows what's in them... so pick one and we'll both find out!	
+
+>>>	conshop_intro_9
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	If you've got cash to spare, I've got a box for you!
+	zorrito	shady	Go ahead: pick one and suffer the consequences!	
+
+>>>	conshop_outro_1
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	bummed	Thank you, come again, etc.
+	zorrito	default	NEEEXT!	
+
+>>>	conshop_outro_2
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	offering	Always a pleasure to take your money! Come back soon!	
+
+>>>	conshop_outro_3
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Pleasure doing business with you!	
+
+>>>	conshop_outro_4
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	Thanks for stopping by!	
+
+>>>	conshop_outro_5
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	Excellent purchase, if I may say so!
+	zorrito	bummed	Now be a doll and keep the line moving.	
+
+>>>	conshop_outro_6
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	Ah, good choice!
+	zorrito	offering	Only a true connoisseur would pick my best item at random!	
+
+>>>	conshop_outro_7
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Copacetic! Now be a doll and scram, won't you?	
+
+>>>	conshop_outro_8
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	shady	Hope you liked what you got! I certainly did.	
+
+>>>	conshop_outro_9
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	hello	There, mystery solved!
+	zorrito	default	Come back if you feel like gambling again!	
+
+>>>	conshop_outro_10
+>event_type	special
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	surprised	It's true what they say: life is like a mystery box shop...
+	zorrito	shady	You lose all your money, and all you get is random crap!	

@@ -1,0 +1,633 @@
+>>>	standard_bigplateau_butts1
+>writer	moyano
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_butts
+	narrator		You sit down at the Main Stage to learn about your favorite artform: anime. Specifically, a ranking of the best anime butts.
+	narrator		Some of the choices are... intriguing. I mean, sure, mecha robots technically have big asses.
+	narrator		By the end, you've learned more about the panelist's fetishes than anime. But that ass-centric knowledge still grants you +2 SMARTS!	
+
+>>>	standard_bigplateau_charisma1
+>writer	moyano
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_charisma
+	narrator		You grab a seat at the Main Stage, where a panelist talks about making interesting player characters.
+	narrator		Apparently, they should be color-coordinated, have a distinct personality, "and also a cool name, like Kratos, Luigi, or %CURRENTPLAYERNAME%".
+	narrator		You learn you'd make an awesome PC, and that self-knowledge equals +2 SMARTS!	
+
+>>>	standard_bigplateau_comic1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_comic
+	narrator		You go to the Main Stage to watch a panel on how to make a successful comic.
+	narrator		"Step 1: Good artists copy; great artists steal." Seems easy enough; there are lots of great comics out there to steal from. Like Spider-Man!
+	narrator		"Step 2: Write what you know." You know plenty about Spider-Man. The future of your comic looks bright!
+	narrator		"Step 3: Add a shark. Sharks are cool." Well... shit. You don't know all that much about sharks. More research will be needed.
+	narrator		Still, maybe there's a "Spider-Shark" comic by %CURRENTPLAYERNAME% in the future! You gain +2 SMARTS from all you've learned.	
+
+>>>	standard_bigplateau_datingsim1
+>writer	moyano
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_datingsim
+	narrator		You're sitting at the Main Stage for a panel titled "Are Dating Sims Back?".
+	narrator		The stage is empty. After a few minutes, a shy-looking guy approaches the mic and says, "They're not, because they never left to begin with."
+	narrator		"YAAAAAY!" The audience goes crazy... crazy for dating sims! You gain +2 SMARTS for learning dating sims will never stop being cool.	
+
+>>>	standard_bigplateau_domino2
+>writer	quinn & moyano
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_domino
+	narrator		You sit down to watch a post-mortem discussion of the game "Domino".
+	narrator		You learn that the first iteration had no pieces at all, which made playing quite difficult. The seventh iteration added the crucial rule that forbids eating your own pieces.
+	narrator		An hour later, you know more about Domino than anyone in your age group (which actually isn't hard, but still, +2 SMARTS for you!)	
+
+>>>	standard_bigplateau_grappler1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_grappler
+	narrator		You decide to watch a panel discussing fighting game archetypes.
+	narrator		Your main goal is to determine which archetype you'd be. Are you a "GRAPPLER"? Are you a "ZONER"?	
+	narrator		By the end of the panel you realize you are the very rare "LOVER", a highly ineffective archetype for fighting games. Makes sense, you are a better fit for a dating sim.	
+	narrator		You gain +2 SMARTS for achieving such self-awareness.	
+
+>>>	standard_bigplateau_icebreaker1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_icebreaker
+	narrator		You sit down to watch a panel on how to break the ice and make friends at cons.
+	narrator		The panelist admits they have no idea: they hoped hosting a panel would force them into being more social. What an honest fella!	
+	narrator		During the Q&A, a group asks the panelist if they want to join them for some dinner and drinks. It did work!	
+	narrator		You gain +2 SMARTS for learning this cool trick to break ice. Next year you may host a panel yourself!	
+
+>>>	standard_bigplateau_lootbox1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_lootbox
+	narrator		You attend a panel on how to seamlessly add lootboxes to games. The short answer is that you shouldn't.
+	narrator		This turns out to be invaluable knowledge that makes you gain +2 SMARTS!	
+	narrator		(PAY 10 MONSTER TOKENS TO OPEN A MYSTERY BOX WITH A BONUS RANDOM AMOUNT OF SMARTS)	
+	narrator		jk	
+
+>>>	standard_bigplateau_magic1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_magic
+	narrator		You decide to attend a panel on the merits of soft vs. hard magic systems in magical girl fiction.
+	narrator		After getting the required dick jokes out of the way, you actually learn a lot of valuable info about worldbuilding mechanics.
+	narrator		You gain +2 SMARTS from all that knowledge AND from learning so many new dick jokes.	
+
+>>>	standard_bigplateau_newclass1
+>writer	quinn
+>event_type	standard
+>location	bigplateau
+>special_command	specialstufftag	bigplateau_newclass
+	narrator		You sit down to watch a panel about new proposed TTRPG classes.
+	narrator		There are tons of cool options, like "Insurance Salesperson", "Horse With Knife Shoes", and "Steve".
+	narrator		Your mind is bursting with new TTRPG worldbuilding ideas to counter a Steve's naturally-overpowered abilities, giving you +2 SMARTS!	
+
+>>>	standard_communityzone1
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You have some time to spare, so you decide to enter a Splash Kaboom speedrun competition.	
+	narrator		As you sit down and get ready to crush your rivals, you hear an announcement: the competition is over. You shouldn't have wasted all that time sitting down!
+	narrator		Sign up for a slowrun competition next time. Oh well, at least you had +2 FUN sitting!	
+
+>>>	standard_communityzone2
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You're feeling lucky, so you enter a Poker 2 tournament. These nerds sure play hard!	
+	narrator		You get a royal flush, which would be great if one of the other players didn't play "Zakrant, Commander of the NetherGalaxy".	
+	narrator		Lucky for you, you had a "Helmet of Chaos" up your sleeve. You equip it on your Royal Flush and beat the shit out of Zakrant. Heck yeah!	
+	narrator		All this nonsense makes gambling at least +2 FUN!	
+
+>>>	standard_communityzone3
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		At the Community Zone, you find several 5-D chess matches going on at the same time.
+	narrator		Time to prove your smarts to this whole Con. You play five matches at the same time.
+	narrator		You make fast decisions, going from chess table to chess table. Everyone's impressed...
+	narrator		...until they realize you lost all chess matches in just a few moves. Well, you may have gained ZERO SMARTS; but you surely gained +2 FUN.	
+
+>>>	standard_communityzone4
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		There's an auction going on at the Community Zone. They're auctioning the original notebook from Death Note, starting at 100 Monster Dollars!
+	narrator		You could kill SO MANY people with that notebook. You yell, "200 Monster Dollars!"
+	narrator		Everybody in this Con is broke AF, so you get the notebook! To make sure no one steals it, you decide to write your name in it.
+	narrator		Oh, shit. YOU'RE GONNA DIE!!!
+	narrator		40 seconds later... nothing happens. Death Note isn't real, dumb-dumb! You still had +2 FUN by playing pretend Death Note.	
+
+>>>	standard_communityzone5
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		Walking around the Community Zone, you see several congoers playing a match. Wait, is that... soccer? Why the hell is there soccer at Monster Con?	
+	narrator		A congoer sees you fuming and tells you: "Oh, it's not soccer. It's actually LARP Fussball."
+	narrator		What a relief! You have +2 FUN watching the game, safe knowing you don't have to watch a real sport.	
+
+>>>	standard_communityzone6
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		There's a Smash Your Bros. tournament going on at the Community Zone. You sign up, because love always trumps violence!	
+	narrator		The matches involve 8 players each and things get horny and confusing quite fast.	
+	narrator		In the end it's very hard to tell who actually won; but you all surely got +2 FUN in the process!	
+
+>>>	standard_communityzone7
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		In the middle of the Community Zone, you see a bunch of top-hatted gentlemen, a vintage car, a dog and a boot. Oooh, it's LARP Monopoly!	
+	narrator		This goes against all your values... and yet the moment you start making money you gentrify the fuck out of a street by building many hotels.	
+	narrator		You make sure everyone who dares to step on your turf becomes miserable. A father of three begs you to lower the rent. "GIT GUD", you yell.	
+	narrator		NO! What have you become? You burn your Monopoly money and leave... but deep down, you have to admit you got +2 FUN.	
+
+>>>	standard_communityzone8
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You attend a workshop at the Community Zone. A renowned hairstylist is teaching the "Top 5 Anime Hairstyles to Hide your Bald Spot".
+	narrator		You thought the Sailor Moon fringe would look good on you, but the Yu-Gi-Oh star shape takes the cake. It needs a metric ton of hair gel, but it really brings out your features.
+	narrator		Man, you can't wait to be bald! You gain +2 FUN and +1 AMAZING HAIRSTYLE.	
+
+>>>	standard_communityzone9
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You enter a Competitive Tarot tournament, because you're reckless enough to gamble your entire future.
+	narrator		After several Hanged Men and Burning Towers, you decide to harness the power of celestial bodies. With your best Yu-Gi-Oh impression, you throw down... Pluto.
+	narrator		Pluto isn't a planet anymore; you're playing with an old deck! You're disqualified, and your opponent also predicts that you'll die of chlamydia.	
+	narrator		While you just gained +1 TERRIBLE FATE, you also got +2 FUN because dying from chlamydia means at some point you'll get laid!	
+
+>>>	standard_communityzone10
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You check out the games going on at the Community Zone, and you find an area dedicated to retro video games.
+	narrator		You start by playing some N64 games; then you go further back in time to play the original Super Mario, where Mario is a dick.
+	narrator		You round out your playing session by playing checkers and The Royal Game of Ur. Your Mesopotamian gamer skillz grant you +2 FUN!	
+
+>>>	standard_communityzone11
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You see an empty spot at a tabletop RPG game session, so you sit down without thinking twice.
+	narrator		This game is really weird: the board is just a bunch of letters, and you all play at the same time by moving a planchette around.
+	narrator		When it's done, you're not sure who won, but you got to talk to your late great-great-grandfather. I guess that's +2 FUN, right?	
+
+>>>	standard_communityzone12
+>writer	quinn
+>event_type	standard
+>location	community
+	narrator		You decide to attend a roundtable on round tables. What a fascinating subject!
+	narrator		You discuss the various circumferences of tables, rank building materials, and talk about famous knights that have sat around round tables of old.
+	narrator		You also talk plenty of shit about square and rectangular tables. Fuck right angles! You gain +2 FUN because circles are the most hilarious shape, amirite?	
+
+>>>	standard_communityzone13
+>writer	quinn
+>event_type	standard
+>location	community
+	narrator		You attend an indie tabletop game showcase and get pulled into a eurogame based around the classic party game "Never Have I Ever".
+	narrator		It's like the original game, but there are different point values assigned to the severity of your admissions.
+	narrator		There are also sudden death rules, a "phone a friend" mechanic, and a robber, somehow.
+	narrator		Two hours later, you've decided that "never will you ever" play this game again. At least you gained +2 FUN hearing the embarrassing things the other players admitted.	
+
+>>>	standard_communityzone14
+>writer	quinn
+>event_type	standard
+>location	community
+	narrator		You sit down to play an experimental new TTRPG called "Dancing With Dragons."
+	narrator		It's a typical Tolkienesque fantasy setting, but all battles are decided in DDR matches against your opponents. Awesome!
+	narrator		You carry your party, because you've got moves for days. It's a little unfairly skewed because your Game Master has a broken foot, but that's not your fault!
+	narrator		You gain +2 FUN kicking ass with your S-rank DDR skills!	
+
+>>>	standard_communityzone15
+>writer	moyano
+>event_type	standard
+>location	community
+	narrator		You sit down to play a really complicated European board game. You don't want to make a fool of yourself, so you pick up the manual and start reading.	
+	narrator		Days pass, seasons change. Cities crumble and are covered in sand. When you finish the manual, you find yourself alone in an empty post-apocalyptic wasteland.
+	narrator		Just kidding, you fell asleep! But what you did get to read of the manual was +2 FUN.	
+
+>>>	standard_commercialstands1
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You check out the stands and buy a few comic books. They give you a free totebag!	
+	narrator		After that you buy a couple prints from an artist. You get another totebag!
+	narrator		Then you buy a cool totebag, and they give it to you inside a free totebag.
+	narrator		You gain +2 CHARM from all these fashionable (and free) totebags you have now. If only you had something to carry them all...	
+
+>>>	standard_commercialstands2
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You're walking around the merch hall, sipping a cup of coffee.	
+	narrator		Suddenly, a Deluxe Box Set Edition of "One Kick Boy" makes you spit out your coffee. Your spit take lands on the box set, because you have great aim, but very bad luck.
+	narrator		The vendor gives you the box set at a discount because, after all, it's not in mint condition anymore.	
+	narrator		Your brand new box set (and your excellent spitting skills) give you +2 CHARM!
+
+>>>	standard_commercialstands3
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You find a cool shirt you like in a commercial stand. It costs 3.99 Monster Dollars.
+	narrator		Then you buy a cool zine for 2.99 Monster Dollars. Then a set of anime badges for 1.99 Monster Dollars.
+	narrator		You then buy a pack of gum for 0.99 Monster Dollars. Dammit, you have 4 loose coins jiggling in your pocket; it's annoying as fuck!
+	narrator		Luckily, you find a shady guy who whispers: "Give it to me and I'll get you +2 CHARM". You feel dirty for some reason, but you got stats and your pockets aren't jiggling anymore!	
+
+>>>	standard_commercialstands4
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		Near the merch hall, you find a gacha shop. You put in a coin and you get a real buff duck. Random, but cool!	
+	narrator		You put in another coin. You open the gacha and... there's a letter?
+	narrator		"Please, help us! We buff ducks were imprisoned in these balls by the Gacha masters centuries ago. It all began when..."
+	narrator		Aaand you're already bored. You get another gacha ball and... it's another buff duck! Cool, take +2 CHARM!	
+
+>>>	standard_commercialstands5
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		Near the merch hall, you find a mysterious fortune telling machine. There's a sign that says: "Ask a wish and Zoltar will grant it".
+	narrator		Originality is not your strong suit, so you ask to be big. The machine spits out a ticket that says "Your wish is granted".
+	narrator		You keep walking around, waiting to get bigger. But you don't feel any different...
+	narrator		...until you look at your butt. Yes, you now have a big juicy, +2 CHARM butt! Wishes do come true.	
+
+>>>	standard_commercialstands6
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You find some teenagers selling their own fanzines. Awww, so cute!
+	narrator		You check them out and they are... awful. As far as you remember, you had better taste when you were their age.
+	narrator		To show them how it's done, you make your own zine right in front of them. What a mentor!
+	narrator		You leave it on their stand so they can sell it. They don't seem to like you, but that awesome zine you made nets you +2 CHARM.	
+
+>>>	standard_commercialstands7
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		At the stands, you find a fanzine vendor. You ask her what her zines are about. "They're about you," she replies.
+	narrator		You open one of her fanzines. It's full of badly-cropped pictures of you. You feel you should be disturbed... but you also feel flattered.	
+	narrator		You buy a copy. Dang, some of these pics you haven't even seen before! You're bowled over by your own +2 CHARM!	
+
+>>>	standard_commercialstands8
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You buy a cool T-Shirt which features the entire JoJo family tree. Needless to say, it's several sizes too big for you.
+	narrator		You get back to the stand to return it, but the vendor doesn't take refunds. Unacceptable!
+	narrator		What he can give you is a free JoJo pose. You take it. It forces the limits of your flexibility, but you gain +2 CHARM from striking such a pose!	
+
+>>>	standard_commercialstands9
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You find a portrait artist at the Artist Alley. Apparently, he can accurately portray your soul!
+	narrator		You've always wondered what your soul looks like. Buff? Smol and cute? Hey, maybe it's ginger-haired!
+	narrator		...No, it's just you with a weird blue glow around you. But hey, that glow sure adds +2 CHARM to your looks!	
+
+>>>	standard_commercialstands10
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You find a stand at the Merch Hall that sells "hyperrealistic VR headsets". You buy one immediately: VR is the future!
+	narrator		You put it on and you see... your surroundings. Yep, it's a scam: the headset is basically a football helmet and a pair of glasses.
+	narrator		No refunds allowed, but the headset looks good on you. Like, +2 CHARM good.	
+
+>>>	standard_commercialstands11
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		Walking around the Merch Hall, you notice a stand full of retro toys. Hey, some of these you remember from your childhood!	
+	narrator		Actually, you remember ALL of them. Did this guy raid your parents' house? You buy them all just in case.	
+	narrator		Ah, life was full of charm back then, before reality made you a cynic. You might be too old for these toys today, but you can still siphon +2 CHARM from the memories.	
+
+>>>	standard_commercialstands12
+>writer	moyano
+>event_type	standard
+>location	stands
+	narrator		You suddenly realize your phone is dead. Good thing you're at the Merch Hall!
+	narrator		You find a stand where someone's selling chargers. You want to buy one, but you feel bad about buying something so... not nerdy.
+	narrator		The vendor sighs and draws an "UwU" face on the charger. Sold! You gain +2 CHARM for your kawaii phone charger!	
+
+>>>	standard_thegrounds1
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're walking around with your favorite magical girl wig on. It's itchy as hell.
+	narrator		You scratch your head under your wig. Oh crap, a random streamer just recorded you doing that awkward finger wiggle!
+	narrator		Your weird head scratch goes through the entire Internet cycle: you get memed, shitposted, mashed-up and even turned into a viral dance.
+	narrator		Alas, fame is fleeting, and you stop being cool when a CEO does the Magika Head Scratch in an ad. At least you still gain +2 BOLDNESS for surviving Internet fame unscathed.	
+
+>>>	standard_thegrounds2
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're roaming the Con lobby when you notice a streamer right in front of you.
+	narrator		You turn around to avoid the camera, but there's another streamer right behind you too. You're caught in streamer crossfire!
+	narrator		You're technically in two places at once. You feel imbued by the power of omnipresence, or at least, you know, "bi-presence".
+	narrator		Then one of the streamers leaves, so you're just a rando in the background. Still, you've experienced twice the power of any mortal, which gives you +2 BOLDNESS!	
+
+>>>	standard_thegrounds3
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		Walking around the lobby, you see a kid tripping over and scratching his knees. Stupid kids, when will they learn?	
+	narrator		Still, you decide to take pity on him. You don't know how to comfort a child, so you just pat his head and say "You have no enemies".
+	narrator		You leave, proud of your words of wisdom. He doesn't stop crying, but you gain +2 BOLDNESS for how cool you looked inside your head.	
+
+>>>	standard_thegrounds4
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		Walking around the lobby, you see a kid tripping over and scratching his knees. Stupid kids, when will they learn?
+	narrator		Still, you take pity on him and try to comfort him. You tell him not to cry, for there are worse things than scratching your knees.
+	narrator		Things like war, famine, or that time you forgot your pants at home. Fuck, why did you have to remember that? Now you're crying too!	
+	narrator		After 15 minutes of bawling your eyes out, you decide to be brave and go on with your life, unlike this stupid wimpy kid. Way to go! You gain +2 BOLDNESS.	
+
+>>>	standard_thegrounds5
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're having a great time at the Con, so you decide to tell the world by tweeting, "Having a great time at the Con!" Good one!
+	narrator		Unfortunately, that's enough bait for an online troll to reply "ur a dumfuck." Whatever happened to online etiquette?
+	narrator		You're not going to let him ruin your day, so you engage in a spirited but respectful debate with him. After a while, the troll writes: "Sry, my mistake. Ur a fuckin dum dumfuck."
+	narrator		You're definitely embarking on a journey of revenge when this Con is over. You gain +2 BOLDNESS for not backing down from an online fight!	
+
+>>>	standard_thegrounds6
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're tired from all the shenanigans at the Con, but a severe case of FOMO prevents you from going back to the hotel.	
+	narrator		If you take a power nap here in the lobby, you'll be well-rested and technically not miss out!	
+	narrator		Lots of people trip on you; but they say nothing as they imagine you sleeping is a cosplay performance referencing some movie or anime.	
+	narrator		You get some rest and +2 BOLDNESS from not giving a single fuck.	
+
+>>>	standard_thegrounds7
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		Walking around the lobby, you see a flood of people coming in from the other areas. Crowd stampede!	
+	narrator		Trying not to panic, you remember what your yoga teacher taught you:
+	narrator		"When you get caught in the middle of a crowd stampede, remember to go with the flow."
+	narrator		You do, and the "flow" consists of the crowd trampling you. Still, you gain +2 BOLDNESS for braving the stampede.	
+
+>>>	standard_thegrounds8
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You decide to walk around the lobby, which is the most intimidating activity at the con for anyone who's not a social butterfly.	
+	narrator		Some random people ask you to take a pic of them; you're forced to push people around to actually move; you even say "bless you!" to someone who sneezed.	
+	narrator		Look at you socializing! Here, have +2 BOLDNESS.	
+
+>>>	standard_thegrounds9
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're at the lobby when some random person mistakes you for a friend of a friend he apparently has met twice in his life.	
+	narrator		You are too shy to correct him, so you hang together for a couple hours.	
+	narrator		It's when he's insisting to add you to a "New Year's Eve Party" group chat that you finally gather the bravery needed to explain you are not who he believes you are.	
+	narrator		Better late than never, I guess? Here, have +2 BOLDNESS. He still adds you to the group chat.	
+
+>>>	standard_thegrounds10
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're roaming around the lobby when a tiny little dude pulls your shirt and whispers: "Hey, you need water. It's important to stay hydrated".
+	narrator		He offers you a bottle. You get so nervous about this social interaction that you temporarily forget how to properly use a bottle.
+	narrator		You water yourself like the awkward little flower you are. You thank the stranger, who's left confused.
+	narrator		Well, maybe it's not so bad. What if the water was laced? Good thing you didn't manage to drink it like a normal person.
+	narrator		You gain +2 BOLDNESS for navigating a potentially dangerous situation.	
+
+>>>	standard_thegrounds11
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're walking around the lobby when you feel a sudden urge to pee. Look for a bathroom, quick!
+	narrator		The bathrooms are gross; but if you know a thing about bathrooms is that using them always ensures +2 BOLDNESS. It's the main reason why people use them!	
+	narrator		Ah, some things never change.	
+
+>>>	standard_thegrounds12
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're walking around the lobby when you suddenly hear "Look, it's %CURRENTPLAYERNAME%!"
+	narrator		When you turn around, nobody's looking at you. They're looking at somebody else... somebody who's cosplaying you!
+	narrator		When did you get famous? Are you part of a beloved videogame franchise? And more importantly: did that guy steal your clothes?
+	narrator		There are too many questions in your head right now. Here, you'll need +2 BOLDNESS to go on with your life without asking them.	
+
+>>>	standard_thegrounds13
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're roaming around the lobby and you find someone with your exact same cosplay. UNACCEPTABLE!
+	narrator		You decide to solve this conflict the traditional way: a knife fight to the death!
+	narrator		The other cosplayer doesn't carry a knife, so he gets automatically disqualified. You win the right to cosplay!
+	narrator		You gain +2 BOLDNESS for always carrying a knife for no reason at all. (And because I'm kinda scared of you.)	
+
+>>>	standard_thegrounds14
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're flaunting your cosplay all over the lobby. Suddenly, you lock eyes with somebody else: somebody cosplaying your character's archnemesis!
+	narrator		You both freeze in place, facing each other. Sparks fly between you; the angry kind of sparks. You make your best threatening face and...
+	narrator		...she leaves. Maybe this was all in your head, and she was just weirded out?
+	narrator		Whatever, you gain +2 BOLDNESS for facing your worst enemy!	
+
+>>>	standard_thegrounds15
+>writer	moyano
+>event_type	standard
+>location	grounds
+	narrator		You're strutting down the lobby, proud of your amazing cosplay. A kid approaches you: "Could I have an autograph, please?"
+	narrator		Awww, you have a little fan! You hand him an autograph. The kid yells: "Who is %CURRENTPLAYERNAME%?!"	
+	narrator		He leaves crying as he realizes his favorite character is not real.	
+	narrator		Oops, forgot to stay in character! You gain +2 BOLDNESS for being a ruthless person who just shattered someone's dreams.	
+
+>>>	standard_hotel1
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You head to the front desk of the hotel to ask for an extra towel.
+	narrator		They give you one. You're drunk with power, so you decide to test how many extra towels you can ask for before they tell you to stop.	
+	narrator		You manage to get 14 extra towels. Huh... what can you do with this many towels? You only needed one.	
+	narrator		You decide to build a towel fort in your hotel room. You gain +2 CREATIVITY from such a magnificent architectural endeavor.	
+
+>>>	standard_hotel2
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You decide to hit the hotel bar for a cocktail, because you're classy like that.	
+	narrator		It's a pity you don't know shit about cocktails. When the waiter comes, you panic and order made-up cocktails like a "twisted torso", a "hug on the hill", and a "vacuum cleaner".
+	narrator		What do you know, they do have those cocktails!	
+	narrator		You proved your credentials as a cocktail connoisseur, and you get totally shitfaced thanks to your +2 CREATIVITY for coming up with drink names!
+
+>>>	standard_hotel3
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're chilling in your hotel room, staring at the ceiling. When you've already memorised the ceiling, you decide to call room service.	
+	narrator		Room service asks you: "How can I help you?" You tell room service you memorized the ceiling because you were bored.
+	narrator		It turns out room service loves your room's ceiling; they've memorized it out of boredom too! You talk about it for hours.	
+	narrator		The conversation is enriching and it inspires you for any ceiling-themed creative project you may have in the future. You gain +2 CREATIVITY.	
+
+>>>	standard_hotel4
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		Since you have some time off, you decide to hone your drawing skills by drawing some fanart.
+	narrator		You draw Son Goku, but you give him boobs. What a creative reinterpretation!
+	narrator		Then you draw Splash Kaboom with a twist: you add boobs and name it "Splash Kaboobs". You're on a roll!
+	narrator		Finally, you draw Misato from Evangelion. You turn her into a green-skinned biomechanical symbiote, and make her blonde. And you also give her a second pair of boobs.
+	narrator		You deserve +2 CREATIVITY for your successful boobstorming!	
+
+>>>	standard_hotel5
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're outside the Con. Ugh, SUCH a long line to get in!
+	narrator		You try to find the end of the line. You keep walking, and walking, and walking...
+	narrator		...and you find that the line doesn't end. In fact, the end of the line is the beginning of a different line!
+	narrator		This one line goes to a guy who's giving out free +2 CREATIVITY. That'll entertain you while you wait to get into the Con.	
+
+>>>	standard_hotel6
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're in front of the hotel wasting time. A taxi stops right in front of you, because why else would you be standing there doing nothing?
+	narrator		You're too embarrassed to tell the driver, so you get in and he takes you for a ride. Wow, this city is great!
+	narrator		Skyscrapers, several Neoplasticism Museums, suspicious holes in the ground... no wonder they set up the Con here: this truly is one of the Top Cities Worldwide.	
+	narrator		Too bad these aren't locations in the game, so there's no art of them. But you can imagine them in your head and gain +2 CREATIVITY in the process.	
+
+>>>	standard_hotel7
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're outside the Con when you see a bunch of sleepy-looking people sitting down.
+	narrator		"Hey, welcome to the Smoker's Lounge", one of them says to you. "There's no smoker's lounge, so we decided to make one out here."
+	narrator		"Want a puff?" he asks. You've seen too many PSAs to say yes to drugs, but you strike up a conversation with them while they get high off their asses.
+	narrator		They have interesting opinions on snacks, ASMR videos, and "2001: A Space Odyssey." Listening to them (and inhaling their weed fumes) gives you +2 CREATIVITY!	
+
+>>>	standard_hotel8
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're chilling in your hotel room and decide to browse the room service list.
+	narrator		Wow... they have all sorts of kinds: six-pack of beer, lots of shoelaces, even the very concept of CREATIVITY.	
+	narrator		Huh, that last one is expensive; but since MONEY isn't a stat anymore, it'd be a net gain, stat-wise.	
+	narrator		Shortly after, someone brings your +2 CREATIVITY and several shoelaces. Imagine all you can do with all this!	
+
+>>>	standard_hotel9
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're chilling in your hotel room when suddenly a man dressed as a rat breaks in.	
+	narrator		He runs around while yelling "I AM THE RAT! I AM THE RAT! LOOK AT ME! THE RAT!" and then he leaves as confusingly as he came.	
+	narrator		You call reception to complain. "Ah, yes... that. It happens sometimes. Apologies, %SIRMAAM%. We can compensate you with +2 CREATIVITY."	
+	narrator		Fuck it, you'll take that.	
+
+>>>	standard_hotel10
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You get an ice cream cone at a food stand. Damn, you ate it too fast! BRAIN FREEZE!
+	narrator		You feel like you can't move. You stand still for what seems like ages.
+	narrator		The entire Con passes in front of you; you imagine everything you'll miss out on now that you're forever frozen.
+	narrator		Suddenly, the brain freeze passes. After such a traumatic experience, your neural pathways have been changed forever, effectively giving you +2 CREATIVITY.	
+
+>>>	standard_hotel11
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		Lounging around the hotel, you see a sign in front of the conference room: "Con Artists Meeting". Awesome!
+	narrator		You learn lots of cool techniques. They feel much more like scams... but who are you to judge what is and isn't art!	
+	narrator		You gain +2 CREATIVITY learning to bend truth to make a quick buck.	
+
+>>>	standard_hotel12
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're in the hotel room sewing your cosplay costume when you mistakenly sew it to the bed's blanket.	
+	narrator		You could unsew it, but that would mean admitting you made a mistake.	
+	narrator		So you decide to properly implement a blanket in the costume design and leave your dumb ego intact.	
+	narrator		Look at you, being a stubborn dumb-dumb. Here, have +2 CREATIVITY for such out-of-the-box thinking.	
+
+>>>	standard_hotel13
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're chilling at the hotel room with nothing to do. Looking around for cheap entertainment, you notice April's purse hanging from a chair.
+	narrator		Will you dare violate the sanctity of an idol's purse? Of course you will! You grab the purse, open it and...
+	narrator		...oh no. No way. This is too horrible to describe. Don't count on me to utter these words.
+	narrator		Here, have +2 CREATIVITY and go imagine it on your own. I'm out.	
+
+>>>	standard_hotel14
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		You're in your hotel room, unpacking your bags. Crap, you forgot your cosplay underwear!	
+	narrator		You wanted your cosplay to be 100% faithful, but now you're forced to use your regular underwear. This is a technically imperceptible cosplay tragedy!
+	narrator		I feel for you... Here, take +2 CREATIVITY to imagine you're wearing the underwear you left at home.	
+
+>>>	standard_hotel15
+>writer	moyano
+>event_type	standard
+>location	hotel
+	narrator		At the hotel, you carefully put on your cosplay. You're ready to go, except... Uh-oh. You feel a rumble in your belly.
+	narrator		There's no time to take off the costume, so you'll have to poop in cosplay. It's a strange experience: you rarely see a fictional character pooping.
+	narrator		Your toilet-based cosplaying gives you a better understanding of the character. Here's +2 CREATIVITY for broadening your knowledge in such an unexpected way.	
+
+>>>	forced_allsame_standard_hotel_hotel
+>event_type	special
+>background	normal	location_hotel
+	narrator		You go to the hotel... and before you can do anything you're ambushed by an irrepressible urge to poop.
+	narrator		You feel lucky, since you don't feel you'd have the nerve to poop anywhere else.
+
+>>>	forced_allsame_standard_hotel_bigplateau
+>event_type	special
+>background	normal	location_bigplateau
+	narrator		You're walking towards the Main Stage when you feel your bowels trembling. Quick, run back to the hotel!
+>background	normal	location_hotel
+	narrator		You miss the panel you were so looking forward to... but hey, your butt had very interesting things to say too.
+
+>>>	forced_allsame_standard_hotel_grounds
+>event_type	special
+>background	normal	location_grounds
+	narrator		You're hanging out in the lobby when your bowels start roaring. For a split second you wonder whether anyone would notice if you pooped here, hidden among the crowd.
+>background	normal	location_hotel
+	narrator		But today your better judgement wins. You decide to sprint back to your hotel room to poop in solitude.
+
+>>>	forced_allsame_standard_hotel_community
+>event_type	special
+>background	normal	location_community
+	narrator		Ah, the Community Zone! You've been wanting to... AAAAAAH, FUCK, YOU'RE ABOUT TO POOP YOURSELF!
+>background	normal	location_hotel
+	narrator		You run like no one has run before, reaching your hotel room just in time not to poop all over yourself.
+
+>>>	forced_allsame_standard_hotel_stands
+>event_type	special
+>background	normal	location_stands
+	narrator		You would spend so much money in the Merch Hall... IF YOU WEREN'T ABOUT TO POOP YOURSELF. Quick: does any stand sell anime-themed toilet paper?!
+>background	normal	location_hotel
+	narrator		They don't, which is why you head to your hotel room as fast as you can, to make good use of the hotel's bland, non-nerdy toilet paper.
+
+>>>	forced_specificdestruction_standard_bigplateau
+>event_type	special
+>special_command	playforcedmusicsongthisevent	ambient_spookywind
+>background	normal	generic_dark
+	narrator		You go to the Main Stage. There was this one panel you really wanted to check out.	
+	narrator		Still, as you could see from afar, the Main Stage has been reduced to smithereens.
+	narrator		Did you really expect they would still be holding activities among the ruins?
+	narrator		Silly you.

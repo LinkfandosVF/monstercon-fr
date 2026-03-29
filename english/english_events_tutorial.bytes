@@ -1,0 +1,262 @@
+>>>	tutorial_wincondition			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	duo	zoe,liam
+	zoe	eyebrows	Wait a second, champ!
+	liam	default	Yeah, no need to rush into this. We're here to give you some tips on how to do cons the right way.
+	zoe	naughty	Think of it like... some sort of tutorial!
+	liam	bored	(God knows you could use one of those...)
+	zoe	hyped	As everyone knows, the main activity of a con is... finding love.
+	liam	suspicious	Eh...
+	zoe	happy	Yeah, I know, it isn't really; but this is %CURRENTPLAYERNAME% we're talking about.
+	zoe	naughty	Look at %HIMHER%: %HESHE% %VERB_IS_ARE% probably aiming to get a date at the big con afterparty.	
+	player	default	...
+	liam	bored	Ah, yes... the silence speaks volumes.
+	zoe	happy	Well, if you wanna get a date, you'd better get to know the other person and what they look for in a potential partner.
+	liam	talking	Exactly: do they share dreams and fears? Are your visions of the world in sync? Are your souls truly compatible?
+	zoe	happy	Too complicated! Let's say someone's personality can be defined through five traits: SMARTS; BOLDNESS; CREATIVITY; CHARM; and FUN.
+	zoe	excited	Let's call them STATS! It sounds cooler and more videogame-y.
+	liam	thinking	A tad reductive, but let's work with that.
+	zoe	default	Then you have to ask yourself: is your FUN high enough for someone who loves to party? Is your BOLDNESS low enough for someone who likes peace and quiet?
+	liam	glasses	Sometimes people are even more ambiguous... like they may like someone who's just... balanced.
+	zoe	hyped	The point is, everyone has their standards... stat standards!
+	liam	talking	And if by some chance you want to go to the party by yourself...
+	zoe	happy	(Which is a totally valid option if that's your jam!)
+	liam	smile	...don't think you'll be exempt from managing your stats. You can still fail at it!
+	zoe	default	There's more stuff to keep in mind... but let's cover that later, okay? There was a panel I wanted to check out.
+	liam	thinking	Sounds good. And I have to rehearse the next "tutorial".
+	zoe	laugh	Have fun, %CURRENTPLAYERNAME%!
+
+>>>	tutorial_statexchange			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	duo	zoe,liam
+	zoe	intense	Wait a second! It's time for a new episode of "Tutorials with Liam and Zoe"!
+	liam	default	Yes. We realized we have explained the importance of managing stats; but we didn't cover how to manage them properly.
+	zoe	excited	Exactly! Stats can be managed in a number of ways. But let's cover the most important one!
+	liam	smile	That'd be experiencing the sort of absurd and exciting adventures that usually take place once you visit a LOCATION.
+	zoe	happy	Let's call these experiences EVENTS, for short.
+	liam	thinking	Normally, during an EVENT, you face a conflict you must solve by choosing between potential solutions... OPTIONS, if you will.
+	liam	default	What you choose will define you as a person. If you choose a SMART OPTION, you'll gain SMARTS.
+	zoe	laugh	Yeah! If you choose to punch a bear, that'd be quite bold of you, so you'd gain BOLDNESS.
+	liam	default	But STATS are also lost when choosing an OPTION.
+	liam	glasses	Every path not taken is a stat lost.
+	zoe	default	Which is to say: if you chose the SMART OPTION instead of punching the bear, then you'd gain SMARTS but lose BOLDNESS.
+	liam	bored	Just... try not to punch a bear, okay?
+	zoe	naughty	Liam, let %CURRENTPLAYERNAME% punch a bear if that's who %HESHE% %VERB_IS_ARE% as a person.
+	liam	thinking	Anyway, there are a few more ways of managing STATS, like...
+	zoe	intense	Liam, let's write those down in a MANUAL or something. I really wanted to go check out those limited figurines I told you about.
+	liam	talking	True. We can keep giving you tips later, yes? In the meantime, don't get yourself killed.
+
+>>>	tutorial_statsglossarya			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	duo	zoe,liam
+	zoe	intense	Stop right there! This is the STAT police! We're here to test you on your STAT knowledge.
+	zoe	laugh	Just kiddin'! It's us: Zoe and Liam, renowned creators, verified hot people, and knowledgeable tutorial dispensers!
+	liam	thinking	We thought, "We've been giving %CURRENTPLAYERNAME% all these exquisite tips on how to manage STATS; but how easy is it to know which OPTION ties to which STAT?"
+	zoe	default	Yeah! Some OPTIONS will be easy to interpret, like how punching a bear feels like a very BOLD thing to do.
+	liam	eyeroll	But some will be quite a bit more nuanced, and it might be harder to tie them to a STAT...
+	zoe	happy	...which is why we've written all the specifics to every STAT in a MANUAL for you to check!
+	narrator		(Which will be available within the CUSTOMIZE menu.)
+	liam	default	So even if an OPTION might not feel tied to a specific STAT, or even more than one...
+	liam	thinking	...you just gotta take your time. Try to analyze what's the biggest clue within the OPTION, and which STAT relates to that specific clue.
+	zoe	hyped	Or you know what? Just ignore STATS and choose whichever OPTION feels more interesting to you. Live, fail, have fun!
+	liam	smile	I must agree with Zoe here. Just try not to fail TOO MUCH.
+	zoe	naughty	Meh... let's go play some DDR so I can see YOU fail TOO MUCH.
+	liam	eyeroll	Tch... let's go; but don't be surprised if you're disappointed.
+	zoe	excited	See ya around, %CURRENTPLAYERNAME%!
+
+>>>	tutorial_foodcourt			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	solo	narratorbody
+	narratorbody	happy	Welcome to the Food Court! You'll be visiting this place twice per run.
+	narratorbody	happy	Ah, yes, this tutorial will be delivered by me, The Narrator!
+	narratorbody	cat	Tutorials explained by characters are fun and immersive; but as the Narrator, I have the power to go straight to the point!
+>line_requirement	platform	!console
+	narratorbody	smile	For example, I can just tell you that by pressing "TAB" you can access useful info!
+>line_requirement	platform	switch
+	narratorbody	smile	For example, I can just tell you that by pressing "ZL/SL" you can access useful info!
+>line_requirement	platform	playstation
+	narratorbody	smile	For example, I can just tell you that by pressing "L2" you can access useful info!
+>line_requirement	platform	xbox
+	narratorbody	smile	For example, I can just tell you that by pressing "LT" you can access useful info!
+>line_requirement	platform	!console
+	narratorbody	smile	Or that you can consult the dialogue history by either pressing "H" or "mousewheel up".
+>line_requirement	platform	switch
+	narratorbody	smile	Or that you can consult the dialogue history by pressing "X".
+>line_requirement	platform	playstation
+	narratorbody	smile	Or that you can consult the dialogue history by pressing the triangle button.
+>line_requirement	platform	xbox
+	narratorbody	smile	Or that you can consult the dialogue history by pressing "Y".
+	narratorbody	happy	Cool, huh?
+	narratorbody	default	Anyhow, back to the Food Court!
+	narratorbody	default	Food Court turns are about getting to know the one person you want to take to the con afterparty, even if that means getting to know yourself.
+	narratorbody	default	There are 5 tables you can choose from.
+	narratorbody	default	3 of the tables are populated by the 6 Romance Options, in pairs.
+	narratorbody	kiss	One of the tables lets you call one of several "guests", who are essentially alternative date options!
+	narratorbody	default	Finally, there's a table for you to sit alone.
+	narratorbody	smile	These tables are tied to their own mechanics. As usual, our jam is obscuring said mechanics a bit so you can focus on the narrative side of this experience.
+	narratorbody	smile	By playing, you can slowly but steadily learn how everything works.
+	narratorbody	smile	But if that's not your style, we've added helpful explanations of everything in the MANUAL. Feel free to check it out!
+	narratorbody	default	Just keep in mind that each table only allows for one player.
+	narratorbody	happy	Now, go choose a seat!
+
+>>>	tutorial_foodcourtpeppers			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	solo	narratorbody
+	narratorbody	kiss	So you want to go on a date, huh?
+	narratorbody	default	As we've said, these mechanics are covered in the MANUAL; but there's one little thing we wanted to cover here.
+	narratorbody	default	You'll see some PEPPERS on the different DATES. They are a sort of "Spicy Meter".
+	narratorbody	default	This is like declaring your preference of spiciness when you're pursuing a date. It doesn't affect the date itself, but the ending you'll get if you succeed.
+	narratorbody	surprised	The art might be the same, but the narrative won't!
+	narratorbody	smile	Zero peppers will make the ending more platonic.
+	narratorbody	happy	One and two peppers will make the ending somewhere between romantic and suggestive.
+	narratorbody	kiss	Three peppers will make the ending definitively... naughty.
+	narratorbody	surprised	Just keep in mind that choosing a low amount of peppers won't affect the content of SECRET ENDINGS, which might be naughty!
+	narratorbody	smile	Okay, you're now truly prepared to go on your first date!
+
+>>>	tutorial_gueststable			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	solo	narratorbody
+	narratorbody	smile	Welcome back to the FOOD COURT!
+	narratorbody	default	I wanted to cover the last two important facts about this place: CONVERSATIONS and GUESTS.
+	narratorbody	default	The first one is fairly simple: if you sit with the same Romance Option twice in the same run, you'll bond over a conversation.
+	narratorbody	surprised	If you sit alone twice, you'll have some you-time to sit and reflect on life and stuff. It's like a CONVERSATION... but with yourself!
+	narratorbody	smile	Each PLAYABLE CHARACTER has one of these!
+	narratorbody	default	And what about the GUESTS? I wanted to tell you there's three things you gotta do if you want to get a date with one of them.
+	narratorbody	default	First, you have to meet their date requirements by the end of the run.
+	narratorbody	smile	You'll have clues for what these requirements are when you first greet the GUEST and they tell you what their "type" is.
+	narratorbody	three	Second, you gotta have a fun little date with them, to get know each other better.
+	narratorbody	default	This is done by calling them a second time when you come back to the FOOD COURT.
+	narratorbody	smile	Third, remember to choose "NONE OF THEM" when you're asked which ROMANCE OPTION you want to date at the end of the run!
+	narratorbody	smile	And that'd be all.
+	narratorbody	happy	Now, let's go sit somewhere!
+
+>>>	tutorial_comics			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	duo	zoe,liam
+	zoe	hyped	It's time to work on the COMIC!
+	liam	glasses	As your creative mentors, we've prepared very original questions that will spur extraordinary ideas!
+	zoe	default	We've written two per day.
+	liam	smile	You're welcome.
+	zoe	default	Once the exercise is done, you might see no comic... just yet.
+	liam	talking	But you have to trust the process, %CURRENTPLAYERNAME%; your efforts will come to fruition by the end of the con.
+	zoe	laugh	Totally! How you choose to answer the exercises will impact the script of the resulting COMIC!
+	zoe	happy	I recommend that you remember (or even take note of) every OPTION you choose during this exercise, to better savor its impact once we get to see the resulting COMIC.
+	liam	talking	And there's more to these exercises: all these choices will shape you as a person...
+	zoe	intense	...which is to say they will affect your STATS!
+	liam	default	You'll feel these changes each time you solve one of the exercises.
+	liam	smile	And there's one last thing I love about creative work: when several people collaborate, it changes them all as a group.
+	zoe	happy	That's right! My personal advice is that, even if one person is answering an exercise, the whole group should discuss it.
+	narrator		To be clear: you'll gain a lot of the STAT tied to the chosen OPTION... but you'll lose the STATS tied to the OPTIONS not chosen.
+	narrator		And these STAT effects will equally affect ALL PLAYERS.
+	liam	suspicious	Shush that voice! It's breaking the immersion. Ugh.
+	zoe	intense	Anyway... enough procrastinating!
+	liam	smile	Zoe is right: it's time to work on your craft. Hold this pencil and let the mind wander!
+
+>>>	tutorial_comicending			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	duo	zoe,liam
+	zoe	hyped	AAAAAAAAAAA! It's time to see how the comic has turned out!
+	liam	thinking	Okay, what was the goal we agreed on for these days' work?
+	zoe	default	The cover, the overall plot... and one full finished page.
+	liam	talking	Do you remember how you solved each one of our exercises? It's key to how the muse will give shape to the fruits of your labor.
+	zoe	laugh	Which is Liam's pedantic way of saying that now is when we'll see how the OPTIONS you chose will affect the COMIC you're about to see.
+	liam	blushside	Sue me for wanting to imbue poetry in our day-to-day...
+	zoe	excited	I may sue you later, Liam. For now, I want to take a peek at this comic!
+
+>>>	tutorial_plotlines			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	solo	narratorbody
+	narratorbody	smile	So you're in the middle of a PLOTLINE, huh?
+	narratorbody	happy	I'm here to explain a small twist.
+	narratorbody	default	Normally, when choosing an OPTION in an EVENT, you will gain the STAT associated with that OPTION (and lose the STAT associated with the other OPTION), right?
+	narratorbody	happy	(Hope you were paying attention to the other tutorials!)
+	narratorbody	default	Well, the LAST EVENT of each PLOTLINE goes back to our classic "STAT THRESHOLD" mechanic from previous games.
+	narratorbody	surprised	What does this mean?
+	narratorbody	default	In these EVENTS, each OPTION is tied to a STAT. You gotta guess which STAT is tied to each OPTION and then check your own STATS, OK?
+	narratorbody	default	Then, if you wanna succeed, you must choose the OPTION tied to your highest STAT of the two.
+	narratorbody	happy	If you choose right, congratulations! You'll be one step closer to getting a SECRET ENDING.
+	narratorbody	worried	But if you choose wrong? Then you will fail the EVENT, and the PLOTLINE will come to an end, preventing you from getting its SECRET ENDING.
+	narratorbody	cat	No pressure, right?
+	narratorbody	happy	Nothing else to say. Go for it, player!
+
+>>>	tutorial_shop			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	hidden	zorrito
+	zorrito	default	Welcome to my humble stand, stranger.
+	zorrito	hello	Here, you can get beautiful figurines with amazing properties.
+	zorrito	hello	They have all sorts of effects, which you will discover as you unbox them.
+	zorrito	default	There are different mystery box categories, each one tied to a different type of effect.
+	zorrito	default	(I'll give you some clues on the effect types once you start looking through the boxes.)
+	zorrito	default	So, you choose which box category you want, and before you open it, you'll decide if you want to keep it for yourself or give it to a friend.
+	zorrito	shady	A balance between order and chaos: you can control which type of effect you want, but you won't know exactly which figurine of that category you'll get.
+	zorrito	bummed	And don't fret: if you aren't a fan of surprises at all, there's a category that guarantees NO EFFECT at all.
+	zorrito	offering	So: ready for the unboxing?
+
+>>>	tutorial_plotlinedates			
+>writer	jules
+>event_type	special
+>topic_tags
+>argument_tags
+>ignore_for_progress
+>background	hidden
+>layout	solo	narratorbody
+	narratorbody	smile	Hey, stranger!
+	narratorbody	surprised	This is the last TUTORIAL about the FOOD COURT, I promise!
+	narratorbody	surprised	Did you notice there were some locked DATES? Those are tied to plotlines!
+	narratorbody	default	Some plotlines will first appear organically and catch you by surprise...
+	narratorbody	default	...but once you finish them, you'll be able to trigger them again by choosing their respective date.
+	narratorbody	surprised	There are also locked PLOTLINE DATES at the ALONE TABLE.
+	narratorbody	default	Those do NOT appear organically: you gotta unlock them, and only then you can trigger them through their respective DATES.
+	narratorbody	default	PLOTLINE DATES only appear during the first FOOD COURT turn, since you'll need time for the PLOTLINE to fully develop.
+	narratorbody	default	Also, they have a "Spicy Meter" to better inform the spiciness of the plotline and its secret ending.
+	narratorbody	happy	Anyhow, you must be hungry: go sit somewhere!

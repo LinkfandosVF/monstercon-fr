@@ -1,0 +1,349 @@
+>>>	pre_date_miranda_1
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	miranda
+>background	normal	hoteloutdoors
+	narrator		You invite Miranda to join you at the con.
+	miranda	blusha	A con? Like a felony? A princess shouldn't commit crimes!
+	player	default	No, I meant "con" like "convention."
+	miranda	kawaii	Oh, like a societal convention? It's important for a princess to uphold those. I'd love to go!
+	narrator		Hey, whatever works!	
+
+>>>	pre_date_miranda_2
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	miranda
+>background	normal	hoteloutdoors
+	narrator		You invite Miranda to join you at the con.
+	miranda	thinking	A con? You mean those places where peasants go to discuss low-brow popular culture?
+	player	default	Um...
+	miranda	sing	I've always wanted to see one for myself. It'll be interesting to learn their strange customs! Let's go!	
+
+>>>	pre_date_sawyer_1
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	sawyer
+>background	normal	hoteloutdoors
+	narrator		You invite Sawyer to join you at the con.
+	sawyer	smile	Sounds like fun. As soon as I'm done braiding Biscotti's mane, I'll ride her over.
+	sawyer	default	See you in 4 to 8 hours!	
+
+>>>	pre_date_sawyer_2
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	sawyer
+>background	normal	hoteloutdoors
+	narrator		You invite Sawyer to join you at the con.
+	sawyer	thinking	Sure, I'm in. Do they have valet parking for horses?
+	player		Only one way to find out!	
+
+>>>	pre_date_kale_1
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	kale
+>background	normal	hoteloutdoors
+	narrator		You invite Kale to join you at the con.	
+	kale	smile	Awesome! I'll pack my bowl.
+	player	default	You mean your bags?
+	kale	blush	Haha, nah.	
+
+>>>	pre_date_kale_2
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	kale
+>background	normal	hoteloutdoors
+	narrator		You invite Kale to join you at the con.
+	kale	thinking	Maaan, I've never been to a con! I wish someone would invite me to one...	
+	player	default	...I'm inviting you right now.
+	kale	smile	Oh, awesome! See you there!	
+
+>>>	pre_date_mamimi_1
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	mamimi
+>background	normal	hoteloutdoors
+	narrator		You invite Mamimi to join you at the con.
+	mamimi	default	...Sure.
+	player	default	You don't sound too excited.
+	mamimi	thinking	I don't? Let me try again:
+	mamimi	smirk	Sure.	
+	player	default	That's better!	
+
+>>>	pre_date_mamimi_2
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	mamimi
+>background	normal	hoteloutdoors
+	narrator		You invite Mamimi to join you at the con.
+	mamimi	default	...Sure.
+	player	default	You don't sound too excited.
+	mamimi	thinking	Huh, guess the energy drink hasn't kicked in yet. Wait a sec...	
+	mamimi	default	*slurping noises*
+	mamimi	surprised	SOUNDS GREAT! SEE YOU THERE!
+	player	default	Much better!	
+
+>>>	pre_date_scott_1
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	scott
+>background	normal	hoteloutdoors
+	narrator		You invite Scott to join you at the con.
+	scott	thinking	Sounds cool! Do people play sports there?
+	player	default	Kind of. They're actually fantasy sports, but--	
+	scott	default	You had me at "sports"! See you there!	
+
+>>>	pre_date_scott_2
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	scott
+>background	normal	hoteloutdoors
+	narrator		You invite Scott to join you at the con.
+	scott	thinking	Oooh, I'd love to!	
+	scott	default	I don't know much about nerd stuff. Do you think they'll like a big, furry fella like me?	
+	player	eureka	Oh, Scott, you'd be surprised.	
+
+>>>	pre_date_vera_1
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	vera
+>background	normal	hoteloutdoors
+	narrator		You invite Vera to join you at the con.
+	vera	disgust	A nerd con? Ugh...
+	vera	eyeroll	But I DO need an excuse to get out of this awful board meeting, so... sure. See you soon.	
+
+>>>	pre_date_vera_2
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	vera
+>background	normal	hoteloutdoors
+	narrator		You invite Vera to join you at the con.
+	vera	smile	Sure, I'd love to go.
+	player	default	Really? I didn't think you'd be interested.
+	vera	laugh	Of course I am. I have money to launder, and merch is the perfect cover.	
+
+>>>	pre_date_veravalerie
+>event_type	special
+>ignore_for_progress
+>action	0		Invitation
+>layout	solo	vera
+>background	normal	hoteloutdoors
+	narrator		You invite your sister to join you at the con.
+	vera	eyeroll	A con? You know I love you... but why would I go to a nerdy convention?
+	player	default	Have you considered how expensive, nerdy merch is the perfect cover to launder money?	
+	vera	laugh	You really know me well, don't you? See you there.	
+
+>>>	pre_date_gerard_1
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	gerard
+>background	normal	hoteloutdoors
+	narrator		You invite Gerard to join you at the con.
+	gerard	resigned	Sorry, I'm too busy brooding.
+	player	default	Well, can't you brood here?
+	gerard	thinking	Hmm... okay. Brooding is extra dramatic when you're surrounded by joy.	
+
+>>>	pre_date_gerard_2
+>event_type	special
+>count_for_progress
+>action	1		Invitation
+>layout	solo	gerard
+>background	normal	hoteloutdoors
+	narrator		You invite Gerard to join you at the con.
+	gerard	hurt	No way. I'm sad, and going will make me sadder.
+	player	default	...Don't you usually enjoy that?
+	gerard	thinking	True. See you in a bit.	
+
+>>>	pre_date_freehugs_1
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	freehugs
+>background	normal	hoteloutdoors
+	narrator		You invite Bruce to join you at the con.
+	freehugs	friendly	I'd love to! Let's hug to celebrate!
+	player	default	Uh... this is a phone conversation.
+	freehugs	confused	Right, right. I'll hug you when I see you!	
+
+>>>	pre_date_freehugs_2
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	freehugs
+>background	normal	hoteloutdoors
+	narrator		You invite Bruce to join you at the con.
+	freehugs	strong	Of course! Can't wait to hug everyone there!
+	freehugs	default	Can I practice with you first?
+	player	default	Sure!	
+
+>>>	pre_date_fanzine_1
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	fanzine
+>background	normal	hoteloutdoors
+	narrator		You invite Yang Yang the fanzine vendor to join you at the con.
+	fanzine	default	Of course! Will you help me sell my fanzines?
+	player	default	Sure.
+	fanzine	scheming	Great! Get some cash ready, I'll bring them ASAP!	
+
+>>>	pre_date_fanzine_2
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	fanzine
+>background	normal	hoteloutdoors
+	narrator		You invite Yang Yang the fanzine vendor to join you at the con.
+	fanzine	worried	I'd love to, but I don't have the time.
+	fanzine	begging	If I'd sold at least ONE fanzine...
+	player	default	...Fine, I'll buy one.
+	fanzine	happy	Great! See you in a moment!	
+
+>>>	pre_date_susanne_1
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	susanne
+>background	normal	hoteloutdoors
+	narrator		You invite Susanne to join you at the con.
+	susanne	default	Awesome! I'll bring my bike in case someone wants to illegally race me!
+	player	default	Umm... nobody here rides a motorbike.
+	susanne	smile	Really? Then I'm gonna beat 'em for SURE!	
+
+>>>	pre_date_susanne_2
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	susanne
+>background	normal	hoteloutdoors
+	narrator		You invite Susanne to join you at the con.
+	susanne	default	Cool! I'll race you there!
+	player	default	...I'm already here.	
+	susanne	shocked	Whoa, you're FAST!	
+
+>>>	pre_date_puppet_1
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	puppet
+>background	normal	hoteloutdoors
+	narrator		You invite Wyatt to join you at the con.
+	puppet	thinking	You wanna hang out? Eh... I'll pass.
+	player	default	Oh...
+	puppet	teasing	Hahaha, kidding! Man, I wish I could've seen your face. I'll see you in a bit.	
+
+>>>	pre_date_puppet_2
+>event_type	special
+>count_for_progress
+>action	2		Invitation
+>layout	solo	puppet
+>background	normal	hoteloutdoors
+	narrator		You invite Wyatt to join you at the con.
+	puppet	thinking	Maaaybe... they got an escape room at this thing?
+	player	default	Well, there's the struggle of escaping the crowded lobby...
+	puppet	default	Say no more. I'll see you soon!	
+
+>>>	pre_date_zorrito_1
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	zorrito
+>background	normal	hoteloutdoors
+	narrator		You invite Yi Feng to join you at the con.
+	zorrito	default	Let's let fate decide! Heads or tails?
+	player	default	I'll pick tails.
+	zorrito	default	Okay, I'll join you.
+	player	default	So I won the coin flip?
+	zorrito	explaining	No, I was just testing you. Tails is ALWAYS the right answer, haha!	
+
+>>>	pre_date_zorrito_2
+>event_type	special
+>count_for_progress
+>action	3		Invitation
+>layout	solo	zorrito
+>background	normal	hoteloutdoors
+	narrator		You invite Yi Feng to join you at the con.
+	zorrito	default	Let's let fate decide! Heads or tails?
+	player	default	I'll pick tails.
+	zorrito	default	Okay, I'll join you.
+	player	default	So I won the coin flip?
+	zorrito	explaining	No, I was just testing you. I only hang out with people ready to surrender their fate to Lady Luck.	
+
+>>>	pre_date_faith_1
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	faith
+>background	normal	hoteloutdoors
+	narrator		You invite Faith to join you at the con.
+	faith	thinking	I don't know... are there animals there?
+	narrator		You think of all the furries you've seen earlier today in the con's main hall.
+	player	default	Eh... yes, kind of.
+	faith	smile	Sounds good. See you there.
+
+>>>	pre_date_faith_2
+>event_type	special
+>count_for_progress
+>action	0		Invitation
+>layout	solo	faith
+>background	normal	hoteloutdoors
+	narrator		You invite Faith to join you at the con.
+	faith	thinking	Huh... I don't know... cons aren't exactly my thing...
+	player	default	I know; but what can I say? I had faith you'd want to try something new!
+	faith	smile	Hehe... I saw what you did there.
+	faith	smile	Okay, you make a good point: trying new things can be nice. See you there.
+
+>>>	pre_date_tengu_1
+>event_type	special
+>count_for_progress
+>layout	solo	tengu
+>action	3		Invitation
+>background	normal	hoteloutdoors
+	narrator		You invite Nanase to join you at the con.
+	tengu	thinking	I don't know... I'm doing some research for my next novel. I've spent two hours looking up different types of cheese.	
+	player	default	That sounds like you're procrastinating.
+	tengu	default	All right, you got me. I'll meet you in five minutes.
+
+>>>	pre_date_tengu_2
+>event_type	special
+>count_for_progress
+>layout	solo	tengu
+>action	3		Invitation
+>background	normal	hoteloutdoors
+	narrator		You invite Nanase to join you at the con.
+	tengu	eyeroll	I'd love to hang out, but I still have to sign these special-edition books...
+	tengu	default	Whatever, I'll sign them on the go!
+
+>>>	pre_date_cosplayfixer_1
+>event_type	special
+>count_for_progress
+>layout	solo	cosplayfixer
+>action	3		Invitation
+>background	normal	hoteloutdoors
+	narrator		You invite Sasha to join you at the con.
+	cosplayfixer	unimpressed	Great, let me guess: Nico's done some horrible damage to their outfit and I only have an hour to fix it.
+	player	default	No, Nico's fine. I was calling to see if you wanted to hang out.
+	cosplayfixer	smirk	Really? How refreshing. Yes, let's do it.
+
+>>>	pre_date_cosplayfixer_2
+>event_type	special
+>count_for_progress
+>layout	solo	cosplayfixer
+>action	3		Invitation
+>background	normal	hoteloutdoors
+	narrator		You invite Sasha to join you at the con.
+	cosplayfixer	unimpressed	I'd love to, but I'm working on this Naruto cosplay. It's riddled with holes.
+	player	default	What if you re-sell it as "Naruto after a fight?"
+	cosplayfixer	smirk	...I think you just saved me 5 hours' work. Let's go.

@@ -1,0 +1,49 @@
+import UnityPy
+import os
+import shutil
+
+BUNDLE_PATH = "/Applications/Monster Prom 4 Monster Con.app/Contents/Resources/Data/StreamingAssets/aa/StandaloneOSX/texts_assets_all.bundle"
+FRENCH_DIR = os.path.expanduser("~/Desktop/monsterprom_fr/french")
+OUTPUT_PATH = os.path.expanduser("~/Desktop/monsterprom_fr/texts_assets_all.bundle")
+
+# Charger tous les fichiers french en mémoire
+french_files = {}
+for filename in os.listdir(FRENCH_DIR):
+    if filename.endswith(".bytes"):
+        with open(os.path.join(FRENCH_DIR, filename), 'r', encoding='utf-8') as f:
+            french_files[filename.replace(".bytes", "")] = f.read()
+
+print(f"{len(french_files)} fichiers français chargés\n")
+
+# Copie du bundle original
+shutil.copy2(BUNDLE_PATH, OUTPUT_PATH)
+
+# Charger et modifier le bundle
+env = UnityPy.load(OUTPUT_PATH)
+
+replaced = 0
+for obj in env.objects:
+    if obj.type.name == "TextAsset":
+        data = obj.read()
+        name = data.m_Name  # ex: "english_events_guestintro"
+        
+        # Cherche le fichier french correspondant
+        french_name = name.replace("english_", "french_", 1)
+        
+        if french_name in french_files:
+            data.m_Script = french_files[french_name]
+            data.save()
+            print(f"  ✓ {name} → {french_name}")
+            replaced += 1
+        else:
+            print(f"  - {name} (pas de traduction, laissé en anglais)")
+
+# Sauvegarder
+with open(OUTPUT_PATH, "wb") as f:
+    f.write(env.file.save(packer="lz4"))
+
+print(f"\n{replaced} assets remplacés")
+print(f"Bundle sauvegardé : {OUTPUT_PATH}")
+print(f"\nCopiez ce fichier dans :")
+print(f"  Mac   : /Applications/Monster Prom 4 Monster Con.app/")
+print(f"  Win   : StreamingAssets/aa/StandaloneWindows64/")

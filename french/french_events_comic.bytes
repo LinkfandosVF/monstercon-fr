@@ -1,0 +1,1161 @@
+>>>	comic_intro_1_1			
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	1
+>background	hidden
+>layout	none
+	narrator		The con is a whirlwind of activity (and overstimulation), but somehow you find time to work on your comic.
+	narrator		Time to brainstorm!
+
+>>>	comic_intro_1_2
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	1
+>background	hidden
+>layout	none
+	narrator		Now it's time to take a break from your real-life shenanigans and brainstorm some fictional shenanigans for your comic.
+	narrator		Go for it!
+
+>>>	comic_intro_1_3
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	1
+>background	hidden
+>layout	none
+	narrator		Love isn't the only thing you're chasing at this con. You've also got a comic to finish!
+	narrator		Time to brainstorm!
+
+>>>	comic_intro_1_4
+>writer	julian
+>event_type	comic
+>comic_intro
+>comic_turn_number	1
+>background	hidden
+>layout	none
+	narrator		You dive into comic work again. You're excited, since the other day you had an idea for a kick-ass new character.
+	narrator		You gotta admit this character is secretly based on a friend of yours, so you first give them a call to check if they're OK with you using their likeness.
+
+>>>	comic_intro_1_5
+>writer	julian
+>event_type	comic
+>comic_intro
+>comic_turn_number	1
+>background	hidden
+>layout	none
+	narrator		Before getting into the drawing part of your comic project, you call a couple of your friends.
+	narrator		You just realized some of your characters look exactly like them (happens when you have such cool-looking friends), so you thought it'd be nice to get their approval to use their likeness first!
+
+>>>	comic_intro_2_1			
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	2
+>background	hidden
+>layout	none
+	narrator		Can you guess what time it is? Yep: it's comic time!
+	narrator		Time to brainstorm!
+
+>>>	comic_intro_2_2
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	2
+>background	hidden
+>layout	none
+	narrator		You feel a surge of creative inspiration and rush to work on your comic.
+	narrator		What genius will your pen create today? Brainstorm and find out!
+
+>>>	comic_intro_2_3
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	2
+>background	hidden
+>layout	none
+	narrator		Love is fickle, but at least you have your comic to rely on.
+	narrator		Time to brainstorm!
+
+>>>	comic_intro_2_4
+>writer	jules
+>event_type	comic
+>comic_intro
+>comic_turn_number	2
+>background	hidden
+>layout	none
+	narrator		Another day, another morning to devote to the comic you're working on!
+	narrator		Time to brainstorm!
+
+>>>	comic_intro_3_1			
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	3
+>background	hidden
+>layout	none
+	narrator		Before you know it, the con's almost over, and it's time to put the finishing touches on your comic.
+	narrator		Bring it home with one last brainstorming session!
+
+>>>	comic_intro_3_2
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	3
+>background	hidden
+>layout	none
+	narrator		And all of a sudden, it's time for the last brainstorming session for your comic.
+	narrator		Where did the time go?
+
+>>>	comic_intro_3_3
+>writer	quinn
+>event_type	comic
+>comic_intro
+>comic_turn_number	3
+>background	hidden
+>layout	none
+	narrator		It's almost time to find a date, but first, it's almost time to publish your comic!
+	narrator		Now's your chance for one final brainstorming session to polish it!
+
+>>>	comic_endingintro_1
+>event_type	ending
+>ending_type	comic
+>comic_stage	intro
+	narrator		Finally, the art gang gathers 'round to put all the pieces of your greatest masterpiece together.
+	narrator		Time to see the fruits of your labor!
+
+>>>	comic_endingintro_2
+>event_type	ending
+>ending_type	comic
+>comic_stage	intro
+	narrator		Finally, the art gang gathers 'round to put all the pieces of your greatest masterpiece together.
+	narrator		Time to see the fruits of your labor!
+
+>>>	shonen_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	shonen
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_shonen_cover_2:slide:0.0:2
+	narrator		"Punching Harder!" is a comic about a dangerous world infested with %COMICREPLACEMENTLOWERCASE_SHONEN1_1%[n][n]Only a group known as the "Slayers of %COMICREPLACEMENTRAW_SHONEN1_2%" can keep them at bay... but in order to join their ranks, you must prove your worth by passing a ruthless test: winning a fighting tournament![n][n]The first part of the test challenges the young warriors to %COMICREPLACEMENTRAW_SHONEN2% The second part of the test? A fighting tournament. It's always a fighting tournament, duh.	Event_ComicCover_Shonen
+>special_command	comiccovershowimage	comic_shonen_cover_1:slide:0.5:1
+	narrator		Our brave hero Damien dreams of joining their ranks. All the odds are stacked against him, but he'll do his best, for he has a strong reason to join: %COMICREPLACEMENT_SHONEN3%[n][n]There's also Aaravi, Damien's rival. She's cool and aloof, but her mysterious demeanor hides a dark past she carries in silence: %COMICREPLACEMENT_SHONEN4%
+	narrator		In order to join, they will train under the tutelage of Coach, a powerful old man who retired from the organization years ago.[n][n]Against all odds, he'll awaken the two warriors' dormant potential via the most unorthodox training: %COMICREPLACEMENT_SHONEN5_1%[n][n]Will they pass the exam? Will they join the "Slayers of %COMICREPLACEMENTRAW_SHONEN1_2%? BUY THE FUCKIN' COMIC TO FIND OUT!
+
+>>>	shonen_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	shonen
+>comic_stage	Panels
+>icon_only_npc	damien,aaravi
+	narrator		After they both managed to %COMICREPLACEMENTRAW_SHONEN2_2% who would've predicted that Damien and Aaravi would face each other at the tournament finals?!
+	damien	default	Looks like today you'll get a taste of my secret technique: %COMICREPLACEMENT_SHONEN6%
+	aaravi	default	I may owe you after you saved my life when %COMICREPLACEMENT_SHONEN5_2% but I won't hold back, you fuckface!
+	narrator		Rivals turned friends; friends turned opponents... Damien or Aaravi, who will become a... SLAYER OF %COMICREPLACEMENTRAW_SHONEN1_3%	
+
+>>>	shonen1
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's something that stirs fear in your soul?
+>comic_answer	creativity		[choice]The ghosts of all the big surrealist artists of the early 20th Century.[n][r1]Art Ghosts.[n][r2]Art Ghosts[n][r3]Art Ghosts?
+>comic_answer	smarts		[choice]Math.[n][r1]Math.[n][r2]Math[n][r3]Math?
+>comic_answer	boldness		[choice]Wolves with guns for legs.[n][r1]Gun Wolves.[n][r2]Gun Wolves[n][r3]Gun Wolves?
+>comic_answer	fun		[choice]Wolves with big, menacing dongs.[n][r1]Big Dong Wolves.[n][r2]Big Dong Wolves[n][r3]Big Dong Wolves?
+
+>>>	shonen2
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's something you'd do to impress everyone at your wedding?
+>comic_answer	fun		[choice]Reveal your most niche fetish in painful detail.[n][r1]Reveal their most niche fetish in painful detail.[n][r2]Reveal their most niche fetish in painful detail,
+>comic_answer	charm		[choice]Compliment everyone's hats.[n][r1]Compliment everyone's hats.[n][r2]Compliment everyone's hats,
+>comic_answer	boldness		[choice]Kill a walrus with your bare hands, just because.[n][r1]Kill a walrus with their bare hands.[n][r2]Kill a walrus with their bare hands,
+>comic_answer	smarts		[choice]Solve the Hodge conjecture, a major unsolved problem in algebraic geometry.[n][r1]Solve the Hodge conjecture, a major unsolved problem in algebraic geometry.[n][r2]Solve the Hodge conjecture, a major unsolved problem in algebraic geometry,
+
+>>>	shonen3
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	2
+>allow_typing	no
+	narrator		Why did you choose your current career?
+>comic_answer	boldness		[choice]I made a bet while I was drunk.[n][r1]He made a bet while he was drunk.
+>comic_answer	smarts		[choice]Great prospects for a good dental plan.[n][r1]Great prospects for a good dental plan.
+>comic_answer	creativity		[choice]They gave away a cool T-shirt if you joined.[n][r1]He'll get a cool T-shirt if he joins.
+>comic_answer	fun		[choice]To get laid.[n][r1]To get laid.
+
+>>>	shonen4
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You hope you never go to prison because of this:
+>comic_answer	creativity		[choice]Crimes against color theory.[n][r1]She still doesn't know which colors combine to make green!
+>comic_answer	charm		[choice]Illegal Drawings of People Kissing.[n][r1]She has a notebook filled with drawings of Damien kissing her on the mouth!
+>comic_answer	boldness		[choice]Accidental Murder (you want all your murder to be on purpose, preferably).[n][r1]She murdered her whole family... by accident!
+>comic_answer	fun		[choice]Stealing someone else's poop.[n][r1]She's the infamous "Poop Thief!"
+
+>>>	shonen5
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's the best way to combat a hangover?
+>comic_answer	creativity		[choice]Intense Poetry Slams.[n][r1]Intense poetry slams.[n][r2]I went too far with the poetry slams...
+>comic_answer	charm		[choice]Passionately kissing your own hand.[n][r1]Passionately kissing your own hand.[n][r2]I was kissing my hand...
+>comic_answer	smarts		[choice]6 years of majoring in Biomedical Engineering.[n][r1]6 years of majoring in Biomedical Engineering.[n][r2]we were majoring in Biomedical Engineering...
+>comic_answer	fun		[choice]Holding a heavy object between your buttcheeks.[n][r1]Holding a heavy object between their buttcheeks.[n][r2]I was holding a heavy object between my buttcheeks...
+
+>>>	shonen6
+>event_type	comic
+>comic_type	shonen
+>comic_turn_number	3
+>allow_typing	no
+	narrator		If you were in a band, what would you name it?
+>comic_answer	boldness		[choice]Twin Dolphins of Fire.[n][r1]Twin Dolphins of Fire!
+>comic_answer	smarts		[choice]Surgical Eye Removal.[n][r1]Surgical Eye Removal!
+>comic_answer	charm		[choice]Kawaii Eyes Forever.[n][r1]Kawaii Eyes Forever!
+>comic_answer	fun		[choice]Anal Beads Sexy Deadly Whiplash.[n][r1]Anal Beads Sexy Deadly Whiplash!
+
+>>>	magicalgirls_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	magicalgirls
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_magicalgirls_cover_3:slide:0.5:3,comic_magicalgirls_cover_4:slide:1.0:4,comic_magicalgirls_cover_2:slide:2.5:2
+	narrator		This is the story of five friends who must balance everyday life with... FIGHTING EVIL![n][n]They are magical girls who channel their powers from %COMICREPLACEMENT_MAGICALGIRLS1%[n][n]Miranda is their leader. She's a powerful warrior with a strong sense of justice; but in her everyday life, she's a clumsy girl just trying her best... so relatable!	Event_ComicCover_MagicalGirls
+>special_command	comiccovershowimage	comic_magicalgirls_cover_1:slide:0.5:-1
+	narrator		People will go "she's literally me fr fr" when they see her most relatable quirk: %COMICREPLACEMENT_MAGICALGIRLS2%[n][n]Masked Dahlia is our love interest![n][n]She's a masked vigilante who has loads of sexual tension with Miranda. Little do they know... they already know each other: for behind the mask, she's actually Dahlia, Miranda's neighbor.	
+	narrator		Masked Dahlia will help the magical girls armed with her iconic magical weapon: %COMICREPLACEMENT_MAGICALGIRLS3%[n][n]The Ringmistress is our main villain: a powerful circus-themed sorceress who's bent on destroying the world![n][n]And no Magical Girl fiction would be complete without an incredibly dark twist: %COMICREPLACEMENT_MAGICALGIRLS4%	
+
+>>>	magicalgirls_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	magicalgirls
+>comic_stage	Panels
+>icon_only_npc	miranda,vera
+	miranda	default	Ringmistress, I should've known you were the one behind %COMICREPLACEMENT_MAGICALGIRLS5%
+	vera	default	Whatever. Fuck you.
+	miranda	default	In the name of %COMICREPLACEMENT_MAGICALGIRLS1_2%
+	miranda	default	...I'll punish you!
+	vera	default	Nah, I just did my nails. There's no way I'm fighting you.
+	vera	default	Today you'll face my most powerful minion... %COMICREPLACEMENT_MAGICALGIRLS6%
+	narrator		TO BE CONTINUED...
+
+>>>	magicalgirls1
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What would be a weird-yet-cool explanation for why you made a million dollars last year?	
+>comic_answer	smarts		[choice]Your correct use of grammar.[n][r1]the correct use of grammar.[n][r2]the Rules of Grammar...
+>comic_answer	boldness		[choice]You infuriated a lot of people online... and you made money out of it.[n][r1]the collective rage of the internet.[n][r2]the Collective Rage of the Internet...
+>comic_answer	fun		[choice]Your anus. But trust me: it was cool.[n][r1]other people's anuses.[n][r2]your Anus...
+>comic_answer	charm		[choice]People got into buying merch of your face, ironically (but you made money unironically, so fuck them).[n][r1]the profit from selling their own merch.[n][r2]the Profit we made Last Quarter...
+
+>>>	magicalgirls2
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	1
+>allow_typing	no
+	narrator		If you could remove something from your day-to-day life, what would you remove?	
+>comic_answer	charm		[choice]People who don't realize how beautiful your hair is.[n][r1]she murders people who don't compliment her hair.
+>comic_answer	creativity		[choice]The color turquoise.[n][r1]she reflex-vomits at the sight of the color turquoise.
+>comic_answer	smarts		[choice]Doing your taxes.[n][r1]tax evasion.
+>comic_answer	fun		[choice]Everything that's NOT pizza.[n][r1]she smells like delicious pizza.
+
+>>>	magicalgirls3
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You know you shouldn't, but you are totally getting this gift for your nephew's 5th birthday...	
+>comic_answer	smarts		[choice]A team of lawyers. One day he might need it.[n][r1]her ruthless team of lawyers.
+>comic_answer	charm		[choice]A collection of your strong opinions on the meat industry. If the internet won't listen to you, maybe a 5-year-old will![n][r1]very strong opinions on the meat industry.
+>comic_answer	boldness		[choice]A gun.[n][r1]a gun.
+>comic_answer	creativity		[choice]A gun... but one with some cute, patterned print. It's for a child after all![n][r1]a fancy looking flower-themed gun.
+
+>>>	magicalgirls4
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What terrible thought keeps you up at night?	
+>comic_answer	smarts		[choice]The real you died years ago and you're just an AI replica replacing it.[n][r1]the protagonist was murdered midseason and replaced with a replica.
+>comic_answer	creativity		[choice]France doesn't exist: it's just the product of our collective imagination.[n][r1]the anime takes place in a fictional world where France doesn't exist.
+>comic_answer	boldness		[choice]Your pet probably wants you dead.[n][r1]the magical mascot was plotting some evil shit, of course.
+>comic_answer	fun		[choice]At some point of your life, you'll be forced to eat a loved one. It's not a matter of "if", but "when".[n][r1]a terrible situation forces the main character to eat her own sister.
+
+>>>	magicalgirls5
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	3
+>allow_typing	no
+	narrator		A hard truth you really need to hear today:	
+>comic_answer	creativity		[choice]Liking rainy days doesn't make you special.[n][r1]the phenomenon we know as "rain"!
+>comic_answer	smarts		[choice]You may never know where France is on a map, and that's okay.[n][r1]the disappearance of France!
+>comic_answer	boldness		[choice]One million cells in your body die every second, and you're doing nothing about it.[n][r1]cellular aging!
+>comic_answer	fun		[choice]Your hemorrhoids don't make eating your ass "more exotic".[n][r1]my persistent case of hemorrhoids!
+
+>>>	magicalgirls6
+>event_type	comic
+>comic_type	magicalgirls
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What trend is becoming overused in cinema?	
+>comic_answer	smarts		[choice]Long, non-dialogue sequences as award bait.[n][r1]A Very Annoying Mime!
+>comic_answer	creativity		[choice]When they take a well-known intellectual property and twist it.[n][r1]Evil Dumbo!
+>comic_answer	charm		[choice]Cute things that are clearly hiding something.[n][r1]A Clown. People fear them for some reason?
+>comic_answer	boldness		[choice]Gun-juggling. If I have to watch another movie with gun-juggling, so help me...[n][r1]Gaphant, the Gun Juggler!
+
+>>>	harem_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	harem
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_harem_cover_4:slide:0.0:4
+	narrator		"Everyone Wants to Kiss Me on the Mouth" is set to be the next harem sensation![n][n]Jacqueline is a humble country girl who moved to the big city in search of %COMICREPLACEMENTLOWERCASE_HAREM1% Little does she know that what she'll find is love![n][n]Due to fate and the precarious state of the economy, she'll end up sharing an apartment with several smokin' hot roommates!	Event_ComicCover_Harem
+>special_command	comiccovershowimage	comic_harem_cover_1:slide:0.0:1,comic_harem_cover_2:slide:0.5:2,comic_harem_cover_3:slide:1.0:3
+	narrator		The roommates all have one thing in common: none of them can resist Jacqueline's %COMICREPLACEMENTLOWERCASE_HAREM2%[n][n]There's the buff, ever-horny Morty; quiet, handsome Mamimi; seductive, breath-taking Milo... and many more![n][n]As if this wasn't enough, Jacqueline will also struggle to get used to the urban life's most puzzling aspect: %COMICREPLACEMENTLOWERCASE_HAREM3%
+	narrator		Ah, poor Jacqueline... so many changes and so many suitors, but she can't decide who to reciprocate for one big reason: %COMICREPLACEMENTLOWERCASE_HAREM4%[n][n]Only one thing is clear: there will be lots of kissing... on the mouth.
+
+>>>	harem_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	harem
+>comic_stage	Panels
+>icon_only_npc	jacqueline,milo,morty,mamimi
+	jacqueline	default	Milo, you're back! I thought you were still mad at me after I %COMICREPLACEMENTLOWERCASE_HAREM5%
+	milo	default	Jacq... I could never be mad at you.
+	milo	default	Actually, there's something I've always wanted to tell you...
+	morty	default	MILO, YOU BASTARD! I HEARD YOU FROM THE SHOWER!
+	morty	default	WE SWORE NONE OF US WOULD KISS JACQUELINE ON THE MOUTH UNTIL %COMICREPLACEMENTLOWERCASE_HAREM6%
+	milo	default	Well, I realized maybe Jacqueline should have some say in that... and also fuck you.
+	mamimi	default	Hey, guys... what's happening out here?
+	narrator		TO BE CONTINUED...
+
+>>>	harem1
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What trend from the early 2000s should come back already?	
+>comic_answer	charm		[choice]Only needing to learn like 3 memes and 4 slang words to sound cool.[n][r1]someone who can explain to her what "yeet" means.
+>comic_answer	boldness		[choice]People actually seeking revenge.[n][r1]REVENGE.
+>comic_answer	fun		[choice]Delicious tobacco... why did this trend die out?[n][r1]some delicious tobacco.
+>comic_answer	creativity		[choice]Wearing pants.[n][r1]a pair of fancy city pants that compliment her pumpkin butt.
+
+>>>	harem2
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's your strongest asset when on a first date?	
+>comic_answer	fun		[choice]You taste like a Pumpkin Spice Latte.[n][r1]Pumpkin Spice Latte!
+>comic_answer	charm		[choice]You have strong yet graceful knees.[n][r1]strong yet graceful knees!
+>comic_answer	boldness		[choice]Your eyes are soulless, almost as if they were two sexy empty holes.[n][r1]eyes, which are basically two sexy empty holes!
+>comic_answer	smarts		[choice]You can transform into a tiger.[n][r1]inexplicable ability to transform into a tiger!	
+
+>>>	harem3
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What's a red flag you can't let slide on a first date?	
+>comic_answer	smarts		[choice]They lack street smarts.[n][r1]the fact that streets somehow have smarts.
+>comic_answer	fun		[choice]They don't own even a single cow, reducing the chances of having tasty choccy milk whenever you want.[n][r1]its lack of cows.
+>comic_answer	creativity		[choice]Their appealing cooking skills are a lie, as they're being controlled by a rat under their hat.[n][r1]the knowledge that any person could be controlled by a rat under their hat.	
+>comic_answer	charm		[choice]They happen to live in the sewers, which probably affects their personal hygiene.[n][r1]the existence of an underworld known as "the sewers".
+
+>>>	harem4
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	2
+>allow_typing	no
+	narrator		Why haven't you finished that big project you told everyone about?	
+>comic_answer	fun		[choice]You want to fuck a lot of people first.[n][r1]she wants to fuck 'em all.
+>comic_answer	smarts		[choice]An ancient curse.[n][r1]an ancient curse.
+>comic_answer	charm		[choice]A creature living under your bed told you that you should wait. You don't want to be rude to the bed creature :([n][r1]the creature living under her bed told her to wait.
+>comic_answer	boldness		[choice]Big Oil is pressuring you not to. They probably feel threatened by you (as they should).[n][r1]Big Oil is pressuring her not to decide.
+
+>>>	harem5
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's legal but should be illegal?	
+>comic_answer	smarts		[choice]Telling people Santa isn't real. People deserve magic in their lives![n][r1]told you Santa isn't real.
+>comic_answer	boldness		[choice]Getting a tattoo of someone else's mom. Just get a tattoo of a skull; it's cooler, and you can always pretend it's the skull of someone else's mom.[n][r1]got a tattoo of your mom while I was drunk.	
+>comic_answer	charm		[choice]Stealing someone's identity. Nothing is as attractive as being yourself (except maybe being someone more attractive... I gotta rethink this one).[n][r1]stole your identity as a prank.
+>comic_answer	fun		[choice]Misusing internet slang. If you're not in on the joke, DON'T EVEN TRY.[n][r1]misused internet slang.
+
+>>>	harem6
+>event_type	comic
+>comic_type	harem
+>comic_turn_number	3
+>allow_typing	no
+	narrator		Underrated activities for a third date:	
+>comic_answer	boldness		[choice]Punching cherry trees until they blossom just for you and your date.[n][r1]THE CHERRY TREES BLOSSOMED!
+>comic_answer	fun		[choice]Practice for the test you gotta pass to get your "Kissing License". It's a thing![n][r1]WE PASSED OUR FINAL KISSING EXAM!
+>comic_answer	smarts		[choice]Studying contraception. You'll look responsible while also hinting that you wanna fuck.[n][r1]WE MADE 100% SURE YOU CAN'T GET PREGNANT FROM KISSING!
+>comic_answer	creativity		[choice]Reading chapter 53 from Don Quixote's second volume, a truly thrilling page turner![n][r1]CHAPTER 53!
+
+>>>	sports_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	sports
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_sports_cover_1:slide:0.5:1
+	narrator		In "Strike!!" we follow Finn, an office worker who re-discovers a passion for bowling. As a kid, he was a rising bowling star who stopped playing after %COMICREPLACEMENT_SPORTS1%[n][n]Now he's back... but he can't win alone!	Event_ComicCover_Sports
+	narrator		Finn joins the "Big Ballers", a small team with big dreams.[n][n]He soon realizes that while his team members lack experience, they have the most essential skill to becoming bowling champions: %COMICREPLACEMENT_SPORTS2%
+	narrator		Together, they prepare for the big bowling championship. The stakes are high, because if they don't win the trophy, %COMICREPLACEMENT_SPORTS3%[n][n]Will these underdogs be capable of beating "The Wolfpack", the all-time bowling champions?[n][n]It will be hard, for that legendary team has a fearsome edge: %COMICREPLACEMENT_SPORTS4%[n][n]We're rooting for you, "Big Ballers"!
+
+>>>	sports_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	sports
+>comic_stage	Panels
+>icon_only_npc	flodge,wolfpack,scott,stu,finn
+	flodge	default	If your leader doesn't show up in the next 15 minutes, your team will be disqualified.
+	wolfpack	default	Ha! Guess that stinky fish is a coward after all!
+	scott	default	No! Finn isn't a coward. He's just %COMICREPLACEMENT_SPORTS5%
+	stu	default	He'll come. You'll see!
+	wolfpack	default	Pffft, you can't even accept you're done...
+	wolves	default	Give up.
+	finn	default	WE NEVER GIVE UP!
+	finn	default	Sorry I'm late, guys. We gonna play or what?
+	narrator		Finn made it! But now the team will get penalized by %COMICREPLACEMENT_SPORTS6% Can they win under such conditions?!
+	narrator		TO BE CONTINUED...
+
+>>>	sports1
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's stopping you from fulfilling your wildest dreams?	
+>comic_answer	creativity		[choice]You accidentally glued your hands together.[n][r1]he accidentally glued his hands together.
+>comic_answer	smarts		[choice]A magical talking dog told you not to fulfill them.[n][r1]a magical talking dog told him to.
+>comic_answer	charm		[choice]You're too focused on being a "babe magnet".[n][r1]he learned bowling wasn't the way to become a "babe magnet".	
+>comic_answer	fun		[choice]Wii Sports.[n][r1]he got hooked on Wii Sports.
+
+>>>	sports2
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	1
+>allow_typing	no
+	narrator		Why did you get kicked out of the bowling alley?	
+>comic_answer	fun		[choice]For moaning every time you put your fingers in the ball's holes.[n][r1]knowing everything about fingering a big ball.
+>comic_answer	creativity		[choice]For making very believable horse sounds.[n][r1]making very believable horse sounds.
+>comic_answer	smarts		[choice]For licking every ball to make sure they're balls and not cake. It's called the scientific method![n][r1]the ability to tell when a bowling ball is a bowling ball and when it's actually cake.
+>comic_answer	boldness		[choice]For stabbing your opponents in one eye, to mess with their depth perception.[n][r1]depth perception.
+
+>>>	sports3
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What's a recurring nightmare you have?	
+>comic_answer	charm		[choice]You're part of an arranged marriage... with four people.[n][r1]they must collectively marry a woman named Margaret.
+>comic_answer	smarts		[choice]You borrowed your dear grandpa's farm and you can't remember where you put it.[n][r1]grandpa will lose his farm.
+>comic_answer	boldness		[choice]You must play a sports match... and the losers get their legs broken with a pipe.[n][r1]the rules state the winners will get to break the losers' legs with a pipe.
+>comic_answer	fun		[choice]You're forced to eat a very long sandwich.[n][r1]they must eat a very long sandwich.
+
+>>>	sports4
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What is that intrusive thought you have to fight every day?	
+>comic_answer	fun		[choice]The urge to buy a boomerang.[n][r1]they own a boomerang.
+>comic_answer	creativity		[choice]The weird, compulsive need to doodle big, menacing wolf dongs.[n][r1]big, menacing wolf dongs.
+>comic_answer	boldness		[choice]The idea of spiders.[n][r1]they conquered their fear of spiders.
+>comic_answer	smarts		[choice]The compulsion to become an English major.[n][r1]an English degree.
+
+>>>	sports5
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's the one thing you hope grandpa NEVER asks you?	
+>comic_answer	boldness		[choice]To avenge Little Lenny's untimely death.[n][r1]avenging Little Lenny's untimely death!
+>comic_answer	charm		[choice]To wax his balls, as he wants to look handsome once again.[n][r1]waxing his (bowling) balls!
+>comic_answer	smarts		[choice]To deliver a baby.[n][r1]delivering a baby!
+>comic_answer	creativity		[choice]To help him buy the first pair of pants he's ever owned.[n][r1]buying his first-ever pair of pants!
+
+>>>	sports6
+>event_type	comic
+>comic_type	sports
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What would make the NBA much more entertaining?	
+>comic_answer	creativity		[choice]Balls in many different shapes![n][r1]using the dreaded Cube Balls.
+>comic_answer	charm		[choice]Players playing on all fours, to make better display of their beautiful physiques.[n][r1]being forced to play on all fours.
+>comic_answer	fun		[choice]Silly hats.[n][r1]having to wear silly hats.
+>comic_answer	boldness		[choice]A rule that allows three stabs per match.[n][r1]each receiving a regulatory stab in the stomach.
+
+>>>	noir_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	noir
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_noir_cover_1:slide:0.5:1
+	narrator		"The Flame of Truth" is a pulp noir adventure that follows private investigator Moss Mann.[n][n]This jaded detective used to be part of the police force, but he lost his badge after %COMICREPLACEMENT_NOIR1%	Event_ComicCover_Noir
+	narrator		His peace will be broken when a mysterious femme fatale comes to him with a new case: %COMICREPLACEMENT_NOIR2%[n][n]But playing detective isn't easy when you have to battle your inner demons, which, in Moss' case, take the form of %COMICREPLACEMENT_NOIR3%
+	narrator		As if that wasn't enough, as the mysteries unravel, Moss will realize this case might be tied to something much bigger: %COMICREPLACEMENT_NOIR4%[n][n]Can this moth find the flame of truth? Or will he be consumed by the fire?
+
+>>>	noir_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	noir
+>comic_stage	Panels
+>icon_only_npc	hex,mothman,cops
+	narrator		All my leads turned out to be dead ends.
+	narrator		So there I was, searching in the last place left: the bottom of a bottle.
+	hex	default	You always find your way back here, don't you? What can I serve you, Moss?
+	mothman	default	I think I have a thirst for... gossip. Have you heard anything juicy lately?
+	hex	default	Heh... sure. See that fella over there?
+	hex	default	That unicorn isn't all magic and rainbows. I've heard he's gotten his horn in some dirty place: %COMICREPLACEMENT_NOIR5%
+	mothman	default	Really? Then he might know something about %COMICREPLACEMENT_NOIR2%
+	mothman	default	Let's see where that horn points me to...
+	copangel	default	Not so fast, Mossy boy...
+	copangel	default	The boss isn't happy with you turning over so many rocks.
+	copdemon	default	You know what happens to moths who get too close to a light? They get burnt.	
+	mothman	default	Yikes.
+	narrator		The rain tends my wounds... but it doesn't put out this fire that burns so bright inside me... this flame of truth.
+	narrator		This beatdown made me see things clearly: truth is %COMICREPLACEMENT_NOIR6% and I %COMICREPLACEMENT_NOIR6_2%
+
+>>>	noir1
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	1
+>allow_typing	no
+	narrator		Why did you get banned from the zoo?	
+>comic_answer	boldness		[choice]You kept shooting a gun at random stuff "for the lolz".[n][r1]shooting his gun at random stuff "for the lolz".
+>comic_answer	smarts		[choice]You kept trying to fit stuff inside a zebra's mouth, for scientific reasons![n][r1]testing if it fit inside a zebra's mouth.	
+>comic_answer	fun		[choice]You tried to make "No Pants Tuesdays" a thing.[n][r1]trying to make "No Pants Tuesdays" a thing.
+>comic_answer	charm		[choice]You got robbed by dogs, so it was for your own safety.[n][r1]a dog stole his gun.	
+
+>>>	noir2
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	1
+>allow_typing	no
+	narrator		Choose a detective book that would totally catch your attention.	
+>comic_answer	fun		[choice]The Case of the Missing Vagina[n][r1]the mysterious missing vagina.
+>comic_answer	charm		[choice]The Kid Detectives in... "Babies: Where Do They Come From?"[n][r1]the mystery of where babies come from.
+>comic_answer	boldness		[choice]Death of a Twink[n][r1]the mysterious death of a twink.
+>comic_answer	smarts		[choice]The Mystery of How Planes Fly[n][r1]the mystery of how planes fly.
+
+>>>	noir3
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	2
+>allow_typing	no
+	narrator		A genie gives you a million dollars, but there's a catch...	
+>comic_answer	creativity		[choice]You'll develop a serious addiction to puns.[n][r1]a serious addiction to puns.
+>comic_answer	charm		[choice]When you're talking to anyone, you'll make the persistent error of calling them "Mom".[n][r1]the dreadful memory of that one time he called the police chief "Mom".
+>comic_answer	boldness		[choice]You'll be stalked by a demon named Larry.[n][r1]an actual demon, named Larry.
+>comic_answer	fun		[choice]Every morning you'll have to eat six burritos, causing a persistent tummy ache.[n][r1]a persistent tummy ache.
+
+>>>	noir4
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What conversation topic is severely underrated?	
+>comic_answer	charm		[choice]Discussing the fact that while Tauruses are objectively hot, Geminis tend to be the worst.[n][r1]an evil master plan to remove Gemini from the horoscope.
+>comic_answer	fun		[choice]"Your mom" jokes.[n][r1]your mom.
+>comic_answer	creativity		[choice]What not to name your fantasy characters, unless you want them to sound dumb.[n][r1]the comeback of the powerful warlock Alakazamuel.
+>comic_answer	smarts		[choice]Carcinization, a proven form of convergent evolution in which non-crab organisms evolve a crab-like body plan.[n][r1]a plan to accelerate the process of carcinization.
+
+>>>	noir5
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	3
+>allow_typing	no
+	narrator		You've ended up in the most obscure music festival ever... which band are you checking out?	
+>comic_answer	creativity		[choice]Counterfeit Poetry.[n][r1]he's in the business of counterfeit poems.
+>comic_answer	smarts		[choice]Underground Mathletes.[n][r1]he's in an underground ring of illegal mathalon bets.
+>comic_answer	fun		[choice]All-You-Can Eat Breakfast Buffet.[n][r1]he's involved with the "All You Can Eat With Your Bare Hands BBQ Buffet".
+>comic_answer	charm		[choice]Most Glorious Hole.[n][r1]he's used our bathroom's glory hole.
+
+>>>	noir6
+>event_type	comic
+>comic_type	noir
+>comic_turn_number	3
+>allow_typing	no
+	narrator		You're still at the obscure music festival. Now that you've chosen a band... just going by their title, which of these songs would be your new favorite?	
+>comic_answer	charm		[choice]Empathy for the Man Who Could Only Eat Soup.[n][r1]a bowl of soup,[n][r2]have a health condition that only allows me to eat soup.
+>comic_answer	fun		[choice]Lube for Days.[n][r1]a big dildo that brings both pain and pleasure,[n][r2]have lube for days.
+>comic_answer	smarts		[choice]Five Letter Words.[n][r1]a five letter word,[n][r2]might be actually really good at counting letters.
+>comic_answer	creativity		[choice]Metaphors Done Wrong.[n][r1]a white rabbit that runs fast,[n][r2]am rather bad at constructing metaphors, I realize now.
+
+>>>	spaceopera_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	spaceopera
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_spaceopera_cover_1:slideslow:0.0:1,comic_spaceopera_cover_2:slideslow:1.5:2,comic_spaceopera_cover_3:slideslow:3.0:3
+	narrator		"Space Heist" is a comic about a heist... in space.[n][n]It follows a charismatic, ragtag team of outlaws with a unique set of skills:	Event_ComicCover_SpaceOpera
+	narrator		Faith, a hacker who can do magic with a keyboard. She's evading the law because she %COMICREPLACEMENT_SPACEOPERA1%[n][n]Susanne, a seasoned spaceship pilot who desperately needs the money %COMICREPLACEMENT_SPACEOPERA2%[n][n]Calculester, an android who wants to learn all about the thrills of life. His tech provides a valuable resource to this adventure: %COMICREPLACEMENT_SPACEOPERA3%
+>special_command	comiccovershowimage	comic_spaceopera_cover_4:slideslow:0.0:4
+	narrator		And the band's leader... Valerie. She's a space pirate with a thirst for money and a score to settle.[n][n]Together, they will aim for the one thing no one in the galaxy has ever dared to steal: %COMICREPLACEMENT_SPACEOPERA4%
+
+>>>	spaceopera_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	spaceopera
+>comic_stage	Panels
+>icon_only_npc	valerie,calculester,faith,susanne
+	valerie	default	Goddammit, Calculester... I told you %COMICREPLACEMENT_SPACEOPERA5%
+	calculester	default	I had to take the risk, for I wanted to experience the thrills of life.
+	faith	default	Stop fighting. I managed to hack into their %COMICREPLACEMENT_SPACEOPERA6% That ought to keep them busy.
+	susanne	default	C'mon, you two! Hop in here. The station is about to explode.
+	susanne	default	Fasten your seatbelts!
+	valerie	default	Never again, Calculester!
+	calculester	default	I can't make any promises, for I am programmed to live!
+	narrator		Our heroes escape by the skin of their teeth... but by blowing up the space station, could they have also blown their cover?
+	narrator		TO BE CONTINUED...
+
+>>>	spaceopera1
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's a job from the distant future you wish you could have?	
+>comic_answer	creativity		[choice]Captcha Designer.[n][r1]hacked all captchas so robots could also pass them;
+>comic_answer	boldness		[choice]Keeper of the planet Jupiter's darkest secret.[n][r1]leaked the files on Jupiter's darkest secret;
+>comic_answer	smarts		[choice]World's leading expert in the number 6.[n][r1]removed the number 6 from the internet, causing chaos;
+>comic_answer	fun		[choice]Shrek movie tester.[n][r1]pirated too many Shrek movies;
+
+>>>	spaceopera2
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	1
+>allow_typing	no
+	narrator		You won ten million dollars, but you have to spend it in the next five minutes. Quick! Spend them!	
+>comic_answer	smarts		[choice]Buy the rights to the letter W.[n][r1]to buy the rights to the letter W;
+>comic_answer	fun		[choice]Spend it all on Tetris microtransactions and cosmetics.[n][r1]to overspend it on Tetris microtransactions and cosmetics;
+>comic_answer	charm		[choice]How convenient! Send it to that financially-destitute prince who emailed you two months ago.[n][r1]to help a financially-destitute prince who emailed her two months ago;	
+>comic_answer	creativity		[choice]Time to fulfill your dream of becoming a saxophone player![n][r1]to fulfill her dream of becoming a saxophone player;	
+
+>>>	spaceopera3
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What is the one feature you always look for when you buy a robot from the robot store?	
+>comic_answer	boldness		[choice]A metal cock that also serves as a deadly projectile.[n][r1]a metal cock that also serves as a deadly projectile;
+>comic_answer	fun		[choice]The refined sense of humor so typical of robots.[n][r1]the refined sense of humor so typical of robots;
+>comic_answer	smarts		[choice]Free internet access.[n][r1]free internet access;
+>comic_answer	creativity		[choice]A vast knowledge of flower symbology.[n][r1]a vast knowledge of flower symbology;
+
+>>>	spaceopera4
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What's a killer name for a cat?	
+>comic_answer	smarts		[choice]Saturn.[n][r1]Saturn.
+>comic_answer	boldness		[choice]Dou'glass, Fearsome King of the Moon.[n][r1]the heart of Dou'glass, King of the Moon.
+>comic_answer	charm		[choice]Sun's Secret Sweet Caramel Core.[n][r1]the Sun's secret caramel core.
+>comic_answer	fun		[choice]Big Mustard.[n][r1]the Big Mustard reserve.
+
+>>>	spaceopera5
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's a foolproof way to quickly annoy everyone at the city council meeting?	
+>comic_answer	creativity		[choice]Show off your walrus impersonation.[n][r1]not to do your walrus impersonation in public!
+>comic_answer	charm		[choice]Attempt to seduce the mayor.[n][r1]not to seduce Dou'glass, King of the Moon!
+>comic_answer	fun		[choice]Debut your stand-up comedy set.[n][r1]to never attempt to do stand-up comedy!	
+>comic_answer	smarts		[choice]Voice your (very knowledgeable) opinions on mustard... yet again.[n][r1]not to voice your opinions on mustard!
+
+>>>	spaceopera6
+>event_type	comic
+>comic_type	spaceopera
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's the one new piece of technology that makes you yearn for the future to come?	
+>comic_answer	fun		[choice]Bowel Control Automation System.[n][r1]Bowel Control Automation System.
+>comic_answer	creativity		[choice]Perception of Aesthetics Processor.[n][r1]Perception of Aesthetics.
+>comic_answer	smarts		[choice]AI-Powered Underwear.[n][r1]Underwear.
+>comic_answer	charm		[choice]Eyebrow Management System.[n][r1]Eyebrow Management System.
+
+>>>	superheroes_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	superheroes
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_superheroes_cover_4:slide:0.0:3,comic_superheroes_cover_3:slide:0.5:2,comic_superheroes_cover_2:slide:1.0:1,comic_superheroes_cover_1:slide:1.5:-1
+	narrator		Monsterkind has always lived peacefully and without fear, for they've been protected by the mightiest hero ever: %COMICREPLACEMENTRAW_SUPERHEROES1_1%[n][n]"Color Squad, Assemble!" starts with a bang, for its first chapter ends with the death of %COMICREPLACEMENTRAW_SUPERHEROES1_2% at the hands of The Narrator, a reality-bending entity!	Event_ComicCover_Superheroes
+	narrator		This kicks off a reign of terror and chaos that threatens civilization as we know it. The world would be doomed if it wasn't for one visionary man with a plan...[n][n]The plan? Assembling four disparate, second-rate superheroes into a team capable of saving the world once more!	
+	narrator		Our heroes have a complex history together, and have never been able to see eye to eye; but there might be one thing that manages to bring them together: %COMICREPLACEMENT_SUPERHEROES2_1%[n][n]No one trusts this team of misfits and has-beens, for they have a huge superhero hole to fill... but they might be Earth's last hope.
+
+>>>	superheroes_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	superheroes
+>comic_stage	Panels
+>icon_only_npc	vicky,brian,amira,oz
+	narrator		Somewhere in Spookham City...
+	vicky	default	You better tell us what we're doing here, Colonel Giant Spider.
+	brian	default	Yeah, this looks like the worst sleepover ever. Did someone bring a movie at least?
+	narrator		I know you all have history; but I need you to set aside your differences and consider a temporary truce.	
+	narrator		%COMICREPLACEMENTRAW_SUPERHEROES1_2% is dead... and you four might be our next best option.
+	amira	default	These clowns?! Ha!
+	narrator		Yes, Wild Fire. Even though you have beef, you have to admit that The Victorious is a formidable ally to have on your side.
+	narrator		I know you could use her %COMICREPLACEMENTRAW_SUPERHEROES3_1%
+	narrator		And The Punching Dead? Some might say %COMICREPLACEMENTRAW_SUPERHEROES1_2%'s powers had nothing on his, if not for The Punching Dead's own weakness: %COMICREPLACEMENT_SUPERHEROES4_1%
+	brian	default	Hey, CGS, I don't go sharing my weakness 'til the third date. And why should I trust Wild Fire, anyway?
+	brian		Wasn't she trying to conquer the world not so long ago?
+	narrator		Sure, Wild Fire might have been playing for the other team.
+	narrator		But we have a good reason to believe she will stick to our side: %COMICREPLACEMENT_SUPERHEROES5%
+	oz	default	That might be a good enough reason for you, Colonel, but not me.
+	amira	default	Pffft, as if I even WANTED to team up with a bozo who got his powers %COMICREPLACEMENT_SUPERHEROES6_1%
+	narrator		These four "heroes" don't even seem capable of agreeing on a movie for a sleepover, much less on a plan to save the world. Will they manage to bury the hatchet... or will heads start rolling soon?
+
+>>>	superheroes1
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	1
+>allow_typing	no
+	narrator		They're about to cancel your favorite TV show. The TV execs call you: you have the chance of saving the show by brainstorming a new character for next season. Think carefully, who should this character be?	
+>comic_answer	charm		[choice]A dog with a hat.[n][r1]Dog with a Hat.[n][r2]Dog with a Hat
+>comic_answer	boldness		[choice]Gary Gun-Hands.[n][r1]Gary Gun-Hands.[n][r2]Gary Gun-Hands
+>comic_answer	creativity		[choice]Do what all great artists do: a clear self-insert of yourself.[n][r1]a clear self-insert of the author.[n][r2]NOT-THE-AUTHOR
+>comic_answer	smarts		[choice]Super Einstein.[n][r1]Super Einstein.[n][r2]Super Einstein
+
+>>>	superheroes2
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	1
+>allow_typing	no
+	narrator		Your old friend group has grown apart... it's been 10 years since you last hung out, and now you have to think of a plan that will bring you all back together!	
+>comic_answer	creativity		[choice]The not-so-well-known "Tango for 4" competition.[n][r1]the not-so-well-known "Tango for 4" competition.
+>comic_answer	boldness		[choice]Committing a crime that ties your fates together forever.[n][r1]silencing the only witness to a horrible crime they committed last summer.
+>comic_answer	smarts		[choice]A too-good-to-ignore 4-for-1 promotion at the local car wash.[n][r1]a too-good-to-ignore 4-for-1 promotion at the local car wash.
+>comic_answer	fun		[choice]A night at the local swingers club.[n][r1]a very momentous night at the local swingers club.
+
+>>>	superheroes3
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	2
+>allow_typing	no
+	narrator		For your service to the rat community, the Rat King is bestowing you one superpower. Choose wisely:	
+>comic_answer	smarts		[choice]WiFikinesis... the ability to produce WiFi signal with your mind![n][r1]WiFikinesis.
+>comic_answer	boldness		[choice]Explosive Diarrhea... like, EXPLOSIVE.[n][r1]Explosive Diarrhea.
+>comic_answer	charm		[choice]Hypervisibility, because only lame people want to be invisible. You're here to be SEEN.[n][r1]Hypervisibility.
+>comic_answer	creativity		[choice]The strongest armor ever: Plot Armor.[n][r1]Plot Armor.
+
+>>>	superheroes4
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You're at a very important job interview and you get the classic question: what's your one defining weakness?	
+>comic_answer	charm		[choice]Your inability to get over your ex (probably "oversharing" too).[n][r1]his inability to get over his ex.
+>comic_answer	fun		[choice]Fart jokes make you laugh so hard that you become essentially inoperative.[n][r1]fart jokes make him laugh so hard he becomes essentially inoperative.
+>comic_answer	smarts		[choice]You cannot see if your eyes are covered. This shows you're a no-nonsense person![n][r1]cannot see if his eyes are covered.
+>comic_answer	boldness		[choice]Geese attack you on sight, seeking for (admittedly-just) revenge.[n][r1]all geese attack him on sight after that horrible incident, three years ago.
+
+>>>	superheroes5
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	3
+>allow_typing	no
+	narrator		You got the job! But 5 years have passed and working here makes you miserable. There's only one reason why you won't just quit and set the whole building on fire:	
+>comic_answer	creativity		[choice]They somehow got incriminating copies of the angsty poems from your emo phase.[n][r1]the government has incriminating photos of her emo phase.
+>comic_answer	charm		[choice]Jennifer, from accounting.[n][r1]she's into Jennifer, from accounting.
+>comic_answer	boldness		[choice]You lost a bet.[n][r1]she lost a bet.	
+>comic_answer	fun		[choice]Taco Tuesdays.[n][r1]Taco Tuesdays.
+
+>>>	superheroes6
+>event_type	comic
+>comic_type	superheroes
+>comic_turn_number	3
+>allow_typing	no
+	narrator		You have four stallions. They are your pride and joy. And yet... you're a bit embarrassed by how you came to have these four stallions...	
+>comic_answer	fun		[choice]You got them as a prize in a cereal box.[n][r1]as a prize in a cereal box...
+>comic_answer	charm		[choice]You convinced the agents of the Witness Protection Program to make them part of your new identity.[n][r1]as part of the new identity he got from the Witness Protection Program...
+>comic_answer	creativity		[choice]Your rich parents bought them to incentivize you to give up your dream of attending art school.[n][r1]because his rich parents bought them to incentivize him to give up his dream of attending art school...
+>comic_answer	boldness		[choice]You blackmailed God.[n][r1]by blackmailing God...
+
+>>>	comicstrip_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	comicstrip
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_comicstrip_cover_1:fade:0.5:1
+	narrator		"Juan" is a comic strip that follows the everyday shenanigans of the warlock Gerard and his magical cat Juan.[n][n]The dynamic of these two is hilarious:	Event_ComicCover_ComicStrip
+>special_command	comiccovershowimage	comic_comicstrip_cover_2:slide:0.0:2,comic_comicstrip_cover_3:fade:0.5:3,comic_comicstrip_cover_4:fade:0.7:4
+	narrator		Gerard is a powerful dark warlock who's always grumpy. He hates people; he hates Mondays; but above all, he hates %COMICREPLACEMENTRAW_COMICSTRIP1_1%[n][n]And Juan? He's a lovable little bastard who's always causing mischief with his signature spell: %COMICREPLACEMENTRAW_COMICSTRIP2_1%[n][n]And who could forget his catchphrase? "%COMICREPLACEMENTRAW_COMICSTRIP3_1%" An instant classic!
+>special_command	comiccovershowimage	comic_comicstrip_cover_5:fade:0.0:5
+	narrator		Although most of the strips focus on these two, there's also a beloved side character: %COMICREPLACEMENTRAW_COMICSTRIP4_1%[n][n]The cherry on top will be making "Juan" go viral by spreading a dark, weird theory on the internet that %COMICREPLACEMENTRAW_COMICSTRIP5_1%
+
+>>>	comicstrip_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	comicstrip
+>comic_stage	Panels
+>icon_only_npc	gerard
+	gerard	default	Another Monday... Life is an endless parade of meaningless suffering.
+	gerard	default	My only solace in this hellish torment is...
+	gerard	default	...wait, where's %COMICREPLACEMENTRAW_COMICSTRIP6_1%
+	narrator		Earlier that day...	
+	narrator		...
+
+>>>	comicstrip1
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	1
+>allow_typing	no
+	narrator		Choose an alternative career in case your current one doesn't pan out:	
+>comic_answer	charm		[choice]King of the Moon.[n][r1]Dou'glass, King of the Moon.
+>comic_answer	fun		[choice]Rock Climber.[n][r1]people who make indoor rock climbing their whole personality.
+>comic_answer	smarts		[choice]Doctor in Physics.[n][r1]the laws of physics.	
+>comic_answer	creativity		[choice]A Rectangle.[n][r1]the rectangle: objectively the worst shape ever.
+
+>>>	comicstrip2
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	1
+>allow_typing	no
+	narrator		You're the protagonist of a weird isekai. The Goddess can bestow one thing on you. Choose wisely:	
+>comic_answer	boldness		[choice]The ability to vomit angry bugs.[n][r1]Abraca-[jaw unhinges, bees pour out].	
+>comic_answer	charm		[choice]Many gorgeous feet. Feet for days.[n][r1]Summon Feet.
+>comic_answer	fun		[choice]Control over farts.[n][r1]Fartomancy.
+>comic_answer	smarts		[choice]The knowledge of milk-based curses.[n][r1]Beam of Lactose Intolerance.	
+
+>>>	comicstrip3
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What's something that has gone out of fashion but should totally make a comeback?	
+>comic_answer	boldness		[choice]Smoking... but in a cool way.[n][r1]I'd kill for a cigarette.
+>comic_answer	charm		[choice]Genital hygiene.[n][r1]Always wash your foreskin!
+>comic_answer	creativity		[choice]Fictions where the characters realize they're part of a fiction! Let's make more of that![n][r1]Look, Mom, I'm in a comic strip!
+>comic_answer	smarts		[choice]Seizing the means of production.[n][r1]The proletariat has nothing to lose but their chains!
+
+>>>	comicstrip4
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You're a writer for a TV show about three young adults living together, but ratings are low... so for season 3, you decide to add an unexpected new flatmate to shake things up:	
+>comic_answer	creativity		[choice]A sleep paralysis demon with the soul of a poet.[n][r1]Perry the Sleep Paralysis Demon.	
+>comic_answer	smarts		[choice]A dolphin with a career.[n][r1]Barbara, Dolphin AND Lawyer.
+>comic_answer	charm		[choice]A coquettish casanova who happens to be made of turnips.[n][r1]A sexy stranger made of turnips.
+>comic_answer	boldness		[choice]The gun fairy.[n][r1]Wendy the Gun Fairy.
+
+>>>	comicstrip5
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's the canon event that changed your life forever?	
+>comic_answer	charm		[choice]When your imaginary friend stopped talking to you.[n][r1]Juan is just a figment of Gerard's fractured mind.	
+>comic_answer	boldness		[choice]When you ate your first cigarette, way before learning that you're supposed to smoke them.[n][r1]it's all covert cigarette propaganda.
+>comic_answer	smarts		[choice]The collapse of the Soviet Union.[n][r1]it's all covert communist propaganda.
+>comic_answer	creativity		[choice]When you received a "cease and desist" letter from Garfield, which forced you to cancel your promising comic project, Gorfield.[n][r1]if you think about it, the comic strip is a subtle plagiarism of Garfield.	
+
+>>>	comicstrip6
+>event_type	comic
+>comic_type	comicstrip
+>comic_turn_number	3
+>allow_typing	no
+	narrator		A cursed genie will grant you 3 wishes; but in exchange, he will take 3 of these 4 things away and you can't get them back. Which is the one thing you'll keep?	
+>comic_answer	fun		[choice]Your genitals.[n][r1]my cock?!
+>comic_answer	creativity		[choice]The next 10 years of your life... which is exactly when you planned to write your novel.[n][r1]the future?!
+>comic_answer	smarts		[choice]All your material goods; much more valuable than your immaterial ones.[n][r1]all my real estate?!
+>comic_answer	charm		[choice]Your signature pipe. Who would %CURRENTPLAYERNAME% be without %HISHER% pipe?![n][r1]my pipe?!	
+
+>>>	period_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	period
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_period_cover_5:slide:1.0:5,comic_period_cover_3:slide:1.25:3
+	narrator		"Caught in Your Silk" revolves around Bruce, a humble young man who finds himself trapped in the entanglements of high society.[n][n]It all starts when he is hired by a rich family as their new %COMICREPLACEMENTRAW_PERIOD1_1%[n][n]The family is known throughout the region, as they have a reputation for the peculiar origin of their riches: %COMICREPLACEMENTRAW_PERIOD2_1%	Event_ComicCover_Period
+>special_command	comiccovershowimage	comic_period_cover_4:slide:0.5:4
+	narrator		All sorts of problems will blossom due to Bruce's humble upbringing as he struggles to learn the ways of the wealthy.[n][n]His first challenge will be learning the complex etiquette for %COMICREPLACEMENTRAW_PERIOD3_1% a popular activity among the rich.[n][n]Luckily, he will be tutored by the family's heir, Sasha. And lo and behold, educating Bruce will be the seed that blossoms into a forbidden romance.	
+>special_command	comiccovershowimage	comic_period_cover_2:slide:0.0:2,comic_period_cover_1:slide:0.5:1
+	narrator		As if that wasn't enough, Sasha is already betrothed to the beautiful Marla, even though they seem to have incompatible natures.[n][n]Still, Sasha is expected to announce his upcoming wedding to Marla during the biggest social event of the year: %COMICREPLACEMENTRAW_PERIOD4_1%[n][n]Bruce will need to work hard to earn an invitation to the prestigious event... but little does he know, love is never a simple thing.	
+
+>>>	period_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	period
+>comic_stage	Panels
+>icon_only_npc	fanzine,zorrito,cosplayfixer
+	fanzine	default	How has your spring been, gentlemen? Any news or scandals to share? My ears yearn for some delicious gossip!	
+	zorrito	default	Well, if you consider gossip the lustful way in which our friend Sasha here gets lost at the sight of the new %COMICREPLACEMENTRAW_PERIOD1_1%	
+	zorrito	default	I would bet anything that he dreams of losing his breath in that man's strong embrace...
+	cosplayfixer	default	Yi Feng, I see you found yourself filled with leisure, if you had to turn to my life for your latest entertainment.
+	fanzine	default	But is what he says true? What would become of your family if this was known? Surely they're still healing from the wounds of %COMICREPLACEMENTRAW_PERIOD5_1%	
+	zorrito	default	Haha, yes, scandal seems to be woven deep into your lineage, isn't it?
+	fanzine	default	Please allow me to use this in the novel I am writing, my friend. I will use different names, of course.
+	cosplayfixer	default	You wouldn't!
+	cosplayfixer	default	And yet, I must admit my life has been brimming with drama as of late...
+	zorrito	default	Then I must apologize, for this might make you pour your drink on your lap.
+	zorrito	default	I was given this letter last week. It's for you... you might want to read it.
+	cosplayfixer	default	...!
+	cosplayfixer	default	This cannot be... %COMICREPLACEMENTRAW_PERIOD6_1%
+	narrator		Another thread to complicate this cobweb even more. Can love ever be a simple thing?	
+
+>>>	period1
+>event_type	comic
+>comic_type	period
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What wacky scenario led to you getting your current job?	
+>comic_answer	charm		[choice]Volunteering at a charity that provides forks to those in need (of a fork).[n][r1]fork provider.
+>comic_answer	creativity		[choice]Creating choreographies for aquafitness instructors.[n][r1]aquafitness instructor.
+>comic_answer	boldness		[choice]Becoming the town's professional compliment giver... by beating the former one in armed combat.[n][r1]compliment giver.
+>comic_answer	smarts		[choice]4 years of undergrad and 5 years of grad school to become a butler to a horse.[n][r1]butler to the horse.
+
+>>>	period2
+>event_type	comic
+>comic_type	period
+>comic_turn_number	1
+>allow_typing	no
+	narrator		You need to make $50,000 in two weeks. How are you going to make a quick buck?	
+>comic_answer	boldness		[choice]The shady business of buying and re-selling secondhand mayonnaise.[n][r1]the mayonnaise trade.
+>comic_answer	fun		[choice]Cheating at cards, but like... a lot.[n][r1]cheating at cards, but like... a lot.
+>comic_answer	creativity		[choice]Patenting several metaphors and charging poets to use them.[n][r1]officially owning the patents to several metaphors.
+>comic_answer	smarts		[choice]Inventing a revolutionary product you recently thought of: pants.[n][r1]the invention of pants.
+
+>>>	period3
+>event_type	comic
+>comic_type	period
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You're at the lamest office party ever. As the free spirit you are, you choose a non-conventional activity to have a good time no matter what:	
+>comic_answer	creativity		[choice]Doing an unsolicited impression of a goose.[n][r1]doing an impression of a goose,
+>comic_answer	charm		[choice]Crying in public.[n][r1]crying in public,
+>comic_answer	fun		[choice]Drinking a preposterous amount of ranch dressing.[n][r1]drinking ranch dressing,
+>comic_answer	boldness		[choice]Giving someone the side-eye as a form of accepted social violence.[n][r1]giving someone the side-eye,
+
+>>>	period4
+>event_type	comic
+>comic_type	period
+>comic_turn_number	2
+>allow_typing	no
+	narrator		Oh, no! Next Friday, there's not one, but FOUR amazing events... which one will you attend?	
+>comic_answer	fun		[choice]The Annual Charades Championship.[n][r1]the Annual Charades Championship.
+>comic_answer	charm		[choice]The crowning of "Most Handsome Duck of the Spring".[n][r1]the crowning of "Most Handsome Duck of the Spring".
+>comic_answer	boldness		[choice]The End-of-Winter Purge Night.[n][r1]the End-of-Winter Purge Night.
+>comic_answer	creativity		[choice]The Long-Awaited Ska Band Competition at Little Elijah's Bar Mitzvah.[n][r1]the Long-Awaited Ska Band Competition at Little Elijah's Bar Mitzvah.
+
+>>>	period5
+>event_type	comic
+>comic_type	period
+>comic_turn_number	3
+>allow_typing	no
+	narrator		Which of these situations would embarrass you the most?	
+>comic_answer	charm		[choice]Kissing a horse by mistake.[n][r1]your grandfather kissing a horse by mistake...
+>comic_answer	smarts		[choice]Twelve consecutive defeats at Trivia Night.[n][r1]the humiliating family defeat at Trivia Night...
+>comic_answer	boldness		[choice]Drunkenly fighting someone at a bar because they pointed out that you couldn't buy Spain even if you wanted to.[n][r1]your father's foolish attempt to buy Spain...
+>comic_answer	fun		[choice]Your grandma trying to get closer to you by getting into skateboarding.[n][r1]your grandmother's terrible and short-lived career as a professional skateboarder...
+
+>>>	period6
+>event_type	comic
+>comic_type	period
+>comic_turn_number	3
+>allow_typing	no
+	narrator		You've received a letter that could CHANGE EVERYTHING. What is it?	
+>comic_answer	charm		[choice]A love letter from the King of France.[n][r1]a love letter from the King of France! It's especially intriguing because I have never been to France...
+>comic_answer	boldness		[choice]A letter of acceptance for the national Russian Roulette team.[n][r1]I've been accepted into the national Russian Roulette team. Olympics, here I come!
+>comic_answer	fun		[choice]A once-in-a-lifetime 2-for-1 churro promotion at The House of Churros.[n][r1]it's a 2-for-1 churro promotion at The House of Churros. This changes everything!
+>comic_answer	creativity		[choice]An invitation to join a regency-themed boy band.[n][r1]it's an invitation for me to join England's most prestigious boy band!
+
+>>>	artsy_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	artsy
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_artsy_cover_1:slide:1.0:-2,comic_artsy_cover_2:slide:2.0:-1
+	narrator		"Wanda's Big Trip" is a brain-melting comic in which we follow a character's journey through the cosmic limits of the mind... and beyond.[n][n]Wanda will initiate the titular transformative trip when she %COMICREPLACEMENTRAW_ARTSY1_1%	Event_ComicCover_Artsy
+	narrator		But she won't be alone: she'll find an unexpected guide and mentor in /ERROR/, an entity that might not even be real.[n][n]Together, they will traverse the astral territories of the subconscious and meet its many strange inhabitants, such as %COMICREPLACEMENTRAW_ARTSY2_1%[n][n]It won't be an easy journey, for they will face all kinds of metaphorical obstacles, like %COMICREPLACEMENTRAW_ARTSY3_1%
+	narrator		But Wanda will persevere, for she has a grand motivation that fuels her: %COMICREPLACEMENTRAW_ARTSY4_1%[n][n]In the end, she might be looking for a way back home, but she will find something much more trascendental: %COMICREPLACEMENTRAW_ARTSY5_1%
+
+>>>	artsy_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	artsy
+>comic_stage	Panels
+>icon_only_npc	wanda
+	wanda	default	...
+	wanda	default	...
+	wanda	default	...
+	wanda	default	...
+	narrator		...
+	narrator		...
+	narrator		...
+	narrator		...
+
+>>>	artsy1
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's the one life mistake that feels true to who you are?	
+>comic_answer	fun		[choice]Eating yogurt that's TOO EXPIRED.[n][r1]eats yogurt that's TOO EXPIRED.
+>comic_answer	creativity		[choice]Going TOO FAR in your search for inspiration for your isekai manga project.[n][r1]goes too far in her search for inspiration for her isekai manga project.
+>comic_answer	smarts		[choice]Making a typo while writing sigils for an arcane ritual.[n][r1]makes a typo while writing sigils for an arcane ritual.
+>comic_answer	boldness		[choice]Doing a backflip that's just TOO EXTREME.[n][r1]does a backflip that's just TOO EXTREME.
+
+>>>	artsy2
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	1
+>allow_typing	no
+	narrator		You are forced to fight to the death in the Colosseum. You can choose your opponent. Who do you choose?	
+>comic_answer	fun		[choice]The entire population of Portugal... fighting in the dreaded (and groovy) "Conga Line" formation.[n][r1]the entire population of Portugal, which represents Wanda's fear of crowded spaces.
+>comic_answer	boldness		[choice]Several dinosaurs. You feel like you can take them out, for sure.[n][r1]many dinosaurs, which represent Wanda's obsession with dinosaurs.
+>comic_answer	charm		[choice]All your exes... forming an off-putting ex-centipede.[n][r1]all Wanda's exes... forming an off-putting ex-centipede.
+>comic_answer	smarts		[choice]A horse. Horses are actually quite muscular; but let's be real: this is the most reasonable option here.[n][r1]a horse... which somehow represents Wanda's daddy issues.
+
+>>>	artsy3
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You are promised a million dollars if you can endure one of these four excruciating activities. Are you willing to...?	
+>comic_answer	boldness		[choice]Punch a bear and see what happens next.[n][r1]punching a bear.
+>comic_answer	charm		[choice]Brush the hair of your worst nightmare.[n][r1]brushing the hair of her worst nightmare.
+>comic_answer	creativity		[choice]Edit the script of your own death.[n][r1]editing the script of her own death.
+>comic_answer	fun		[choice]Exercise temperance by playing 1,000 matches of an online video game... with a voice chat.[n][r1]exercising temperance by playing 1,000 matches of an online video game... with a voice chat.
+
+>>>	artsy4
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You're having the best blind date ever, yet you're about to leave early. Why would you do such a thing?	
+>comic_answer	smarts		[choice]You gotta get back to your research, as you think you're close to winning the Nobel prize (you aren't).[n][r1]she thinks she's quite close to winning the Nobel prize (she isn't).	
+>comic_answer	charm		[choice]Your date smells bad. This date might be blind, but it surely isn't smell-blind.[n][r1]these cosmic limits of the mind smell really bad.
+>comic_answer	fun		[choice]You want to achieve a new speedrun record for blind dates.[n][r1]she wants to achieve a new speedrun record for conquering a trip.	
+>comic_answer	creativity		[choice]You're waiting for an origami book to be delivered and you gotta be home to sign for it. You could be the next origami Michael Jordan![n][r1]there's a package arriving at her home between 9am and 11am tomorrow.
+
+>>>	artsy5
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	3
+>allow_typing	no
+	narrator		The muse is whispering in your ear, telling you forbidden secrets that are now within your reach. What do you wish for her to whisper?	
+>comic_answer	smarts		[choice]The solution to the Erdos-Faber-Lovasz conjecture, a math problem that has yet to be solved.[n][r1]the solution to the Erdos-Faber-Lovasz conjecture, a math problem that has yet to be solved.
+>comic_answer	boldness		[choice]A previously-unheard-of 8th deadly sin that's deadlier than the other 7 combined.[n][r1]a previously-unheard-of 8th deadly sin that's deadlier than the other 7 combined.
+>comic_answer	fun		[choice]The winning lottery numbers.[n][r1]the winning lottery numbers.
+>comic_answer	creativity		[choice]Inspiration to write the much-needed sequel to Cars 3.[n][r1]inspiration to write the much-needed sequel to Cars 3.
+
+>>>	artsy6
+>event_type	comic
+>comic_type	artsy
+>comic_turn_number	3
+>allow_typing	no
+	narrator		It's taken you many years, but you've finally decided what you want tattooed on your chest:	
+>comic_answer	boldness		[choice]A kickass tiger, representing all things badass.[n][r1]a kickass tiger, representing all things badass.
+>comic_answer	smarts		[choice]Paul Erdös, enfant terrible of mathematics, author of many unsolved math conjectures.[n][r1]Paul Erdös, enfant terrible of mathematics, author of many unsolved math conjectures.
+>comic_answer	creativity		[choice]A butterfly that, for once, doesn't adhere to beauty standards.[n][r1]a butterfly that, for once, doesn't adhere to beauty standards.
+>comic_answer	charm		[choice]All the hottest people you know... meshed into one superior lifeform.[n][r1]all the hottest people you know... meshed into one superior lifeform.
+
+>>>	domino_comic_ending_1
+>event_type	ending
+>ending_type	comic
+>comic_type	domino
+>comic_stage	Cover
+>special_command	comiccovershowimage	comic_domino_cover_3:slide:0.0:3,comic_domino_cover_2:slide:2.0:2,comic_domino_cover_1:slide:3.0:1
+	narrator		"Do-Mi-Noh!" follows Kale, a regular dude who gets transported into a magical world were all disputes are solved via epic domino matches.[n][n]This world is ruled by the powerful Prince of Domino. Whoever beats him in a domino match will earn %COMICREPLACEMENT_DOMINO1%[n][n]But the Prince hides at the top of a tower that ascends into the sky.	Event_ComicCover_Domino
+	narrator		As Kale climbs the tower, he will find all sorts of surprises in its many levels: friends, foes... even %COMICREPLACEMENT_DOMINO2%[n][n]Our protagonist will have the help of the Ancestral Talisman of the Dominoes, an artifact that lets Kale see "The Heart of the Pieces" at the cost of %COMICREPLACEMENT_DOMINO3%
+	narrator		But the true domino match isn't the domino matches Kale plays; it's the one that takes place inside him: %COMICREPLACEMENT_DOMINO4%[n][n]Will he win the one domino match that truly matters?
+
+>>>	domino_comic_ending_3
+>event_type	ending
+>ending_type	comic
+>comic_type	domino
+>comic_stage	Panels
+>icon_only_npc	kale,coven,abdu,cinnamon,orc
+	kale	default	I'm not afraid of you. This is NOT my first domino match!
+	covenhope	default	Haha... but you see: this isn't a normal domino match...
+	covenhope	default	This is... %COMICREPLACEMENT_DOMINO5%
+	abdu	default	%COMICREPLACEMENT_DOMINO5_2%
+	cinnamon	default	I think it's %COMICREPLACEMENT_DOMINO5_3%
+	orc	default	No way!
+	narrator		Everything seems lost... but then Kale remembers the wise words of his grandpa:
+	narrator		%COMICREPLACEMENT_DOMINO6%
+	kale	default	Of course!
+	kale	default	Heh...
+	narrator		It seems grandpa's words have given Kale a plan... but will it work against Hope's unorthodox domino variant?
+	narrator		TO BE CONTINUED...
+
+>>>	domino1
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	1
+>allow_typing	no
+	narrator		What's the (admittedly kinda useless) thing that you'd bring to a desert island?	
+>comic_answer	fun		[choice]A 50%-off coupon to a theme park.[n][r1]a 50%-off coupon for Domino Land, a domino-themed theme park.
+>comic_answer	boldness		[choice]A free pass for one crime.[n][r1]a free pass for one crime.
+>comic_answer	smarts		[choice]A taxi license with its coveted taxi driver diploma.[n][r1]a taxi license.
+>comic_answer	charm		[choice]Your dad's approval.[n][r1]the approval of their dad.
+
+>>>	domino2
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	1
+>allow_typing	no
+	narrator		You gotta fight a fearsome foe. Quick! Grab something to aid you in battle!	
+>comic_answer	charm		[choice]A majestic horse.[n][r1]a horse.
+>comic_answer	fun		[choice]Drunk Uncle Bernie.[n][r1]his drunk uncle Bernie.
+>comic_answer	smarts		[choice]Twenty lawyers.[n][r1]twenty lawyers, roaming free.
+>comic_answer	boldness		[choice]A pot of boiling-hot coffee.[n][r1]free coffee.
+
+>>>	domino3
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	2
+>allow_typing	no
+	narrator		What hardship do you face in everyday life that you highly suspect is the result of a curse someone put on you?	
+>comic_answer	creativity		[choice]Writer's block.[n][r1]a powerful writer's block that stops Kale from writing his big novel.
+>comic_answer	fun		[choice]Microtransactions in all the games you play.[n][r1]five dollars per use.
+>comic_answer	charm		[choice]Hair loss.[n][r1]losing hair, if he abuses it.
+>comic_answer	boldness		[choice]The fact that the gambling commission is looking for you... obviously the curse is to blame![n][r1]being rightfully chased by the gambling commission for cheating.
+
+>>>	domino4
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	2
+>allow_typing	no
+	narrator		You are offered a big cash prize... but only if you eat one of these things:	
+>comic_answer	smarts		[choice]One of your own kidneys. You only need one, anyhow.[n][r1]a match between his kidneys to decide which kidney should leave if Kale was ever to donate a kidney.
+>comic_answer	boldness		[choice]Your own parents.[n][r1]a match to overcome the guilt of eating his own parents.
+>comic_answer	fun		[choice]Mayonnaise straight from the jar.[n][r1]a match against the intrusive craving to eat mayonnaise from the jar.
+>comic_answer	creativity		[choice]Instead of choosing, ask if you can play for a bigger cash prize if you attempt to eat all three things![n][r1]a match against his gambling addiction.
+
+>>>	domino5
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's legal but should be illegal?	
+>comic_answer	fun		[choice]Playing beach volleyball.[n][r1]a beach volleyball match.[n][r2]A BEACH VOLLEYBALL MATCH?![n][r3]a domino match, but instead of dominoes you play with a volleyball... on the beach.
+>comic_answer	creativity		[choice]Gazing at sculptures of hot beautiful Greek men.[n][r1]Sparta.[n][r2]SPARTA?![n][r3]...a movie reference.
+>comic_answer	smarts		[choice]Playing domino... online.[n][r1]an online domino match.[n][r2]AN ONLINE DOMINO MATCH?![n][r3]a domino match... but played on computers, through the internet.
+>comic_answer	boldness		[choice]A knife fight [n][r1]a knife domino match.[n][r2]A KNIFE DOMINO MATCH?![n][r3]a domino match... with knives.	
+
+>>>	domino6
+>event_type	comic
+>comic_type	domino
+>comic_turn_number	3
+>allow_typing	no
+	narrator		What's the one thing they should be teaching at schools?	
+>comic_answer	fun		[choice]Things you should NOT try to eat.[n][r1]Kale, don't ever eat the domino pieces. You make that mistake only once.
+>comic_answer	smarts		[choice]How to build a ferris wheel.[n][r1]If I ever die, remember to spread my ashes on my favorite ferris wheel.
+>comic_answer	charm		[choice]Proper etiquette during time travel.[n][r1]Remember Kale: if you ever travel back in time, avoid touching anything, for you could alter the course of history.
+>comic_answer	boldness		[choice]Parts of the body you should avoid getting shot in.[n][r1]Kale, if you ever face a formidable foe, remember that no one is immune to being shot in the face.

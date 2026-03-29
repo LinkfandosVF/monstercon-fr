@@ -1,0 +1,7 @@
+>>>	gachashop_tutorial
+>writer
+>event_type	special
+>location	any
+>argument_tags	gachashop_tutorial
+>layout	solo	shopkeeper
+	shopkeeper	default	...

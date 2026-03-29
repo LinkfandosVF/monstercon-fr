@@ -1,0 +1,836 @@
+>>>	date_april_1
+>event_type	basicdate
+>date_npc	april
+>action	1		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_april,dates_walking_player
+	narrator		You and April go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Toward the end, her feet start to hurt. Who knew huge, squeaky clown shoes were so uncomfortable?	Player_datewalk
+	narrator		So you give her a piggyback ride the rest of the way, even through all the mud puddles. How chivalrous!
+	narrator		Now go take a shower.	
+
+>>>	date_april_2
+>event_type	basicdate
+>date_npc	april
+>action	1		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_april,dates_walking_player
+	narrator		You and April go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		April tells you all about her dream to be a world-famous idol and how she plans to achieve it.	Player_datewalk
+	narrator		Not to be outdone, you tell her about a dream you had last night where you grew spaghetti for hair.
+	narrator		Maybe someday you can achieve your dream too! Do they do spaghetti hair transplants in Turkey? Time to find out!	
+
+>>>	date_april_3
+>event_type	basicdate
+>date_npc	april
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_april,dates_tving_player,dates_livingroom_fg
+	narrator		You and April watch the latest action movie.	Player_datetv
+	narrator		She has a lot of opinions on what guns the characters use and their shooting techniques.
+	narrator		You ask her how she knows so much about guns. She suddenly doesn't want to talk much after that.
+	narrator		She's probably focused on the movie. A real cinephile, this one! You have a great time hanging out with her.	
+
+>>>	date_april_4
+>event_type	basicdate
+>date_npc	april
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_april,dates_tving_player,dates_livingroom_fg
+	narrator		You and April watch a movie together at the hotel.	Player_datetv
+	narrator		You decide to order room service. April gets a salad, but she keeps looking longingly at your loaded nachos.
+	narrator		Knowing that idols are often obligated to be on strict diets, you offer to share with her and keep it your little secret.
+	narrator		This leads to you watching her devour an entire plate of loaded nachos in under ten minutes. It's... a sight.
+	narrator		But hey, good for April, getting to relax for a change!	
+
+>>>	date_april_5			
+>event_type	basicdate
+>date_npc	april
+>action	3		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_april,dates_playing_player,dates_gamesroom_fg
+	narrator		You and April have a great game night.	Ambient_DateGames
+	narrator		You decide to play charades!	Player_dateplay
+	narrator		April wipes the floor with you. You could've foreseen this, since clowns and mimes are probably related to some degree.	
+	narrator		Still, it was fun watching her silently devour a whole rotisserie chicken. New kink unlocked!	
+
+>>>	date_april_6
+>event_type	basicdate
+>date_npc	april
+>action	3		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_april,dates_playing_player,dates_gamesroom_fg
+	narrator		You and April have a great game night.	Ambient_DateGames
+	narrator		She asks if you can play Candyland, because it reminds her of her childhood and she loves the aesthetic. It sounds low-stakes, so you agree.	Player_dateplay
+	narrator		Two hours and one flipped table later, you learn just how competitive a game of Candyland with April First can be.
+	narrator		At least now you know your relationship can survive even the horrors of the Molasses Swamp. Aww!	
+
+>>>	date_doug_1			
+>event_type	basicdate
+>date_npc	doug
+>action	2		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_doug,dates_walking_player
+	narrator		You and Doug go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		You decide to play "I Spy" to pass the time.	Player_datewalk
+	narrator		You say, "I spy a handsome green goober", and it takes Doug twenty minutes to realize you're talking about him.
+	narrator		That's the handsome green goober you know and love!	
+
+>>>	date_doug_2
+>event_type	basicdate
+>date_npc	doug
+>action	2		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_doug,dates_walking_player
+	narrator		You and Doug go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Doug brings some birdseed to feed the pigeons with you. Awww!	Player_datewalk
+	narrator		Unfortunately there don't seem to be any pigeons out today. There are, however, some VERY territorial geese.
+	narrator		Your lovely stroll turns into a panicked sprint away from evil geese. At least you do it hand-in-hand! How romantic!	
+
+>>>	date_doug_3
+>event_type	basicdate
+>date_npc	doug
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_doug,dates_eating_player,dates_restaurant_fg
+	narrator		You and Doug go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		You've heard rave reviews about the subversive cuisine they serve here. There are so many menu items!	Player_dateeat
+	narrator		Doug gets a little overwhelmed, and when the waiter comes, he panics and orders a hot dog.
+	narrator		It's the best hot dog either of you have ever eaten. You'd never heard of a caviar-mustard reduction, but it's your favorite condiment now. Delish!	
+
+>>>	date_doug_4
+>event_type	basicdate
+>date_npc	doug
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_doug,dates_eating_player,dates_restaurant_fg
+	narrator		You and Doug go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		You're having a lovely time until you get the bill. There's no way either of you can afford this.	Player_dateeat
+	narrator		So your lunch gets extended by a bonus four hours while you two wash dishes to pay off your debts to the restaurant.
+	narrator		It's a surprisingly fun bonding activity! You wash and Doug dries. Hopefully the customers don't mind slimy plates!	
+
+>>>	date_doug_5
+>event_type	basicdate
+>date_npc	doug
+>action	3		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_doug,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Doug have a great game night.	Ambient_DateGames
+	narrator		You play a new eurogame that Doug backed on Startkicker.	Player_dateplay
+	narrator		After two-and-a-half hours of trying to understand the rules, you discover that the game is more fun when you just build towers with the pieces.
+	narrator		Congrats, you reinvented Jenga with extra steps. At least you still have fun with Doug!	
+
+>>>	date_doug_6			
+>event_type	basicdate
+>date_npc	doug
+>action	3		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_doug,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Doug have a great game night.	Ambient_DateGames
+	narrator		You play a few friendly rounds of Competitive Tarot.	Player_dateplay
+	narrator		Doug gives you some interesting readings, including one that makes you hesitant to ever eat lettuce again.	
+	narrator		All of your readings for Doug involve him kissing someone who looks suspiciously similar to you.
+	narrator		You don't win any games, but let's be real, that wasn't your goal anyway. Hopefully there's a second date in your future!	
+
+>>>	date_liam_1			
+>event_type	basicdate
+>date_npc	liam
+>action	3		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_liam,dates_walking_player
+	narrator		You and Liam go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		He uses you as a captive audience to complain about several things: the weather, the economy, his bottomless hatred for single-use plastics...	Player_datewalk
+	narrator		Anyone else would think he was having a terrible time, but you know that complaining is Liam's love language.
+	narrator		And as a certified Liam enjoyer, you love nothing more than to hear him talk shit. What a catch!	
+
+>>>	date_liam_2			
+>event_type	basicdate
+>date_npc	liam
+>action	3		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_liam,dates_walking_player
+	narrator		You and Liam go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Liam spends the whole time telling you the complete and exhaustive history of the man bun.	Player_datewalk
+	narrator		You tune most of it out; you're more focused on watching his luscious, purple lips flap about shit you couldn't care less about.
+	narrator		In the end, Liam got to hear himself talk, and you got to stare at him without seeming creepy for once. It's a perfect night for you both.	
+
+>>>	date_liam_3			
+>event_type	basicdate
+>date_npc	liam
+>action	2		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_liam,dates_walking_player
+	narrator		You and Liam decide to visit a contemporary art museum.	Ambient_DateMuseum
+	narrator		Obviously, Liam is in his element: he has copious amounts of information on every little weird sculpture lump or abstract blob you see.	Player_datemuseum
+	narrator		He's so enthusiastic, he ends up explaining the meaning of the fire extinguisher hanging next to a painting.
+	narrator		You're about to correct him, but he looks so cute when he's enjoying himself. You end up learning a lot about art (and fire extinguishers).	
+
+>>>	date_liam_4			
+>event_type	basicdate
+>date_npc	liam
+>action	2		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_liam,dates_walking_player
+	narrator		You and Liam decide to visit a contemporary art museum.	Ambient_DateMuseum
+	narrator		Obviously, Liam is in his element: he has copious amounts of information on every little weird sculpture lump or abstract blob you see.	Player_datemuseum
+	narrator		Suddenly, he stops in front of a huge abstract painting and doesn't say anything. You're not sure if he's moved beyond words or, for once, he has no clue what it means.
+	narrator		But he looks super cute, and you stand next to him in silence for a while, looking at the art. It feels nice, and intimate.	
+
+>>>	date_liam_5
+>event_type	basicdate
+>date_npc	liam
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_liam,dates_tving_player,dates_livingroom_fg
+	narrator		You and Liam watch a vintage black-and-white movie together.	Player_datetv
+	narrator		Liam's full of fun facts about the film, such as "That actor did unspeakable amounts of cocaine on set," and "I think this movie is bad."
+	narrator		We stan an info-dumping king!	
+
+>>>	date_liam_6
+>event_type	basicdate
+>date_npc	liam
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_liam,dates_tving_player,dates_livingroom_fg
+	narrator		You and Liam watch the latest action movie.	Player_datetv
+	narrator		Liam seems bored during the movie, which has you a bit worried...
+	narrator		But when the credits roll, his eyes light up, and you quickly learn Liam's favorite part of movie night: co-authoring a scathing review on Rotten Potatoes.
+	narrator		Bonding by being haters, yay!	
+
+>>>	date_nico_1			
+>event_type	basicdate
+>date_npc	nico
+>action	1		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_nico,dates_walking_player
+	narrator		You and Nico decide to visit a history museum.	Ambient_DateMuseum
+	narrator		They tell you they love museum-going, although they're not good at remembering dates, or facts, or where the exit is.	Player_datemuseum
+	narrator		Still, it's really exciting for them to see ancient Greek theater masks. It's like proto-cosplay!
+	narrator		You look at them try to reenact an old Greek play by themself. They clearly don't know any Greek, but their chiseled body does look pretty classic to you!	
+
+>>>	date_nico_2
+>event_type	basicdate
+>date_npc	nico
+>action	1		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_nico,dates_walking_player
+	narrator		You and Nico decide to visit an art museum.	Ambient_DateMuseum
+	narrator		You're surprised to learn Nico LOVES old paintings. They're full of drama, passion, even MURDER!	Player_datemuseum
+	narrator		You'd never thought about it, but a lot of paintings are kind of like anime: all exaggerated poses and oversized emotions.
+	narrator		Nico even tries imitating some famous ones, like The Last Supper (all 13 characters) and The Scream. Damn, you didn't know they were this versatile!	
+
+>>>	date_nico_3
+>event_type	basicdate
+>date_npc	nico
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_nico,dates_eating_player,dates_restaurant_fg
+	narrator		You and Nico go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		You've always wondered how Nico eats. They technically have two mouths, so which one is for food?	Player_dateeat
+	narrator		It turns out the answer to that question is too disturbing to describe.
+	narrator		Still, you two manage to have a nice conversation when they're not doing unspeakable things to that ramen. Hooray!	
+
+>>>	date_nico_4
+>event_type	basicdate
+>date_npc	nico
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_nico,dates_eating_player,dates_restaurant_fg
+	narrator		You and Nico go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		Nico arrives in full Naruto cosplay and explains that after dinner they're going to their Chuunin exam.	Player_dateeat
+	narrator		You decide to come along, mostly out of curiosity. It turns out the "Chuunin exam" is a lot of Nico screaming and punching the air behind the restaurant.
+	narrator		You offer to be the exposition character in the stands commenting on the match. You're supportive like that!	
+
+>>>	date_nico_5
+>event_type	basicdate
+>date_npc	nico
+>action	0		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_nico,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Nico have a great game night.	Ambient_DateGames
+	narrator		You play Clue (or Cluedo, before all the Europeans send me hate mail).	Player_dateplay
+	narrator		Nico insists on "getting into character" as a detective before you all start, which apparently involves monologuing and smoking cigars at a dive bar.
+	narrator		You end up getting way too drunk to actually play the game, but you and Nico still have a great time! Being a detective is awesome!	
+
+>>>	date_nico_6
+>event_type	basicdate
+>date_npc	nico
+>action	0		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_nico,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Nico have a great game night.	Ambient_DateGames
+	narrator		You play Coup, a government-themed game where you lie about your cards to gain points and prestige.	Player_dateplay
+	narrator		Nico, for all their interest in being a great actor, is a terrible liar. You beat them easily.
+	narrator		But then Nico explains that they were roleplaying as a spy who was actually working with YOUR government to undermine their own.
+	narrator		Whatever helps them swallow their defeat, you guess!	
+
+>>>	date_omen_1
+>event_type	basicdate
+>date_npc	omen
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_omen,dates_eating_player,dates_restaurant_fg
+	narrator		You and Omen go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		Omen tells you all about their former conquests as a villain. Apparently they once had a fortress not far from this very restaurant!	Player_dateeat
+	narrator		You two decide to check out the old fortress, out of curiosity. Turns out it's a laundromat now.
+	narrator		Omen might've been more upset if they weren't so fascinated by the washing machines. The future truly is now!	
+
+>>>	date_omen_2
+>event_type	basicdate
+>date_npc	omen
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_omen,dates_eating_player,dates_restaurant_fg
+	narrator		You and Omen go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		It takes a while for Omen to understand the difference between a waiter and a minion...	Player_dateeat
+	narrator		Luckily, you're able to talk her out of whipping them when they bring you the wrong drink.
+	narrator		At least you know she'll always have your back! What a thoughtful little sociopath!	
+
+>>>	date_omen_3			
+>event_type	basicdate
+>date_npc	omen
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_omen,dates_tving_player,dates_livingroom_fg
+	narrator		You and Omen cozy up to watch a sci-fi space opera.	Player_datetv
+	narrator		Omen is rooting for the villain to prevail. Of course, they're bitterly disappointed when the heroes win in the end.
+	narrator		But this sparks an unexpectedly deep conversation about their own defeat at the hands of heroes centuries ago. Curses are uttered, and a few tears are shed.
+	narrator		By the end, they feel a lot better getting that off their chest. Hooray for dates that become group therapy sessions!	
+
+>>>	date_omen_4
+>event_type	basicdate
+>date_npc	omen
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_omen,dates_tving_player,dates_livingroom_fg
+	narrator		You and Omen watch a gory slasher movie.	Player_datetv
+	narrator		Omen gets really into it. She's even taking notes on the killer's techniques.
+	narrator		When the credits roll, she proudly shows you what she's been writing: "THE UNDEFEATABLE OMEN'S RE-ASCENDANCE TO GLORY: A PLAN WITH 45 KNIVES"
+	narrator		We love a beautiful woman who's constantly working on herself!	
+
+>>>	date_omen_5
+>event_type	basicdate
+>date_npc	omen
+>action	1		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_omen,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Omen have a great game night.	Ambient_DateGames
+	narrator		You decide to make it a poker night. Omen completely wipes the floor with you.	Player_dateplay
+	narrator		It turns out it's quite easy to have a poker face when your face is a mask made of metal.
+	narrator		Come to think of it... how do they even manage to make any expressions if their face is a mask made of metal?
+	narrator		Huh... some questions are best left unanswered, you guess.	
+
+>>>	date_omen_6
+>event_type	basicdate
+>date_npc	omen
+>action	1		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_omen,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Omen have a great game night.	Ambient_DateGames
+	narrator		You play Settlers of Catan. Omen likes the conquest aspect and immediately goes for the largest army points.	Player_dateplay
+	narrator		By the end of the game, she's acquired 98 knight cards. (How? There aren't even that many knight cards in the deck.)
+	narrator		You still win, because Omen didn't bother building any settlements or cities...
+	narrator		But she insists that her army overtakes your "pathetic hippie commune", making her the true winner. Whatever floats her boat!	
+
+>>>	date_zoe_1			
+>event_type	basicdate
+>date_npc	zoe
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_zoe,dates_eating_player,dates_restaurant_fg
+	narrator		You and Zoe go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		Zoe goes to town on some gyoza. You've never seen her stuff so many of her mouths at once.	Player_dateeat
+	narrator		Gyoza surely hates to see Zoe coming... but the same can't be said for you! ;D	
+
+>>>	date_zoe_2			
+>event_type	basicdate
+>date_npc	zoe
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_zoe,dates_eating_player,dates_restaurant_fg
+	narrator		You and Zoe go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		You decide to do the romantic cliché and split a milkshake with two straws. You two can do that cute thing where you look into each other's eyes while you drink!	Player_dateeat
+	narrator		Zoe thanks you for the milkshake... and then uses the second straw to drink with her leg-mouth as well. Huh.	
+	narrator		But this gives you an unexpectedly-good view of her butt, so you're not gonna complain!	
+
+>>>	date_zoe_3			
+>event_type	basicdate
+>date_npc	zoe
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_zoe,dates_tving_player,dates_livingroom_fg
+	narrator		You and Zoe binge-watch some 90s magical girl anime.	Player_datetv
+	narrator		Zoe loves it. She finds it super relatable, given that she herself is a "magical girl."
+	narrator		You ask if she's ever saved the world. She says she previously tried to end it a few times, which is kinda the same thing if you squint.
+	narrator		You have a great time learning so much about Zoe. Magical girls reign supreme!	
+
+>>>	date_zoe_4
+>event_type	basicdate
+>date_npc	zoe
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_zoe,dates_tving_player,dates_livingroom_fg
+	narrator		You and Zoe watch the latest action movie.	Player_datetv
+	narrator		While most people would watch for the guns, car chases, and badass one-liners, Zoe's more interested in the relationship between the protagonist and the villain.
+	narrator		Sadly the movie doesn't end in the enemies-to-lovers fantasy she wanted, but she shrugs it off, because that's what fanfiction is for!
+	narrator		You stay up late helping her outline a rival florist/tattoo parlor AU fic. Zoe's so cool and creative!	
+
+>>>	date_zoe_5			
+>event_type	basicdate
+>date_npc	zoe
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_zoe,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Zoe have a great game night.	Ambient_DateGames
+	narrator		You play a storytelling game where you draw prompt cards and improvise a narrative together.	Player_dateplay
+	narrator		Since it's you and Zoe, this quickly reaches its natural conclusion: competing to see which of you can add the most dicks to the story without entirely losing the plot.
+	narrator		Who knew you could gamify erotica? What a wonderful world we live in!	
+
+>>>	date_zoe_6
+>event_type	basicdate
+>date_npc	zoe
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_zoe,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Zoe have a great game night.	Ambient_DateGames
+	narrator		She actually surprises you with a game of her own: It's "Liam Prom", the TTRPG adaptation!	Player_dateplay
+	narrator		She doesn't need to tell you that the game is still in its development stage: she's taken a D&D board and slapped tiny Liam masks on all the pieces.
+	narrator		Still, you have a blast playing as Barbarian Liam, and things get pretty intense between him and Zoe's Cleric Liam!	
+
+>>>	date_none_1
+>event_type	basicdate
+>date_npc	none
+>action			Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_player,transparent_pixel		
+	narrator		You're in the mood for some culture, so you decide to visit the local contemporary museum.	Ambient_DateMuseum
+	narrator		You stand in front of a bunch of abstract paintings, some weirdly-shaped sculptures, and pictures of a guy eating a cherry pie while crying.	Player_datealone
+	narrator		Clearly you're out of your depth. Then you remember you're alone, so you don't have to pretend to understand anything.
+	narrator		It feels really liberating, and you end up actually enjoying some of the art (yes, the cherry pie looks delicious). You gain %VARY_LOWEST_STAT_PLUS_2%.	
+
+>>>	date_none_2
+>event_type	basicdate
+>date_npc	none
+>action			Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_player,transparent_pixel
+	narrator		You feel like spending time with yourself, so you decide to visit the local museum by yourself.	Ambient_DateMuseum
+	narrator		You're loving the con, but between all the crowds and activities and near-death experiences, this "vacation" is starting to feel like more work than real life.	Player_datealone
+	narrator		All that makes you really appreciate the quiet of places such as this museum. You gain %VARY_LOWEST_STAT_PLUS_2%!	
+
+>>>	date_miranda_1
+>event_type	basicdate
+>date_npc	miranda
+>action	1		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_miranda,dates_eating_player,dates_restaurant_fg
+	narrator		You and Miranda go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		She's disappointed that there are only two forks per table setting, so you decide to cheer her up with a little white lie.	Player_dateeat
+	narrator		You explain that the candle holder is a special, blunt silverware tool for smashing your food into easily-consumable pancakes.
+	narrator		You two have a blast flattening your steaks and salads. The waiters aren't amused, but you sure are!	
+
+>>>	date_miranda_2
+>event_type	basicdate
+>date_npc	miranda
+>action	1		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_miranda,dates_eating_player,dates_restaurant_fg
+	narrator		You and Miranda go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		You order the salmon, and Miranda is horrified. To save face, you tell her it's part of a cool new trend called "eat the poor."	Player_dateeat
+	narrator		She accepts this, and orders "the most penniless lobster you have." All lobsters are equally poor, so she technically gets what she wants.
+	narrator		Cheers!	
+
+>>>	date_sawyer_1
+>event_type	basicdate
+>date_npc	sawyer
+>action	1		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_sawyer,dates_walking_player
+	narrator		You and Sawyer go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Sawyer is quite the capable outdoors-person. They identify several animal tracks on your walk.	Player_datewalk
+	narrator		They can identify pigeon tracks vs. seagulls, rabid raccoons vs. normal raccoons, couples on a romantic stroll vs. couples who will soon be walking to a divorce court...
+	narrator		Hopefully this lovely date solidifies your footprints as "walking into Sawyer's open arms"!	
+
+>>>	date_sawyer_2
+>event_type	basicdate
+>date_npc	sawyer
+>action	1		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_sawyer,dates_walking_player
+	narrator		You and Sawyer go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Sawyer gushes about their horses. They confess that they're a bit homesick for the ranch.	Player_datewalk
+	narrator		To give them a taste of home, you get on all fours and offer to take them for a ride. They're touched!
+	narrator		Sawyer mounts you, and you gallop through the park. It's clearly not your first rodeo!	
+
+>>>	date_freehugs_1
+>event_type	basicdate
+>date_npc	freehugs
+>action	2		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_freehugs,dates_walking_player
+	narrator		You and Bruce go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		Bruce appreciates the exercise, because apparently today is leg day!	Player_datewalk
+	narrator		That is to say that it's Leg Day: the national holiday where you appreciate your legs and take them out for some exercise.
+	narrator		Way to be fun AND festive!	
+
+>>>	date_freehugs_2
+>event_type	basicdate
+>date_npc	freehugs
+>action	2		Go for a walk
+>background	comp_duo	dates_park_bg,dates_walking_freehugs,dates_walking_player
+	narrator		You and Bruce go on a lovely stroll through the park.	Ambient_DatePark
+	narrator		You're having such a lovely conversation that once you reach the end of the path, you both think: why stop here?	Player_datewalk
+	narrator		So you two stomp through the nearby woods and take an impromptu 7-mile hike.
+	narrator		Your calves are going to be screaming tomorrow, but it was worth it to spend quality time with your favorite hug-bug!	
+
+>>>	date_gerard_1
+>event_type	basicdate
+>date_npc	gerard
+>action	1		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_gerard,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Gerard have a great game night.	Ambient_DateGames
+	narrator		You two play some friendly rounds of Competitive Tarot.	Player_dateplay
+	narrator		Gerard keeps drawing The Tower, somehow. You're quite sure there aren't this many Towers in your standard deck. Is he cheating?
+	narrator		Well, he seems happy either way, which is more than you can say for most people who draw The Tower, so whatever!	
+
+>>>	date_gerard_2
+>event_type	basicdate
+>date_npc	gerard
+>action	1		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_gerard,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Gerard have a great game night.	Ambient_DateGames
+	narrator		Because Gerard loves to revel in misery, you suggest the most agony-inducing board game there is: Monopoly.	Player_dateplay
+	narrator		It turns out Gerard can be uber-competitive. Two hours, thousands of Monopoly dollars, and one wall-punch later, he's crowned the victor!
+	narrator		It warms your heart to see him smile for once, even at the expense of your fake capitalist empire.	
+
+>>>	date_kale_1
+>event_type	basicdate
+>date_npc	kale
+>action	0		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_kale,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Kale have a great game night.	Ambient_DateGames
+	narrator		You two decide to play some friendly rounds of the Pokemans trading card game.	Player_dateplay
+	narrator		Kale stomps your ass pretty consistently. After a few matches he suggests swapping decks, so you can play with his clearly superior deck.
+	narrator		What a good dude!	
+
+>>>	date_kale_2
+>event_type	basicdate
+>date_npc	kale
+>action	0		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_kale,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Kale have a great game night.	Ambient_DateGames
+	narrator		You two play Pictionary, but it's a bit rough.	Player_dateplay
+	narrator		Kale keeps getting easy prompts like "bunny" and "hamburger", whereas you somehow keep getting shit like "the concept of time" or "the face of God."
+	narrator		At least Kale's so high that he thinks all your scribbles are super deep. Hooray for a friend who's easy to please!	
+
+>>>	date_mamimi_1
+>event_type	basicdate
+>date_npc	mamimi
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_mamimi,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Mamimi have a great game night.	Ambient_DateGames
+	narrator		Mamimi asks if you can play a tabletop game version of one of her favorite fighting games.	Player_dateplay
+	narrator		You agree, and she proceeds to stomp your entire ass over and over.
+	narrator		But that's okay with you. You love a strong, confident woman who can beat you up!	
+
+>>>	date_mamimi_2
+>event_type	basicdate
+>date_npc	mamimi
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_mamimi,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Mamimi have a great game night.	Ambient_DateGames
+	narrator		You two play a cozy co-op game where you two manage your own coffee shop.	Player_dateplay
+	narrator		Sadly, you lose because Mamimi keeps making the coffee as caffeinated as possible, even though your patrons are having heart attacks and leaving bad reviews.
+	narrator		Oh, well. You wouldn't have this wonderful caffeine-fiend any other way!	
+
+>>>	date_puppet_1
+>event_type	basicdate
+>date_npc	puppet
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_puppet,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Wyatt have a great game night.	Ambient_DateGames
+	narrator		You play "Who Am I?", the game where you ask yes-or-no questions to determine what person, place, or thing you are.	Player_dateplay
+	narrator		Wyatt's a GENIUS at this game. Answering riddles and solving countless escape rooms has clearly prepared him for this.
+	narrator		You, on the other hand, keep forgetting that "what color am I?" isn't a yes-or-no question.
+	narrator		At least Wyatt seems to find your idiocy charming. Hey, someone has to!	
+
+>>>	date_puppet_2
+>event_type	basicdate
+>date_npc	puppet
+>action	2		Board game night
+>background	comp_trio	dates_gamesroom_bg,dates_playing_puppet,dates_playing_player,dates_gamesroom_fg
+	narrator		You and Wyatt have a great game night. You ask him what his favorite game is.	Ambient_DateGames
+	narrator		He eagerly explains that back in their edgy phase, he and his sister devised a game where one person chains the other to a conveyor belt that slowly inches toward a buzz saw.	Player_dateplay
+	narrator		After taking a few moments to process that, you ask what his second-favorite game is.
+	narrator		It's checkers, apparently. So, for now, you enjoy a night of checkers.
+	narrator		But hey, if this relationship goes anywhere, maybe you could consider letting Wyatt chain you up. We'll see!	
+
+>>>	date_scott_1
+>event_type	basicdate
+>date_npc	scott
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_scott,dates_eating_player,dates_restaurant_fg
+	narrator		You and Scott go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		Scott is delighted that he won't have to share his meal with his plethora of cousins!	Player_dateeat
+	narrator		However, he still asks if you two can put your entrees in one big bowl and eat them with your faces, because he's feeling homesick.
+	narrator		You kinda wish he'd asked that before you ordered tuna salad and he ordered pumpkin soup... but oh well, anything for Scott!	
+
+>>>	date_scott_2
+>event_type	basicdate
+>date_npc	scott
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_scott,dates_eating_player,dates_restaurant_fg
+	narrator		You and Scott go out to a restaurant.	Ambient_DateRestaurant
+	narrator		You both order the spaghetti. Scott takes this opportunity to tell you all about a new sport he's invented called "Meat-Ball".	Player_dateeat
+	narrator		The objective is to dribble, then dunk a meatball into your opponent's mouth.
+	narrator		Sounds more like a choking hazard than a sport, but you play along anyway, and what do you know? You win!	
+
+>>>	date_vera_1
+>event_type	basicdate
+>date_npc	vera
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_vera,dates_tving_player,dates_livingroom_fg
+	narrator		You and Vera decide to relax and watch bad reality TV.	Player_datetv
+	narrator		It's a night of popcorn, face masks, and talking shit about half the contestants.
+	narrator		Relaxation is a concept that's nearly foreign to Vera, so you can tell she appreciates getting to put her feet up for once. What a treat!	
+
+>>>	date_vera_2
+>event_type	basicdate
+>date_npc	vera
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_vera,dates_tving_player,dates_livingroom_fg
+	narrator		You and Vera decide to watch old mafia movies in your hotel room.	Player_datetv
+	narrator		Vera, as an experienced crimelord, has lots of opinions on Hollywood's portrayal of organized crime.
+	narrator		It's a lot of "Tommy guns are actually very inefficient" and "I would never be caught dead in that fedora."
+	narrator		Ahh, Vera. What a character!	
+
+>>>	date_veravalerie
+>event_type	basicdate
+>ignore_for_progress
+>action	0		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_vera,dates_tving_player,dates_livingroom_fg
+	narrator		You and Vera mine your nostalgia by watching your favorite childhood movies.	Player_datetv
+	narrator		You two amuse each other by recounting stories of your shared youth...
+	narrator		Y'know, in hindsight, someone probably should've noticed what little terrors you two were and done something about it.
+	narrator		Oh, well! You both turned out okay... or, at the very least, you both turned out hot!	
+
+>>>	date_fanzine_1
+>event_type	basicdate
+>date_npc	fanzine
+>action	3		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_fanzine,dates_walking_player
+	narrator		You and Yang Yang decide to visit an art museum!	Ambient_DateMuseum
+	narrator		She's instantly inspired by the art, so she gets to work on a zine right there and then.	Player_datemuseum
+	narrator		Turns out she's inspired in a "fuck the Western canon" way, so her rendition of some of the artworks is rather... "punk rock", for lack of a better word.	
+
+>>>	date_fanzine_2
+>event_type	basicdate
+>date_npc	fanzine
+>action	3		Visit a museum
+>background	comp_duo	dates_museum_bg,dates_walking_fanzine,dates_walking_player
+	narrator		You and Yang Yang decide to visit an art museum!	Ambient_DateMuseum
+	narrator		For someone with such a DIY spirit and unconventional style, she's surprisingly knowledgeable about art history.	Player_datemuseum
+	narrator		She regales you with anecdotes about Da Vinci's passion for cream cheese, and you learn Michelangelo loved peeing in the shower.
+	narrator		...On second thought, you think she might be making it up. But she sounds really excited about her DIY art history lessons!	
+
+>>>	date_susanne_1
+>event_type	basicdate
+>date_npc	susanne
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_susanne,dates_tving_player,dates_livingroom_fg
+	narrator		You and Susanne decide to kick back and watch action movies.	Player_datetv
+	narrator		She puts on everyone's favorite legally-distinct dieselpunk franchise: "Angry Allen: Infuriated Highway."
+	narrator		Your favorite character (and future career goal) is the guy playing electric guitar on the hood of the moving car.
+	narrator		Susanne promises to hire you as soon as she gets her first monster truck. A post-apocalyptic power couple is born!	
+
+>>>	date_susanne_2
+>event_type	basicdate
+>date_npc	susanne
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_susanne,dates_tving_player,dates_livingroom_fg
+	narrator		You and Susanne decide to kick back and watch NASCAR.	Player_datetv
+	narrator		Apparently Susanne's been practicing her competitive racing skills in hopes to one day become a driver herself!
+	narrator		And failing that, she can always keep using her skills to win money in the illegal drag racing scene.
+	narrator		Gotta love a career woman with a plan B!	
+
+>>>	date_zorrito_1
+>event_type	basicdate
+>date_npc	zorrito
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_zorrito,dates_eating_player,dates_restaurant_fg
+	narrator		You and Yi Feng go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		It's one of those blind dining experiences. Of course, Yi Feng LOVES the mystery.	Player_dateeat
+	narrator		You really enjoy your meal too, until you accidentally eat a napkin. Good thing Yi Feng didn't see you do that!
+	narrator		He does hear you when you choke on the dessert spoon, though. Who knew death was on the menu?
+	narrator		Luckily, Yi Feng reacts quickly: he removes his blindfold and does the Heimlich maneuver. Once you spit the spoon out, it's kinda sexy!	
+
+>>>	date_zorrito_2
+>event_type	basicdate
+>date_npc	zorrito
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_zorrito,dates_eating_player,dates_restaurant_fg		
+	narrator		You and Yi Feng go out to a fancy restaurant.	Ambient_DateRestaurant
+	narrator		The menu looks overwhelming, but Yi Feng takes it off your hands and tells the waiter: "Surprise us!"	Player_dateeat
+	narrator		The waiter obliges, and serves you the mac and cheese he'd packed for his lunch break.
+	narrator		Good thing his mac and cheese technique is FLAWLESS. You and Yi Feng go to town on the mystery macaroni.
+	narrator		Shame it wasn't spaghetti; you would have loved pulling a "Lady and the Tramp". But the mystery was part of the restaurant (and Yi Feng's) charm!	
+
+>>>	date_faith_1
+>event_type	basicdate
+>date_npc	faith
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_faith,dates_eating_player,dates_restaurant_fg
+	narrator		You and Faith go out to a fancy restaurant.
+	narrator		Faith inquires extensively about their vegan options, grilling the waiter on every ingredient to make sure no animal cruelty was involved in its creation.
+	narrator		You had your heart set on a hamburger, but now you're not so sure about it... so you order the first tofu-based dish you see.
+	narrator		It's actually quite delicious! Look at Faith, being a good influence on you. That's a rare quality among friends of yours!
+
+>>>	date_faith_2
+>event_type	basicdate
+>date_npc	faith
+>action	0		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_faith,dates_eating_player,dates_restaurant_fg
+	narrator		You and Faith go out to a fancy restaurant.
+	narrator		You ask her about her latest adventures with the Coven, but she's apparently not in the mood to discuss work.
+	narrator		So you pivot and ask her about her cats. Her eyes light up. This fills two hours' worth of conversation.
+	narrator		Ahh, Faith Fernández: the crazy cat-lady we all adore!
+
+>>>	date_tengu_1
+>event_type	basicdate
+>date_npc	tengu
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_tengu,dates_eating_player,dates_restaurant_fg
+	narrator		You and Nanase decide to get dinner at the fancy new downtown restaurant.
+	narrator		While you eat, she tells you all about the research she's been doing for her latest sci-fi novel.
+	narrator		Nothing's better than a beautiful woman info-dumping about rocket science... at least, nothing right now, anyway.
+	narrator		I'd better stop talking; Nanase's explaining the effect on proportional weight on booster thrust. We'd better pay attention!
+
+>>>	date_tengu_2
+>event_type	basicdate
+>date_npc	tengu
+>action	3		Go out to dinner
+>background	comp_trio	dates_restaurant_bg,dates_eating_tengu,dates_eating_player,dates_restaurant_fg
+	narrator		You and Nanase decide to get dinner at the new bistro downtown.
+	narrator		Apparently, Nanase knows the whole waitstaff. She inquires after every waiter's life, their family... she even knows everyone's birthday.
+	narrator		Just as you're feeling left out, she announces that it's YOUR birthday, and the waiters bring you cake!
+	narrator		You later confide in her that it's not your birthday. "Yeah, duh," she says. "I just wanted free cake."
+	narrator		Bless that beautiful, opportunistic woman... and bless that cake!
+
+>>>	date_cosplayfixer_1
+>event_type	basicdate
+>date_npc	cosplayfixer
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_cosplayfixer,dates_tving_player,dates_livingroom_fg
+	narrator		You and Sasha cozy up at the hotel and watch old movies.
+	narrator		Sasha geeks out a bit over the vintage costume design. You had no idea there were so many different names for skirts.
+	narrator		Trumpet, bubble, mermaid, peplum, A-line, pleated, knife pleated...	
+	narrator		Your head is spinning, but maybe that's because Sasha just put an arm around you -- actually, 3 of them! Swoon!
+
+>>>	date_cosplayfixer_2
+>event_type	basicdate
+>date_npc	cosplayfixer
+>action	3		Watch a movie
+>background	comp_trio	dates_livingroom_bg,dates_tving_cosplayfixer,dates_tving_player,dates_livingroom_fg
+	narrator		You and Sasha cozy up at the hotel and watch old movies.
+	narrator		Sasha talks about one of his dreams: to one day be a professional Hollywood costume designer.	
+	narrator		Cosplay is fun, but being the guy who actually INVENTS those wacky outfits would be a dream!
+	narrator		You tell Sasha you're always available to model his fashions whenever he wants. He says he just might take you up on that.
+	narrator		Look alive, %CURRENTPLAYERNAME%: a sexy makeover montage might be in your future!
+
+>>>	date_april_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_april_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_doug_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_doug_datesfinished_2
+>event_type	special
+>icon_only_npc	dougdad
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_liam_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_liam_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_nico_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_nico_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_omen_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_omen_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_zoe_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_zoe_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_freehugs_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_gerard_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_kale_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_mamimi_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_miranda_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_puppet_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_sawyer_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_vera_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_scott_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_fanzine_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_susanne_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_zorrito_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_faith_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_tengu_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to talk to me anymore, we're already two lovebirds!
+
+>>>	date_none_datesfinished_1
+>event_type	special
+>layout	none
+	narrator		You don't need to rest anymore, you're ready to take on the con!
+
+>>>	date_none_datesfinished_2
+>event_type	special
+>layout	none
+	narrator		You don't need to rest anymore, you're ready to take on the con!

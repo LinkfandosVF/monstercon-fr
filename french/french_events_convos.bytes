@@ -1,0 +1,1587 @@
+>>>	cdate_liam_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			The Redemption Arc Program
+>layout	duo	liam,player
+	liam	default	Well, the thing is... I did terrible things back when I was a dark lord, you know?	
+	liam	cleaning	I... I've made lots of effort to make sure I've changed since then.	Lex_thinking
+	liam	sideface	But regret alone doesn't make up for the atrocities I inflicted, %CURRENTPLAYERNAME%.
+	player	sorry	Oh, Liam... you're being too hard on yourself.
+	liam	sad	I foisted death and destruction upon thousands of people...	
+	player	animesweat	Ah... okay, maybe you're being the right amount of hard.	Player_bench_yikes
+	player	default
+	liam	explaining	Ha... yes. So, I spent countless nights devising a plan to enact change. Meaningful change.	
+	liam	default	Then it hit me: I joined the Coven, which was one of the biggest changes in my life.	
+	liam	cleaning	In a way, Joy and the others rescued me from the dark place I was in.	
+	player	thinking	That does sound like meaningful change.
+	liam	nostalgic	It truly was.
+	liam	default	And it made me realize that there was something I could contribute.	Lex_excited
+	liam	sideface	I have a unique perspective on what it's like to be in such a dark place, and what it's like to come back from it.
+	liam	smirk	So, what if I could build a program to do the same for other villains?	Lex_smile
+	liam	thinking	And, look... I won't pretend that it's that simple. There's nuance to it, and it's surely quite a complicated topic...
+	liam	sideface	I don't mean to pretend that the program brushes off the damage we've done.	
+	liam	default	It's not enough -- it'll never be enough -- but still, doing something is better than doing nothing at all.	Lex_default
+	player	lookingdown	Yeah, I get that.	Player_bench_makessense
+	player	thinking	Still... if these powerful beings are helping to save the world instead of trying to destroy it...
+	player	affirming	...that surely is meaningful change, no?
+	liam	sideface	I hope so...
+	narrator		You both remain quiet for some time. Liam seems like he's looking inwards, navigating all his thoughts and regrets.	
+	narrator		And maybe the best you can do right now is just hold his hand through this silence.	
+
+>>>	cdate_liam_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			Being a TTRPG game master	
+>layout	duo	liam,player
+	liam	smirk	Ah, yes... my latest journey into a new art form!	L_ahyes
+	liam	explaining	It's like writing an adventure, and like directing a play too...
+	liam	explaining	...and yet, it's also conducting an orchestra of characters you have to make play in symphony.
+	player	teasing	So you're saying that Game Master Liam de Lioncourt is what you get when you fuse Tolkien, Shakespeare, and Mozart?	Player_bench_hehe
+	liam	smirk	I know you're being sarcastic... but yes, pretty much.
+	liam	prideful	You're weaving an ever-evolving narrative that must adapt by the minute to the choices of everyone involved.
+	liam	smirk	You invest countless hours to ensure the maximum thrill and enjoyment of your players.
+	player	surprised	That sounds... dedicated.	Player_bench_questionreally
+	liam	cleaning	%CURRENTPLAYERNAME%, when I get passionate about something, I surrender my mind and body with no concessions.
+	liam	glasses	In more mundane words: life is not there to be half-assed.	Lex_glasses
+	player	blush	Anyone would be lucky to get... involved in your passions.
+	liam	smirk	Your words, not mine.
+	liam	explaining	But yes, to sum it up: I try to create narratives that immerse my players in unique situations that they wouldn't experience otherwise.
+	liam	prideful	For instance, I recently ran a campaign in which my players were the head priests of a deity that ruled over one of the cardinal sins.	Lex_talking
+	liam	explaining	They had to travel the lands, growing their cult and sowing chaos, as they lured mortals into a sinful existence.
+	liam	smirk	We played three sets of campaigns, with them changing into priests of a different cardinal sin.
+	player	surprised	I gotta admit, it makes me wanna try it at least.	Player_bench_oooh
+	liam	nostalgic	Yes, it's a shame you weren't there. It was a thing of wonder, %CURRENTPLAYERNAME%.
+	liam	glasses	Ah, I once again rejoice at finding a new art form for me to master!
+	player	teasing	I'm sure it's also a plus that it's one that forces a group of people to listen to you for hours.	Player_bench_hehe
+	liam	facepalm	Oh, shut up!
+	liam	smirk	(But yes, that is indeed a plus.)
+	narrator		You ask Liam to describe to you some of the campaigns he's designed so far.	
+	narrator		He glows when he talks of something he's passionate about. It's... quite nice.	
+
+>>>	cdate_liam_3
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			Being the inspiration for "Liam Prom"
+>layout	duo	liam,player
+	liam	smirk	What a thing, eh?	
+	liam	glasses	The artist becomes the muse!	Lex_glasses
+	liam	explaining	I guess if you live long enough, it's no surprise someone ends up telling the story of you.	
+	player	thinking	And the story of Liam is one of dozens of Liams going through life while attending Liam Academy?	
+	liam	thinking	It is... a choice, certainly.	Lex_thinking
+	liam	eyeroll	It's clear that Zoe and I have quite different understandings on what constitutes art.
+	liam	cleaning	But I've chosen not to bother her too much with my opinions of her work.
+	player	lookingdown	That's nice of you.
+	liam	sideface	I would never want to be the one to cut the wings of an artist.
+	player	asking	Are your visions that different, really?
+	player	thinking	Sure, "Liam Prom" falls in a very different category than your conceptual poetry...
+	player	teasing	...but is it that different from... let's say, "2 Guys 1 Salad"?	Player_bench_hehe
+	player	default
+	liam	surprised	...
+	liam	smirk	...Well, you got me there.
+	liam	default	In any case, I really appreciated that this time, Zoe consulted me first to see if I was okay with her project idea.	Lex_default
+	player	asking	What's your favorite part of it?
+	liam	nostalgic	You'll laugh at how Liam this will sound... but I think it's her just asking about me and... like... really listening.	
+	liam	cleaning	She has to milk dozens of Liams out of me, right?	
+	player	teasing	Hehe... "she has to milk dozens of Liams."	Player_bench_hehe
+	liam	default	%CURRENTPLAYERNAME%! Anyway... to do so, she'll sit and interview me for hours.
+	liam	explaining	Of course, we've known each other for a couple years now; but I think, silly as it is, "Liam Prom" has brought us closer.
+	player	smilinginlove	I'm glad to hear that, Liam. I guess we all like to feel seen, don't we?
+	liam	nostalgic	...It is a nice, warm feeling, yes.	Lex_blushside
+	narrator		You two then share some quiet. Maybe you're causing a bit of that nice, warm feeling in him, too.	
+
+>>>	cdate_liam_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			Sharing an apartment
+>layout	duo	liam,player
+	liam	thinking	...What?	L_questionwhat
+	liam	thinking	You want to... live with me?
+	player	animesweat	No, you dumb-dumb!
+	player	default	I meant how's the experience of sharing an apartment going.
+	player	thinking	I heard you're living with Omen these days, right?
+	liam	smirk	Ah! Yes, I am.
+	liam	cleaning	I'm her sponsor in the Redemption Arc Program.	Lex_talking
+	liam	sideface	And since she was imprisoned for more than a century, Omen... well... she had nowhere to go.
+	liam	default	The plan is she'll eventually find a place of her own, but until then, she can crash with me.
+	player	asking	Not gonna lie: that's super thoughtful of you. But knowing Omen, I can't help but wonder: how is it going so far?	Player_bench_nice
+	liam	eyeroll	Well... it's not that different from giving a stray cat a home...
+	liam	facepalm	...if the stray cat somehow knew how to operate a chainsaw.	Lex_eyeroll
+	player	yikes	Yeah, that does sound like Omen.
+	player	default
+	liam	sideface	Still, like with a stray cat, it doesn't matter that the cat has trust issues and is prone to wreak havoc: you still try to make them feel at home.
+	liam	eyeroll	I've tried to curry Omen's favor by astounding her with my superior cuisine, but she seems to have... a less refined palate.
+	liam	cleaning	After some trial and error, I've learned she has a soft spot for hot dogs. So, hot dogs it is.
+	player	affirming	Liam! I always thought having a pet could help soften up that obnoxious, stuck-up exterior of yours...
+	player	teasing	...I just never imagined that your ideal pet would be an evil overlord.	Player_bench_hehe
+	liam	surprised	%CURRENTPLAYERNAME%!
+	player	thinking	I mean, I'm not implying Omen is a pet to you... maybe more of an annoying little sibling?	
+	player	affirming	In any case, I'm sure you get my point.
+	liam	smirk	Hehe... I do.	Lex_smile
+	liam	sideface	I just hope Omen can learn that there's a better way to do things, other than murder and evil...
+	narrator		It's heartwarming to see Liam take his sponsor role so seriously and care this much for another person.	
+	narrator		He seems to really understand the importance of redemption.
+
+>>>	cdate_liam_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			How's the con so far?
+>layout	duo	liam,player
+	liam	cleaning	It's been quite good so far.	
+	liam	default	I spend a good portion of the day in my yaoi booth, in the artists' alley. That can get a bit exhausting.
+	player	teasing	The masses crave their drawings of men kissing.
+	liam	smirk	They surely do.	Lex_smile
+	liam	explaining	Luckily, some of our friends sometimes come by, either to give me some company or help me man the booth.
+	player	asking	Ah, yeah. I think I saw April there yesterday, right?
+	liam	default	Yes, she stayed for a couple hours.	Lex_default
+	liam	smirk	She really knows how to keep the crowd entertained.
+	liam	prideful	I offered to help her in exchange. I'm sure she could benefit from my expertise in songwriting and general knowledge of the arts.
+	liam	surprised	Surprisingly, she said it wasn't necessary!
+	player	default	Yeah... surprisingly.	Player_bench_yeah
+	liam	eyeroll	Instead, she asked me to draw her squashed between a couple muscular men. To each their own taste, I suppose.	
+	liam	explaining	In any case, I don't spend the whole day at the booth, either.
+	liam	glasses	I've been hunting for rare gachapon with Doug. We're like avid explorers, trying to capture elusive specimens.	Lex_glasses
+	player	affirming	I'd watch a reality show of you two going on your little explorer adventure!	
+	liam	smirk	Why not watch it live? Come with us next time.
+	player	blush	Oh, I'd love to!	Player_bench_sure
+	liam	nostalgic	But yeah... it's been a good time.
+	liam	prideful	Sometimes even Liam de Lioncourt must indulge in his lowest-brow passions.
+	narrator		And you wanna join him in such low-brow passions! You both check the con's schedule to see what you can do together the next day.	
+
+>>>	cdate_liam_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	liam
+>action			The Spooky Con friend group
+>layout	duo	liam,player
+	liam	default	You mean, how was the group formed?	
+	liam	cleaning	Well, Zoe and I know each other from Spooky Academy, of course.	
+	liam	thinking	Doug, I met through Zoe... and then April through Doug...	Lex_thinking
+	liam	explaining	I was the one who brought Omen into the mix, as I'm their sponsor for the Redemption Arc Program.	
+	liam	default	I try to keep her close while she goes through her first steps of the program, so I convinced her to join us for the con.
+	player	default	That was nice of you.
+	liam	sideface	Maybe. I just think that building good relationships can help her realize there's a better way of doing things. It was key for me, at least.	Lex_blushside
+	player	blush	Good relationships... like me?
+	liam	smirk	Hehe... sure, like you.
+	player	thinking	Okay, so there's only Nico left.
+	liam	eyeroll	You could say I brought Nico along, although it'd be more accurate to say Nico inserted themself into the group.	Lex_eyeroll
+	player	surprised	Wait... what?
+	liam	prideful	Not so long ago, I started attending some improv classes, in order to perfect my thespian skills.
+	liam	cleaning	Nico attended that class too, and... well, they're quite the extrovert, you know?
+	liam	sideface	They sort of befriended everyone in the class except me.
+	liam	eyeroll	They tried, but I politely rejected their friendly advances. I've made more than enough friends over four centuries.	Lex_bored
+	player	teasing	Ah! The unstoppable friendly force versus the immovable unfriendly object.
+	liam	default	And I would've won... but alas, one day I was with Zoe and Doug at a café when Nico spotted me from across the street.
+	liam	eyeroll	Someone wiser would have understood I wanted to mind my own business... but Nico is surely more charming than they are wise.
+	liam	cleaning	They came over to say hi, and before I knew it, they were making plans to meet up with both Zoe and Doug later.
+	player	animesweat	You know what? That totally sounds like Nico.	Player_bench_makessense
+	liam	nostalgic	It does. And I was irritated at first; but it taught me something:
+	liam	nostalgic	It taught me that sometimes, if you're patient, someone you find annoying can become someone you truly appreciate.
+	player	teasing	...Like me?
+	liam	smirk	Pffft... don't push your luck, you little jester.	Lex_smile
+	narrator		Look at you, tearing down Liam's grumpy walls. You keep chatting, and your silly japes steal a few more smiles from him. It's a good sight.	
+
+>>>	cdate_zoe_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			Finding success as a creator
+>layout	duo	zoe,player
+	zoe	happy	It's been a ride!	Zex_happy
+	zoe	default	Of course, there's a lot of upsides, which are all the ones you can imagine.
+	zoe	veryhappy	It's affirming to see so many people connect with what you create, that's for sure.	
+	zoe	happy	Writing fanfics for a small, dedicated audience was super fun too, but I can't complain about having a much more sizeable fanbase.
+	player	default	Yeah... I imagine "Liam Prom" has opened you to new experiences as a creator.	Player_bench_yeah
+	zoe	default	It has. Now I see lots of fans craving a new chapter; writing pages on pages of theories; shipping their favorite Liams...
+	player	blush	I personally ship Catboy Maid Liam with Buff Liam.
+	zoe	pumped	Ooh, a bit of a crackship! I like that.	Zex_hyped
+	zoe	default	But yeah, now I receive much more input, much more praise, much more opportunities...
+	player	affirming	That makes me so happy for you!	Player_bench_nice
+	zoe	happy	Thanks!
+	zoe	thinking	There's still some downsides, though.
+	zoe	default	So many people feel connected to "Liam Prom" now. It gives me a sort of responsibility.
+	zoe	suspicious	For instance, how could I work on new weird, silly ideas, when the logical thing is to keep expanding this beloved and profitable thing I created?
+	player	surprised	You... would prefer NOT to work on "Liam Prom"?
+	zoe	suggestive	Nah, I love spending time with my academy of dumb, adorable Liams.
+	zoe	thinking	It's just that it gets a bit more complicated.
+	zoe	thinking	You start at, "What is the thing I really want to do?"; but the bigger you grow, the more variables chain you.
+	zoe	angry	"What's smartest? What's most responsible? What's most profitable?"	Zex_grumpy
+	zoe	sad	Bleh, look at me, complaining about... lemme check my notes... "finding success with a project I'm actually quite passionate about."
+	player	sorry	Nah, Zoe, it's hella valid to feel stressed.
+	zoe	happy	...Thanks.	Zex_blush
+	narrator		Zoe and you spend the next few hours decompressing by watching a chill "Cute Girls Doing Cute Things" kind of anime. It proves to be a balm for the soul.	
+
+>>>	cdate_zoe_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			All about Liam Prom
+>layout	duo	zoe,player
+	zoe	pumped	My magnum opus!	Zex_hyped
+	player	affirming	The Liamest of your works!
+	zoe	eyebrows	Pfffft, no doubt.
+	player	animesweat	But... and I don't mean this as an offense to Liam... why?	Player_bench_why
+	zoe	happy	No, I totally get it. Liam is quite the subject.
+	zoe	nostalgic	You know? At Spooky Academy, I observed he wasn't the most popular... and I got the feeling that he's quite the misunderstood character.
+	player	teasing	Yeah, I think he has mentioned being misunderstood one or two thousand times.	Player_bench_hehe
+	zoe	eyebrows	Yes, he'd say that.
+	zoe	thinking	The thing is... I've existed for eons.
+	zoe	nostalgic	This change in me wasn't a thing that happened as part of one silly twist when I was asked to prom.
+	zoe	nostalgic	I've been observing mortal life for so long... I became enamored with the life I was designed to destroy.
+	zoe	default	This fascination grew to the point in which I decided to forfeit most of my power to become part of mortalkind myself.
+	player	surprised	That's quite the commitment.
+	zoe	default	It is, yes.
+	zoe	eyebrows	Every mortal life has incredible stories to tell... even Liam's.
+	zoe	suspicious	Sure, Liam is the things he's usually reduced to, like "insufferable" or "a pain in the ass".
+	zoe	happy	But he, like any mortal, is so much more.
+	zoe	veryhappy	"Liam Prom" is a bit about that: exploring the endless possibilities and the wonderful complexity of every mortal life.	Z_liampromslogan
+	player	surprised	Whoa, Zoe... it sounds beautiful when you put it like that.
+	player	blush	And here I was, thinking it was mostly about hot Liams kissing and looking hot.
+	zoe	suggestive	Well, it can be both, can't it?
+	narrator		You spend most of the night discussing what the most beautiful things in life are, and which two Liams would look the hottest kissing.	
+
+>>>	cdate_zoe_3
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			The Redemption Arc Program
+>layout	duo	zoe,player
+	zoe	thinking	Well, it's a bit boring... but, you know? I get it.	
+	zoe	blush	We're no saints, so it makes sense to try and make up for all our evil deeds.
+	zoe	default	A bunch of us meet up, discuss stuff, and do exercises and all sorts of things Liam has prepared.
+	player	default	I'm glad you all are working on exerting meaningful change on yourselves.
+	zoe	thinking	Totally! But sometimes it can be a bit of a chore...
+	player	thinking	I can imagine. Change takes effort, but I think it's worth it.
+	zoe	eyebrows	You betcha, because when we're redeemed enough, we can pass onto the second phase of the program, which is much more epic.	Z_cool
+	zoe	happy	The idea is to become a sort of mercenary squad with the goal of helping the Coven!
+	zoe	pumped	We'd be redirecting all that power that we harnessed for evil... now repurposed to save the world!
+	player	surprised	Okay, that does sound epic.	Player_bench_oooh
+	zoe	veryhappy	Right?!
+	zoe	default	For now, it's just Liam and I that will soon move into this second phase. The rest have to go to the meetings to prove they're reliable.
+	player	affirming	You're an advanced student!
+	zoe	veryhappy	Of course! I'm aceing the Redemption Arc Program!
+	zoe	veryhappy	I was the most villainous of them all, and now I'm the most redeemed. Top of the class!	Z_fyeah
+	zoe	default	They look as grumpy as usual, but I think the Coven is excited to have one of the Old Ones on their side, even if my powers are severely thwarted.
+	player	default	Maybe that's what finally tips the balance in favor of mortalkind.
+	zoe	happy	Gosh, I hope so!
+	zoe	pumped	I also hope we get cool Coven-like uniforms. Imagine that!
+	zoe	epiphany	Ah, %CURRENTPLAYERNAME%! I just thought: if I become Coven-adjacent... would that count as being a magical girl!?!?	Zex_surprised
+	player	teasing	Heh... maybe.
+	player	smilinginlove	For what it's worth, you're already a magical girl to me.
+	narrator		You spend the following hours brainstorming magical girl catchphrases for Zoe. You feel safe, knowing she will soon be protecting the world.	
+
+>>>	cdate_zoe_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			What's next for Zoe?
+>layout	duo	zoe,player
+	zoe	thinking	What a question!	
+	player	thinking	I just thought, with "Liam Prom" and all, I can only imagine your future must be looking bright!
+	zoe	happy	Yeah, it's wild.	Zex_happy
+	zoe	thinking	It was this little silly idea I had, right? Almost like a creative exercise: can I turn the not-so-popular Liam into the center of a compelling story?
+	zoe	epiphany	And then... ka-boom!
+	player	affirming	Liams... Liams everywhere!	Player_bench_hehe
+	zoe	happy	Haha, totally! The initial scope of this idea was so small... and now, the sky's the limit.
+	zoe	default	It started as a fanfic with some art to depict the Liams, but lately my inbox has been brimming with opportunities of all sorts:
+	zoe	thinking	Plushies, a tabletop roleplaying game set in Liam Academy, multiple offers to turn "Liam Prom" into a video game...
+	player	surprised	Whoa! Say yes to everything! Sign all the deals! Next stop: "Liam Prom" pizza restaurants and Liam-themed lingerie!
+	zoe	veryhappy	That'd be hilarious, wouldn't it?	Zex_laugh
+	zoe	suspicious	But I'm always a bit wary. The bigger you become and the more stuff you sign... the more you gotta abide by what others expect from you.
+	zoe	sad	It makes me think of April.
+	zoe	thinking	I sometimes worry about her... with the whole contract thing, always having to be camera-ready...
+	zoe	sad	I wonder if fame is that important in the end...
+	zoe	sad	It took me eons to find my truth, so it's a shame to see someone who's contractually obliged not to show theirs.
+	player	sorry	Yeah... when you put it like that...	Player_bench_yeah
+	zoe	thinking	Of course it's not the same. It's gotta be ten times harder when you are your own brand, like how it is for April.
+	player	asking	Have you talked to her? It feels like you could help each other out, since you're going through stuff that's similar in some ways.
+	zoe	thinking	You're right, maybe I can do that later...
+	zoe	happy	...it's just that I wanted to talk to you too. I really value your perspective.
+	player	smilinginlove	That means a lot, really.
+	narrator		And so, you spend some hours on this, helping Zoe surmise what she really wants, and the best parts of all these opportunities she's been given.	
+
+>>>	cdate_zoe_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			How's Spooky Con so far?
+>layout	duo	zoe,player
+	zoe	happy	It's my second year here, and I can confirm: it's a dream come true.	Z_breathtaking
+	zoe	pumped	It's not just that there's a whole lot of panels and activities I LOOOOVE.
+	zoe	suggestive	There's something else...
+	player	teasing	The total disintegration of any semblance of a personal space?
+	zoe	happy	Haha, no, you silly!	Zex_laugh
+	zoe	thinking	I couldn't put my finger on it until the other day, talking to Doug.
+	zoe	default	He explained that he and April used to be the "nerdy ones" at their school.
+	zoe	epiphany	Then it hit me: it was like that!
+	zoe	nostalgic	I love everyone at Spooky Academy, but there, I was the nerdy one.
+	zoe	thinking	Sure, some of our friends like anime or video games, but not to my degree of obsession.
+	player	animesweat	Hehe, it can be hard to match your level of passion!	Player_bench_hehe
+	zoe	pumped	Totally... and yet, there's places like this where... EVERYONE DOES?!
+	player	default
+	zoe	default	Take the other day: I spent most of the day roaming the con with Nico.
+	zoe	thinking	We went to an anime premiere, to the artist alley, to some panels about our favorite video games...
+	zoe	veryhappy	...and we were LOSING IT the whole time.	Z_squee
+	zoe	happy	There was something magical in being with someone who could 100% match my energy.
+	zoe	default	That doesn't mean I love my other friends any less. I love how different we can get to be and still connect.
+	zoe	blush	But here, I feel like I've found something... something special.
+	zoe	thinking	Does that make any sense?
+	player	smilinginlove	Aw, Zoe, of course it does. That "something special" is a sense of belonging. And yes, it can feel like a magical thing.
+	zoe	pumped	YES! It's exactly that, %CURRENTPLAYERNAME%. Here, I feel like I'm among my people.
+	zoe	default	It makes me so happy...
+	player	affirming	And it makes me happy that it makes you happy!	Player_bench_metoo
+	narrator		Zoe proceeds to explain the next twenty things she loves about the con. Her passion is legit electrifying.	
+
+>>>	cdate_zoe_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	zoe
+>action			The Spooky Con friend group
+>layout	duo	zoe,player
+	zoe	eyebrows	Ah, you want our friend-group's origin story, huh?	Zex_eyebrows
+	player	affirming	You betcha!
+	zoe	suggestive	Well, I won't be the one to deny backstory bits to the ones thirsting for lore.
+	zoe	thinking	Omen is part of the Redemption Arc Program. They're dripping with lore, but I think it's better for them to share it, if they want.
+	zoe	happy	Nico, I met through Liam.
+	zoe	default	Then... there's Liam.
+	zoe	pumped	We met as rivals on the annual Deadly Race of Death, where one hundred people race... but only one comes out alive!
+	player	surprised	Wait... what? I thought...	Player_bench_questionwhat
+	zoe	eyebrows	I'm kidding. We met at Spooky Academy, but that's kinda boring, so I have my own headcanon.	
+	player	animesweat	Okay, fair.
+	zoe	happy	Doug and I met through AO4. He was one of my first-ever readers. He left reassuring comments on everything I wrote.
+	zoe	nostalgic	It really fueled me back then, you know? Even when you're writing for an audience of three or four, having constant support means the world.	Zex_dreamy
+	zoe	default	We quickly built a great online friendship, as he loved many of the fandoms I wrote fanfics for.
+	zoe	happy	Since "Liam Prom" became somewhat popular, he's offered to help me in any way he can, like keeping track of the lore or moderating my channels.
+	zoe	blush	He's the kind of person you dream of having in your corner, really.
+	player	lookingdown	Awww, that's sweet to hear.
+	zoe	happy	It's just the truth.
+	zoe	default	And finally, April... I met her through Doug.
+	zoe	nostalgic	You know, it's great to meet another woman who's just now dealing with newfound fame, even if both our fames are... of moderate size.
+	player	default	Yeah, I can imagine... you can be there for each other, truly understanding how it is.	Player_bench_makessense
+	zoe	veryhappy	Gosh, so many amazing people, %CURRENTPLAYERNAME%... becoming part of mortalkind was the right call.
+	player	smilinginlove	I couldn't agree more, Zoe.
+	narrator		You spend the rest of the night asking Zoe questions about the Deadly Race of Death and how both Liam and her survived it if only one racer can come alive.
+	narrator		Who cares if it isn't canon? Her explanation is riveting!	
+
+>>>	cdate_omen_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			The Redemption Arc Program
+>layout	duo	omen,player
+	omen	frustrated	Ugh, the Redemption Arc Program... Liam's well-crafted plan to torture me to no end.	O_fuckredemption
+	player	thinking	I am, like, 85% sure Liam's intention with the Redemption Arc Program isn't torturing you.
+	omen	grumpy	Maybe, but still: to gather powerful villains and imprison them in menial meetings for us to discuss "ethics" and why murdering people is "not good".	
+	omen	disgust	You know what astonishes me even more than that, though?
+	player	teasing	Revolving doors?
+	omen	rage	Other than that Hell-made contraption!	Oex_angry
+	omen	surprised	It's the fact that, according to my intel, Liam used to be a powerful evil lord that spread terror everywhere, back when I was imprisoned.
+	omen	disgust	And now he... what? Draws men kissing and yaps constantly about poetry and redemption?
+	omen	frustrated	Is that what "redemption" does to someone?	O_pathetic
+	omen	default	No way. I suspect the truth is that he got some severe food poisoning that must have caused brain damage.	
+	omen	talking	I am currently investigating that possibility.
+	player	teasing	Tell me your findings.	Player_bench_hehe
+	omen	surprised	Sure. And listen to this: even after my continued attempts to murder him, he hasn't tried to imprison me; instead, he has been taking care of me.
+	omen	surprised	He even has me, the one plotting his demise, living with him!
+	omen	angry	All because he insists he wants to "be with me as I go through the first steps of my redemption".	O_stupidredemption
+	omen	grumpy	Something must be very wrong with him.
+	player	lookingdown	Well, Omen... hearing all that, I'd say something must be very right with him.
+	omen	disgust	Hmph... nonsense.	Oex_disgust
+	player	teasing	I'd even say that you, with your unrivaled wits and unparalleled perceptiveness, have been capable of seeing how much he cares for you.
+	omen	default	...
+	omen	blush	...Well, I guess he's not THAT terrible.
+	omen	rage	BUT IF YOU EVER TELL HIM I SAID THAT I WILL CLAW YOUR ORGANS OUT OF YOUR BODY.	Oex_rage
+	player	animesweat	Hehe... duly noted.
+	narrator		You two keep talking about the "torment" that is living with Liam.	
+	narrator		Apparently Omen loves his cooking, although she phrases that sentiment quite differently, of course.
+
+>>>	cdate_omen_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			Being a volunteer at Spooky Con
+>layout	duo	omen,player
+	omen	rage	Another one of Liam's genius ideas!	Oex_rage
+	omen	confident	(Due to your lower intellect, I feel obliged to point out this was sarcasm.)
+	player	yikes	Eh... thanks.
+	omen	confident	No problem, %CURRENTPLAYERNAME%. I have your (less intelligent) back.
+	player	embarrassed	...again, thanks.
+	player	asking	Okay, so tell me about volunteering. I hear you're not a fan of it, huh?
+	omen	grumpy	Ah, I see you got the sarcasm. Perfect. Yes, I hate it.	Oex_grumpy
+	omen	angry	We're constantly asked to execute menial tasks that are far beneath me. It's almost insulting.
+	omen	frustrated	Liam insists it might help me understand the beauty of helping those in need.
+	omen	disgust	I highly suspect it's just another form of torture he has devised for me. I'm still unsure if he's an idiot or a mastermind.
+	player	thinking	At least you're not alone at it!
+	omen	default	Ah, yes, surely you are referring to Doug. He is precious and must be protected at all costs.
+	player	surprised	Huh, I didn't expect that.	Player_bench_questionreally
+	omen	grumpy	Why? Don't be mean to Doug or I will stab you in the eyes.
+	player	yikes	No, no, I love Doug. I guess I was just scared you two wouldn't get along.
+	omen	confident	How could we not? I am the commander of our army of friends, while he is the second-most essential piece: an incredible morale booster.	Oex_confident
+	omen	surprised	Still, it is honestly baffling how someone who wears the skull of a dead warrior as his face could be that soft!
+	omen	confident	An enigma of a person, if you ask me. But nonetheless, he is priceless in his ability to encourage and inspire everyone who surrounds him.
+	player	smilinginlove	Awww, Omen! I bet Doug would love to hear that.
+	omen	default	No shit. He would probably cry, that wonderful weakling.
+	player	blush	Omen...
+	player	lookingdown	...the way you talk about protecting Doug... it makes me think this DID help you understand the beauty of being there for other people.
+	omen	surprised	...
+	omen	grumpy	Ugh, stupid smart Liam.	O_fuckinliam
+	narrator		You spend the rest of the night plotting Omen's revenge on Liam for making them care about other people.	
+	narrator		Still, you know that, deep down, they appreciate what Liam did.
+
+>>>	cdate_omen_3
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			Hobbies
+>layout	duo	omen,player
+	omen	default	Eating hot dogs.	Oex_default
+	player	embarrassed	That isn't a hobby.	Player_bench_questionwhat
+	omen	confident	A pastime, then? It surely is a way in which I adore passing my time.
+	player	surprised	You REALLY like hot dogs.
+	omen	grumpy	I do. And one thing I do NOT like? Doctors. They keep telling me I should not eat so many hot dogs. Complete morons.	Oex_grumpy
+	omen	laugh	Ah, hot dogs... hands-down, the best thing to happen to me after imprisonment.
+	player	thinking	But, wait... aren't hot dogs a thing that has existed for more than a hundred years?
+	player	asking	I'm pretty sure they were invented in Frankfurt in the late XVth century.
+	player	yikes	(Dang... why does my brain retain these things but not my old passwords?)	Player_bench_yikes
+	omen	talking	Do not beat yourself up, %CURRENTPLAYERNAME%.
+	omen	talking	Your brain isn't your greatest asset; but this is something we all have accepted by now. You should accept it too.
+	player	thinking	Hmph... okay, but then how do you explain not knowing about hot dogs? They existed back then!
+	omen	frustrated	Excuse me for not knowing about this one food during the 25 years I had before getting imprisoned.	O_shutup
+	omen	default	This is the thing: the one thing we did NOT have back then was this internal net thing.
+	omen	grumpy	So it was pretty plausible for people not to know about a certain thing if it didn't happen in your vicinity.
+	omen	disgust	For example, I did not know about the existence of karate either.
+	player	thinking	Huh, that makes sense.	Player_bench_makessense
+	player	default
+	omen	confident	It does; but then again, your brain isn't your best asset, as previously stated. It follows that it doesn't process common sense very well.
+	omen	confident	It's a bit of a tragedy.
+	omen	angry	And you want to know another tragedy? That I've come to know about hot dogs when I have half the hands I used to have.
+	player	blush	...I could use one of mine to help you stuff hot dogs into your mouth.
+	omen	surprised	Would you do that? Really? I would owe you a big one.	Oex_surprised
+	player	animesweat	Don't mention it.
+	omen	blush	Sorry for being mean to you, %CURRENTPLAYERNAME%. You might have a weak brain, but you make up for it with a strong heart.
+	player	blush	Eh... thanks.
+	narrator		You run to the hot dog food truck, where you proceed to feed hot dogs to Omen. It's nice to spend time with your friends, trying out their hobbies.	
+
+>>>	cdate_omen_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			Getting used to the modern world
+>layout	duo	omen,player
+	omen	frustrated	Hmph... don't get me started on that!	Oex_frustrated
+	omen	disgust	Monsterkind should re-assess whether or not the world needs this many inventions.
+	omen	angry	Vacuum-powered cleaners, machines that condition the air, mops... I can't keep up with all that.
+	omen	default	It would feel less impossible if I could get some sort of weekly newsletter in my email explaining a bunch of inventions each time.
+	player	surprised	Wait... how the heck do you know about email and newsletters but not A/C and mops?
+	omen	talking	What's so hard to comprehend, %CURRENTPLAYERNAME%?
+	omen	talking	If you have more than a century's worth of progress to learn about, you might end up learning it out of order.
+	player	thinking	Fair point.	Player_bench_makessense
+	omen	default	Also, Liam got me this phone the other day. It's supposed to help me, since I can "look up" stuff on the internal net.
+	omen	talking	Still, it's taking me weeks to understand how it works. Liam explained it, but I tend to block out his "Liam noises".
+	omen	blush	I don't want to admit this defeat to him, so I've been doing research at the library.
+	omen	grumpy	It is the worst punishment ever to be inflicted upon me.	Oex_grumpy
+	player	yikes	...Is it?
+	player	animesweat	Anyway, I'm sure you'll eventually realize all this learning is worth your time.
+	player	affirming	Cause in the end, these inventions you have to learn about are useful and makes our lives easier!
+	omen	angry	Well, not mine!
+	omen	disgust	Take that grotesque nightmare that are revolving doors...
+	omen	rage	What do they help? What was not working with regular doors to start with?!	Oex_rage
+	player	embarrassed	Okay, MOST of these inventions are useful and make our lives easier.
+	omen	frustrated	Stupid present times...
+	omen	surprised	...
+	omen	blush	%CURRENTPLAYERNAME%...
+	omen	mischievous	Would you be down to strategize a plan for wiping out... let's say, 30% of the last century's progress with me?	O_mwahaha
+	player	yikes	Eh... I'd rather not.
+	player	affirming	What if, instead, I help you learn all about these "modern inventions"? We could start with your phone!
+	narrator		Omen likes the idea. You spend the next few hours helping them set up an email so they can receive newsletters.	
+	narrator		Teaching Omen is exhausting, but it's definitely worth your time.
+
+>>>	cdate_omen_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			What does she miss from her previous life
+>layout	duo	omen,player
+	omen	grumpy	Easy question: my magic.	
+	omen	angry	They took my power; my might.	Oex_angry
+	player	thinking	Your arm too.
+	omen	default	Ah, yes, true.
+	omen	frustrated	But losing a hand is losing a hand, while losing all your magic power? That's like losing a hundred different hands.
+	omen	grumpy	Still, not cool they took my good hand.
+	omen	mischievous	Note to myself: next time, harness my magic power in my bad hand.
+	player	embarrassed	...What next time would that be?	Player_bench_questionwhat
+	omen	talking	I don't know... next time.
+	omen	laugh	The important thing here is that I can still beat someone to a pulp with one fist.
+	omen	grumpy	I don't have such alternatives for my magical energy.
+	omen	frustrated	It confuses me to see someone as mighty as Zoe forfeiting most of her power willingly.
+	player	lookingdown	Yeah, she did that, didn't she?	Player_bench_yeah
+	omen	angry	Zoe, who used to be one of the most powerful entities reality has ever seen; a deity of destruction and despair!
+	omen	laugh	I used to dream of attaining the might of an Old One, or perhaps to murder one with my bare hands.
+	omen	disgust	And what does she do with that? She writes tales of an academy infested with Liams who spend their time kissing each other.	O_justwhy
+	omen	default	Huh... note to myself: investigate if this is a veiled stratagem by Zoe to bring despair to reality without people noticing.
+	player	affirming	Give it a chance! It really hooks you once you get to chapter 5.	Player_bench_nice
+	omen	frustrated	(Add to note: research if %CURRENTPLAYERNAME% is too far gone, brainwashed by Zoe's plan for mass despair.)
+	player	thinking	Nah, but I think there's something to learn from Zoe here.
+	player	affirming	Life has many things to offer beyond raw power. Maybe this is a blessing in disguise; maybe now you get to explore those things.
+	omen	surprised	Uhm... could it be that these "things" are actually... worthwhile? If Zoe forfeited god-like powers in exchange for them, they must be of great value.	O_fascinating
+	player	smilinginlove	I'd say they're priceless, Omen.
+	narrator		Omen asks you to produce a list of at least ten of these "things" they can explore. You comply and offer to help them with it.	
+
+>>>	cdate_omen_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	omen
+>action			The Spooky Con friend group
+>layout	duo	omen,player
+	omen	mischievous	You mean the paltry army Liam has gathered to conquer this Spooky Con place?	O_hahayes
+	player	embarrassed	I... I don't think it's supposed to be an army; nor that Liam's goal is to conquer Spooky Con.
+	omen	grumpy	Obviously, even with my military prowess, it'd be almost impossible to accomplish such an objective.
+	omen	frustrated	Once again, a war lost in its inception due to Liam's legendary ineptitude.	O_fuckinliam
+	omen	angry	What am I supposed to do with the four jesters he has introduced me to?
+	player	yikes	...Have fun?
+	omen	talking	Surely an activity much more suited for them, rather than waging war.
+	omen	grumpy	Look at Doug, for instance: he might be excellent at giving hugs, but he has zero combat skills!
+	omen	surprised	Or Zoe: an admirable woman of incredible might that has rejected destruction to embrace... what? Happiness?	O_justwhy
+	player	lookingdown	You make them sound really swell, actually.
+	omen	disgust	Hmph... then, there's Nico: a mimic who won't shapeshift.
+	player	thinking	Well, yes, they rarely do it.	Player_bench_yeah
+	omen	surprised	They usually have genius ideas, but I still can't understand why they avoid utilizing their most useful skill.
+	omen	angry	We sometimes come up with the most ingenious plans, but they almost never include any kind of murder!	Oex_angry
+	player	teasing	Uhm, it's almost as if being with them has helped you stay far from trouble.
+	omen	rage	Precisely!
+	omen	mischievous	April, on the other hand... that woman knows trouble.	Oex_laugh
+	omen	confident	You can see that she has a thirst for blood and a penchant for violence. It's commendable.
+	omen	grumpy	And yet, she chooses to mask such admirable traits behind a shiny and obnoxious persona...
+	omen	mischievous	...probably all a plan to win over the masses with her cloying songs.
+	player	smilinginlove	That's one clever clown for you, amirite?
+	omen	blush	Indeed. She has everyone fooled, especially as she has some other considerable, alluring... traits. You know... traits worth admiring.	Oex_shy
+	player	teasing	...Ah, yes. I think I've admired her traits. They are considerable, indeed.	Player_bench_oooh
+	omen	default	Ugh, what a sad excuse for an army... but I guess they are MY army, and so it is my duty to command them.
+	omen	mischievous	I will bring them countless victories, even if it costs me my other arm.
+	narrator		Omen sure has a thorny way of talking about their friends; but you can tell they deeply care.
+	narrator		You spend the next hours talking about various things, but you can't help but wonder if they have thorny, beautiful things to say about you.	
+
+>>>	cdate_doug_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	doug
+>action			Family
+>layout	duo	doug,player
+	doug	happy	I love my family.	DOU_awwwhappy
+	doug	distracted	Dad is a bit harsh, and I sometimes get nervous that he might not understand my life choices...
+	doug	bliss	...but Mom is my forever champion. She always supports me no matter what.
+	player	default	Aw, that sounds super sweet.	Player_bench_nice
+	doug	bashful	Yeah!
+	doug	blush	Like, for instance, Dad wasn't super on board when I adopted this look.
+	doug	sad	He's a bit old school, so he didn't get why I didn't want to be a cube.
+	player	surprised	Oh, you used to be a cube?	
+	doug	distracted	I was. It wasn't so long ago that slimes started exploring shapes other than blob or cube.
+	doug	explaining2	It takes some practice and preparation, but eventually you can adopt a different form.	DOUex_default
+	doug	sad	Dad was perplexed. He said slimes oughta be cubes because it's an excellent shape to adapt to the halls of dungeons.
+	doug	shocked	Which led to a 2-in-1 upset of me telling him I don't intend to work as an enemy to beat in a dungeon.
+	player	teasing	Daaaaang, Doug the rebel! I didn't have you pinned for a bad boy.
+	doug	bashful	Hehe, Doug the bad boy, that's me!
+	doug	surprised	But nah, I was shaking like a jelly on a plate. It's not that Dad was mad or anything, but he was sort of befuddled!
+	doug	explaining1	And that's when Mom came to the rescue. She's a sort of expert translator: she understood me instantly, and then put it in words Dad could understand too.
+	player	lookingdown	She sounds like a wonderful woman.
+	doug	happy	She totally is, %CURRENTPLAYERNAME%.	DOUex_happy
+	player	blush	And hey, Doug... of course I'd love you in any shape you had...
+	player	affirming	...but I gotta say this one shape is a good one.	Player_bench_nice
+	doug	hyped	Right? I love it! It's great for hugs!
+	narrator		You ask Doug to give you a test hug to confirm it. He's not wrong!	
+
+>>>	cdate_doug_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	doug
+>action			Work
+>layout	duo	doug,player
+	doug	thinking	Ah, work! The one ordeal I gotta go through if I want to keep those figurines coming!	DOU_notthatbad
+	doug	proud	I usually juggle a couple part-time jobs... nothing fancy!
+	player	asking	Such as...?
+	doug	explaining2	Well, for one, I'm a pizza delivery boy!
+	doug	happy	It's not the coolest job ever, but it's nice to feel the breeze in my face while surfing the streets on my moped.	DOU_vroom
+	doug	hyped	And sometimes I get free pizza!
+	player	affirming	Wow, the perks are no joke!	Player_bench_nice
+	doug	happy	They aren't, no.
+	doug	explaining2	It also feels a bit like playing a video game, you know?
+	doug	explaining1	I gotta check the map and then do my best speedrun.
+	player	thinking	So, are you winning at pizza delivery? Is there a promotion in your future, or...?
+	doug	shocked	Gosh, I hope not!	DOU_ohjeez
+	player	surprised	Huh... didn't see that one coming. Why?
+	doug	sad	I don't want more responsibilities. I don't react well to added pressure.
+	doug	thinking	This one day, my manager had an emergency and asked me to cover for her.
+	doug	shocked	It was HORRIBLE.
+	player	sorry	Oh, no! Poor Doug.	Player_bench_sorry
+	doug	distracted	I literally live in fear that one day the company will decide to promote me.
+	doug	default	No, no... I like these small jobs.
+	doug	bashful	I have no interest in high positions or big careers, %CURRENTPLAYERNAME%.
+	doug	happy	I just want a job that pays well enough that I can indulge in my hobbies, and hopefully one that gives me enough free time to enjoy them.	DOUex_happy
+	player	default	Huh... you know what, Doug? That's super valid.	Player_bench_goodidea
+	narrator		You talk for a long time, and feel that you get each other on a much deeper level.	
+
+>>>	cdate_doug_3
+>event_type	conversational
+>topic_tags	convofunkybunch
+>conversational_type	stage1
+>conversational_npc	doug
+>action			How does he spend most of his time?
+>layout	duo	doug,player
+	doug	hyped	I've sunk hundreds of hours into this MMORPG I'm OBSESSED with. I've been playing for the last several years.	DOUex_firedup
+	player	asking	What's the best thing about it?
+	doug	explaining1	The progression system is actually quite fair; they keep pumping out all sorts of thematic updates, and the cosmetics are worth burning my whole salary...
+	doug	explaining2	...but the best part's gotta be the people. I've made some fantastic friends there. We have this guild, "The Funky Bunch".
+	player	surprised	"The Funky Bunch"?
+	player	affirming	I dig the name.	Player_bench_nice
+	doug	proud	Thanks! It was a team effort.
+	doug	thinking	Some runner-up names were "Fabled Friends", "The Cool Dudes", "The Waffle Squad"...
+	player	thinking	Huh... "The Waffle Squad"?
+	doug	explaining2	Yeah! Oh, man... it's actually hilarious, but you would've had to be there!	DOUex_happy
+	doug	explaining1	It was this one time, during a raid, when StringPuller420 suggested trying a Bear-in-the-Bucket, which is a classic StringPuller420 move...
+	doug	thinking	...and oh, yeah... a Bear-in-the-Bucket is this play that... ehm... how much do you know about MMORPGs...?
+	doug	surprised	Dang, I'm messing up the story. Lemme start again from the beginning...
+	player	animesweat	Doug, Doug... I'm sure it's a hilarious story!
+	doug	blush	Gosh, I am bad at anecdotes.	DOU_ohjeez
+	player	affirming	But good at guild naming. I like "The Funky Bunch".
+	player	teasing	More than "The Waffle Squad", even if that one comes with a super fun story.
+	doug	happy	Hahaha, yeah! It's a good name, right? A good name for a good guild!	DOU_heckyeah
+	player	blush	If you're part of it, it's probably a guild I would love to be a part of.
+	narrator		This makes Doug so excited that he proceeds to tell you all about the members of "The Funky Bunch". They all sound delightful.
+	narrator		Doug really seems hyped about introducing you to other sides of his life, and you're hyped about that too.	
+
+>>>	cdate_doug_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	doug
+>action			Supporting creators
+>layout	duo	doug,player
+	doug	happy	Oh, gosh, I love supporting the creators I admire in any way possible.	DOUex_happy
+	player	thinking	That's sweet and all, but... I don't know, Doug...
+	player	embarrassed	...knowing the amount of creators you admire and your overall financial situation...	Player_bench_yikes
+	doug	explaining1	%CURRENTPLAYERNAME%! I have it all under control. The trick is just to trim down the expenses that aren't that essential!
+	doug	proud	Like, do I REALLY need an umbrella without holes? Mine is perfectly fine if I position it at just at the right angle.
+	doug	explaining2	Also, rain is like a free shower! So I'm already saving on water. So am I financially responsible... or financially ingenious?
+	player	yikes	Eh...	Player_bench_jeez
+	player	asking	So, I gotta understand you haven't replaced your old umbrella, nor have you paid your water bill, right?
+	doug	shocked	April was running a charity stream! What was I supposed to do?
+	player	yikes	Keep that money that you so clearly need?
+	doug	hyped	No way! I was supporting charity AND my friend! It was a no-brainer.	DOU_goodthinking
+	player	thinking	Dang... well, at least the way you support Zoe doesn't entail you going broke.
+	player	asking	Which makes me think... how long have you been supporting her work for?
+	doug	happy	Since the moment she started posting on AO4! I've admired every page she's written.
+	doug	bliss	She's like this infinite well of amazing ideas.
+	doug	bliss	Like, she can just get three characters from different fictions you love and throw them into the steamiest love triangle...
+	doug	hyped	...and before you know, she's got you all like "how come I never saw it, these three were always meant to be!"
+	doug	bliss	It's simply mindblowing.	DOU_woahsocool
+	doug	explaining1	Zoe becoming an internet sensation was never a matter of "if", but "when".
+	player	smilinginlove	Doug, you say the most beautiful things about your friends.
+	doug	bashful	Awww, it's just true!	DOU_awwwhappy
+	narrator		Well, Doug being the sweetest person alive is just true, too.	
+	narrator		You ask him to show you other creators he supports. You, in exchange, show him some budgeting tips.
+
+>>>	cdate_doug_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	doug
+>action			His past
+>layout	duo	doug,player
+	doug	suspicious	Like, school days and all that? Not the best years of my life, for sure!	DOUex_skeptical
+	player	sorry	Oh, we can talk about something else if you'd prefer.	Player_bench_sorry
+	doug	explaining2	Nah, school wasn't thaaaat bad. And it had good things, like April!
+	player	asking	Oh, really?	Player_bench_questionreally
+	doug	happy	Yeah! April and I go way back. We went to the same high school.
+	doug	thinking	I think we probably met when we're around thirteen or fourteen. She was a bit shy back then, with the braces and all.	
+	doug	explaining2	We were two socially awkward teenagers, but one day we discovered we liked the same nerdy things!
+	doug	happy	Man, those years can be so friggin' hard! It's life-saving to find someone who shares the same hobbies and passions as you, you know?
+	player	smilinginlove	Ha! I 100% know, Doug.	Player_bench_hehe
+	doug	explaining1	Yup! So April and I started hanging out, talking about anime and playing lots of video games.
+	doug	surprised	She'd always wipe the floor with me. She's way more competitive than you'd think!	DOU_whoa
+	doug	happy	Always losing would've been a bit of a bummer if it wasn't for her coming up with the funniest bits and jokes while playing.	
+	doug	bliss	It's like the best gaming commentary ever. It always cracked me up.	
+	doug	hyped	I'd be all like "April, the world needs to hear your jokes!"	DOUex_happy
+	player	affirming	Good thing she heard you, right? With her streaming channel and all.
+	doug	happy	Exactly! She followed my advice! And I was her first-ever viewer!
+	doug	bliss	Ahh, she'll always have me by her side.
+	doug	distracted	Did you know, back then, she would always defend me when some meanie picked on me?	
+	player	embarrassed	Ugh, I would totally punch anyone who ever talked to you badly.
+	doug	thinking	Don't worry, %CURRENTPLAYERNAME%, it almost never happens nowadays. I guess it's just that teenagers can be mean sometimes.
+	doug	blush	But still, hearing you say that warms my heart. Thanks, truly.	DOU_thanksfam
+	narrator		You hold Doug's hand and look him in the eye with support and reassurance. This beautiful man must be protected at all costs; he is just too pure for this world.	
+
+>>>	cdate_doug_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	doug
+>action			The Spooky Con friend group
+>layout	duo	doug,player
+	doug	hyped	It's the best group ever, isn't it?	DOUex_happy
+	doug	bashful	It feels like I'm in one of those fanfics where the average-Joe main character is hired by a super famous boy band.	
+	player	teasing	Do you mean to imply our friends should... start a boy band?	Player_bench_hehe
+	doug	happy	Haha! No, no; but they're all ridiculously talented, and some of them even famous! Can you believe that?
+	doug	bliss	How do you even process that I'm buying blind boxes with Liam, who's, like, the best yaoi mangaka and probably the smartest person ever?
+	doug	happy	Or hanging out with Nico, who aces ANY cosplay they try?
+	doug	explaining2	Sometimes it feels like I'm hanging out with characters from some of my favorite movies, animes, and video games!
+	doug	hyped	AND THAT'S EVEN WITHOUT SHAPESHIFTING!	DOU_whoa
+	player	affirming	When you put it like that, it does sound as if Nico's all like "this is not even my final form".
+	doug	hyped	Right?!
+	doug	happy	Then, my friend since forever has become an idol AND an influencer? Dang... April just excels at EVERYTHING she does.	
+	doug	hyped	I've always known this, but I will still keep getting mindblown every time she succeeds... which might eventually reduce my mind to smithereens!
+	doug	proud	And Zoe? I couldn't be prouder of her, %CURRENTPLAYERNAME%!
+	doug	bliss	I always knew her fanfics were simply the best, but it was about time the rest of the world knew.
+	player	smilinginlove	Doug, you say the most beautiful things about your friends.
+	doug	bashful	Awww, it's just true!	DOU_awwwhappy
+	doug	happy	And finally, there's Omen, who's trying so hard to change their ways. It's truly admirable.
+	player	thinking	It is commendable; but I gotta say, I think I saw them stabbing someone the other day.
+	doug	shocked	%CURRENTPLAYERNAME%, c'mon! Imagine if you were imprisoned for more than a hundred years and then thrown into a new world you barely understand!
+	doug	explaining1	I'd say "stabbing someone the other day" is still a solid A-, given the circumstances.	DOU_heardworse
+	player	thinking	And getting an A- at your first try is essentially an A+ at first tries, right?
+	doug	proud	Exactly!
+	doug	blush	I... I just feel so lucky to call all of them my friends...
+	player	blush	Aw, Doug... you know what? I feel extremely lucky to call YOU my friend.	Player_bench_metoo
+	narrator		Doug blushes a bit, then he proceeds to explain everything he admires about you. It warms your heart with the power of a hundred hugs.	
+
+>>>	cdate_april_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			Her streaming channel
+>layout	duo	april,player
+	april	happy	Oh, I love having the channel!	APR_hehe
+	april	suspicious	I mean, what's not to love about broadcasting a sizeable chunk of your life for everyone to see?
+	player	teasing	Is that a bit of sarcasm that I hear?	Player_bench_hehe
+	april	wink	No, it's actually irony. Different stuff.
+	april	sing	Fun fact: did you know "sarcasm" comes from the idea of "tearing flesh like a dog"?	
+	april	sad	But I was just kidding: personal and public spheres colliding violently is a professional hazard for influencers...
+	april	thinking	...so it's common practice to create a bit of a persona, so you feel you're not giving that much of yourself up.
+	player	thinking	Makes sense.	Player_bench_makessense
+	player	teasing	What's something you can tell me in confidence that is not out there for the audience?
+	april	thinking	Hmmmm...	APRex_thinking
+	april	shy	Well, for starters my name, right? Some fans actually believe "First" is my last name.
+	player	surprised	Wait... it isn't?
+	april	happy	Of course it isn't, you silly goose! It's just a funny pun to make my brand easier to remember.	APR_sillygoose
+	player	asking	Then... what about "April"?
+	april	nervous	Whaaaaat? Nah, April is for real! Why would I change my full name? To evade the authorities?
+	april	laugh	HAHAHAHA! YOU'RE HILARIOUS %CURRENTPLAYERNAMECAPS%!
+	april	sing	WELL, ANYHOW, another thing that's not so well-known is that besides rhythm games, I love competitive stuff, from shooters to fighting games.	APR_hahaanyway
+	april	happy	Anything that allows me to kick your ass, essentially.
+	player	surprised	Huh... really? But you tend to play cozy games in your streams!	Player_bench_questionreally
+	april	shy	Well, yeah... it's just that I get REALLY competitive, and my company says it's not on brand.
+	april	thinking	It can get very nasty very fast, as I'm bad at controlling myself once I'm out for blood.
+	april	wink	And Mama don't want her account to get suspended, honk!
+	april	default	I still play that stuff... just on my secondary account, and never on my channel.
+	player	blush	Oh... would you play with me sometime?
+	april	sing	Sure. I just hope you have a high resistance to humiliation, honey.
+	narrator		And so you spend the rest of the night playing some competitive games. April does, in fact, sweep the floor with you. It's kind of sexy.	
+
+>>>	cdate_april_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			Her career
+>layout	duo	april,player
+	april	sing	It's actually two careers: singing and streaming.	APRex_sing
+	april	default	Both still boil down to entertaining; to eliciting emotion from an audience!
+	player	thinking	When you put it like that, it makes total sense: you're like a modern update on classic clowns.
+	april	despair	Can you please tell that to my parents?	APRex_yikes
+	player	surprised	Oh, they don't see it that way?
+	april	nervous	Not entirely, no.
+	april	sad	They're strict on the traditional clown career, and they don't fully approve my career choices.
+	player	sorry	That's sad.	Player_bench_sorry
+	april	thinking	I get where they're coming from, though.
+	april	shy	We clowns have to be relatively zany and silly.
+	april	thinking	It's hard to explain, but basically, we're under the influence of an entity of chaos, and we're always fighting not to surrender to it.
+	player	embarrassed	Wow, that took a turn.	Player_bench_jeez
+	april	happy	Haha... it did, didn't it?
+	april	thinking	The thing is, we have tools and practices to fight back.
+	april	sing	One of them is being a bit wacky and whatnot, to let some chaos out and avoid letting it get pent up.
+	player	teasing	So basically, clowns gotta be clowning?	Player_bench_hehe
+	april	suspicious	Right. And some clowns get a bit inflexible about it.
+	april	wistful	My parents still come from a good place; they're just concerned and want to make sure I don't surrender to chaos.
+	player	affirming	But still, they could learn that there are... other ways of clowning around. Like your silly streams!
+	april	sad	Totally.
+	player	blush	...Well, April, no matter what, you have my support. I know that it doesn't matter what your career is; you'll always be a world-class clown.	
+	april	happy	Pffft... shut up, you little smart-aleck!	APR_hehe
+	narrator		You go back to talking about more lighthearted topics. But it's nice to see April feels comfortable enough to open up about these things with you.	
+
+>>>	cdate_april_3
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			Hobbies
+>layout	duo	april,player
+	april	default	Well, you know I love clowning around.	APR_honkhonk
+	april	sing	I like J-pop, idols, video games, singing, dancing...
+	player	surprised	But anyone who follows your streams knows that much!
+	player	teasing	Gimme the VIP stuff. I wanna know more about you.	Player_bench_hehe
+	april	wink	There's not much more to it, %CURRENTPLAYERNAME%!
+	april	shy	What are you expecting to hear? That I have secret hobbies, such as committing crimes?
+	april	nervoussmile	HAHAHAHA YOU SILLY GOOSE!	APR_yousillygoose
+	player	thinking	Uh...
+	april	nervous	...
+	april	nervous	WELL, LET'S BREAK THIS PREGNANT PAUSE.	APR_hahaanyway
+	april	sing	Little-known fact: I've been getting into golf recently.
+	player	surprised	Okay, I didn't see that one coming.
+	player	asking	Why golf?	Player_bench_why
+	april	wistful	Hmmm... with the channel and all, it's like I'm supposed to do fun stuff all the time... to be entertaining 24/7.
+	april	thinking	I think I just wanted to get into something rather boring.
+	april	suspicious	People will tell you golf is actually riveting, and... nah, they're full of shit.
+	april	default	It's a snooze, and I love it for that!	APR_hehe
+	player	default	I see!
+	april	shy	It's not my biggest passion ever, but it's surely one that isn't known by the public.
+	april	sad	The company would never approve of a hobby that far from my brand.
+	player	affirming	Well, I do approve.	Player_bench_likeit
+	player	blush	We could even play golf together one day...
+	player	thinking	...or maybe minigolf. I feel like I'd enjoy that one more.
+	april	suspicious	NO! DO NOT TRY TO MAKE GOLF SILLIER.	APR_noexc
+	april	wink	I mean... honk!
+	player	animesweat	Okay, okay! Golf it is.
+	narrator		You spend the rest of the night looking at golf equipment. You are now intrigued by how April would look in golfing attire.	
+
+>>>	cdate_april_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			The contract	
+>layout	duo	april,player
+	april	surprised	Oof, the contract...	APR_talkaboutl
+	april	thinking	It's a blessing and a curse.
+	april	sing	The company is truly allowing me to reach new heights as both an idol and an influencer.
+	player	asking	Which is... a good thing, right?
+	april	laugh	It's a great thing!	APR_great
+	april	nervoussmile	But oh man... the fine print is not that fine...
+	april	shy	Sometimes I feel like I've signed away my ability to be just myself. Now I gotta be the character, the persona, the brand...
+	april	sad	I gotta mind what topics and vibes and whatnot might not align with what April First should be.
+	april	thinking	Which reminds me... did you know I was a bit jelly of Zoe when I first met her?
+	player	surprised	No, I had no idea. Why's that?	Player_bench_why
+	april	wistful	Here's a girl that, like me, was starting to have a decent fanbase, you know?
+	april	wistful	It was refreshing to meet someone in a similar position to mine... and yet it was different.
+	april	sad	I need to be camera-ready 24/7, you know? It can be really exhausting.
+	april	surprised	But Zoe? She's, like... the opposite of camera-ready!
+	april	laugh	She says whatever crosses her mind. What a queen!	APRex_happy
+	player	teasing	She truly has no filter.
+	april	despair	Whereas I have to put on so many filters that no one ever gets to see my true face.	APRex_yikes
+	player	blush	I get that. If it helps, I'd say your other side does sometimes show a bit, through all the branding.
+	april	wink	Hehe... let's hope the company doesn't notice!	APR_hehe
+	narrator		You can't help but realize April is navigating a complicated situation. How much of herself is she willing to give up in exchange for fulfilling her dreams?
+	narrator		She must be under some stress... which is why you switch to watching silly Momentgram reels, so you can make your time together more peaceful and lighthearted.	
+
+>>>	cdate_april_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			Her past
+>layout	duo	april,player
+	april	thinking	My past... uhm...	APRex_thinking
+	april	default	Wanna know how I met Doug? That's surely a story of the past!
+	player	default	I'd love to hear that.	Player_bench_sure
+	april	sing	Great. So, Doug and I go way back. We used to go to the same high school.
+	april	nervous	Back then, when I was thirteen or fourteen, I would have the worst nervous breakdowns ever.
+	player	embarrassed	I can imagine. Being fourteen is NOT easy.	Player_bench_yikes
+	april	sad	Nah, you can't. They were NASTY. Nowadays I ONLY have one or two every now and then. But back then? Big yikes. It was super embarrassing.
+	april	shy	So, there was this one day that I accidentally unplugged my earplugs during class, right?
+	player	yikes	Oof, not good.
+	april	frustrated	That's an understatement, %CURRENTPLAYERNAME%. All of a sudden, my phone started banging music out loud for the whole class to hear.
+	april	facepalm	Worst of all: it was some J-rock song, so I was basically outing myself as a weeb. You could see the judgment in everyone's eyes...	APRex_yikes
+	april	surprised	I was losing it. I wanted to die so bad... but then Doug, the big nerd he is, got excited when he realized it was the opening to an anime he loved.
+	april	shy	He said it out loud, all hyped, so the class started laughing at both of us.
+	april	wistful	We still were the butt of the joke that day, but we were the butt of the joke together. And that makes anything more bearable.
+	player	lookingdown	Yeah, it does.	Player_bench_yeah
+	april	wistful	From that day on, I felt a bit less like a weirdo, and a bit less alone.
+	april	happy	We've stuck together since.
+	player	affirming	That's so friggin' nice. I hope I can make you feel like that one day!
+	april	laugh	You? But you're one big weirdo!	APR_dontthinkso
+	april	wink	If anything, you sometimes make me think that being a weirdo can be a good thing, you silly goose.
+	april	happy	Like... I'd totally be the butt of the joke with you any day!
+	april	sing	(I could learn a thing or two from the master of being the butt of the joke.)
+	player	yikes	April!
+	april	happy	Hehe, just kidding.	APR_justkidding
+	april	wink	Honk!
+	narrator		Encouraged by her words, you share with April some of the most legendary times you were the butt of the joke. She almost chokes from laughter, which makes you fuzzy inside.	
+
+>>>	cdate_april_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			The Spooky Con friend group
+>layout	duo	april,player
+	april	default	We're a merry band, it's true.	APRex_default
+	player	asking	How did you all meet?
+	april	sing	Well, I know Doug from way back in the day.
+	april	thinking	Then I think he became friends with Zoe... then Zoe introduced him to Liam... and then I met both of them through Doug!
+	april	happy	I appreciated meeting another woman who's in a position similar to mine, just starting to grow a fanbase.
+	april	thinking	Then, Liam... he's sort of the acquired taste. And yet, I can't help but relate to him.
+	player	default	Wait... how so?	Player_bench_questionreally
+	april	sing	That dork is always trying so hard to put up this persona he crafts so carefully.
+	april	wistful	This persona of his is... well, it's a choice; but I know how that feels.	APR_thatisachoice
+	april	shy	Also, he sometimes draws attractive, buff men for me, so there's that.
+	player	teasing	You horny clown!
+	april	nervous	Shhhhh!	APR_shhh
+	player	asking	Then you met Omen and Nico through Liam, right?
+	april	happy	Yes, we all met them through Liam.
+	april	laugh	Omen is such a no-filter queen, just like Zoe.	APRex_happy
+	april	wistful	All that murder, all that violence... I'd say she lacks a bit of elegance and technique, but her passion is quite infectious.
+	april	sing	And you gotta respect a woman that turns a torture device into a fashion statement.
+	player	affirming	She sure has pulled off the iron maiden aesthetic!
+	april	laugh	Absolutely.
+	april	suspicious	And then there's Nico... they're sweet, always trying to help me... even if it's in terribly ineffective ways.
+	april	facepalm	It's proven impossible to make them understand I have NOT had dinner with the President.	APRex_yikes
+	april	despair	Like, I'm... what? A C-tier idol at best? A moderately-sized influencer?	
+	april	wistful	But oh well, it's nice to have someone who believes so delusionally in me.
+	player	blush	Ah, April! This made me realize, it's a bit late... so, do you want to have dinner with me?  I know I'm not the President, but...
+	april	laugh	Pffff, shut up, you silly goose.	APR_yousillygoose
+	april	happy	But yeah, let's grab something to eat.
+	narrator		You grab some burritos and proceed to have a lovely time together.
+	narrator		You can't help it but wonder how this will compare to having dinner with the president... you hope you make for better company!
+
+>>>	cdate_april_7
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	april
+>action			Clowns
+>layout	duo	april,player
+	april	thinking	What about clowns?	APRex_thinking
+	player	embarrassed	I... I know very little... (and I hope this is not offensive)... about clowns. As a monster species, I mean.
+	april	laugh	Ahhhh, gotcha!
+	april	happy	Yeah, don't sweat it. We clowns are rather rare, huh? So I guess a bit of mystery surrounds us.
+	april	default	But we're just silly-looking people with a passion for bringing a smile to people's faces.
+	player	thinking	Oh, really? I thought...
+	april	wink	Just kiddin'! Honk!	APR_honk
+	april	sing	We're Nothingness dwellers who are forever scarred by the influence of an old deity.
+	player	yikes	...What now?	Player_bench_questionwhat
+	april	thinking	Hmmm... you know about realms, right? How mortalkind used magic to build realms as a means to escape the Old Ones?
+	player	thinking	Yes. First there was Hell, then the Monster Realm, then...
+	april	sing	Yeah, yeah, exactly that.
+	april	thinking	Before that, mortalkind did their best to survive in the Nothingness, hunted down by the Old Ones.
+	april	sad	It was dire, but some mortals managed to survive until the realms came to be.
+	april	default	In the same way, mortalkind has managed to persist in the Nothingness, even after the realms.
+	april	happy	You know how magic and the Old Ones tie together, right?
+	player	thinking	I think so. Magic sort of comes from the Old Ones, no?	Player_bench_yeah
+	april	laugh	You got it right!
+	april	thinking	The thing is... some of the Old Ones got creative. Instead of killing mortals, they overwhelmed them with their signature magic, corrupting them.
+	april	suspicious	One of those Old Ones was the deity of chaos: a scheming entity that weaves puzzling plans behind apparent hullabaloo.
+	april	surprised	Then the deity facilitated for these dwellers to escape into the realms; but the mortals, overwhelmed with its energy, became harbingers of its signature pandemonium.
+	april	default	A way for the entity to operate within the realms, where it stayed relatively safe.	
+	player	yikes	Yikes.	Player_bench_yikes
+	april	suspicious	Big yikes.
+	april	wink	But us mortals are driven by hope and resilience, aren't we?
+	april	default	Some of these dwellers have managed to control the influence of the Old One through various spells and artifacts.
+	april	sing	That's us: clowns. Our clown make up, for instance, is a sort of powerful sigil made of arcane powders and paint.	APR_honkhonk
+	player	embarrassed	Is this, like... an elaborate prank or...?
+	april	thinking	Oh, no, no: this much is true. I know... not super fun! But oh well...
+	player	thinking	Sorry, I wasn't sure.	Player_bench_sorry
+	april	default	Nah, I get it. It's a lot to take in.
+	player	blush	No, it was my bad. If you're okay with it, I'd love to hear more about it.
+	narrator		And so, you spend the rest of the night talking about this topic. You didn't know there was this much to clowns.
+	narrator		April's heritage runs deep, and you're glad she feels comfortable sharing it with you.	
+
+>>>	cdate_nico_1
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			Anime
+>layout	duo	nico,player
+	nico	hyped	I LOVE ANIME!	NC_nowtalking
+	player	affirming	I know, I know... but tell me what you like about it.
+	nico	eyesclosed	What's NOT to like about it?!
+	nico	explaining	The heights of epicness and emotion are unparalleled, %CURRENTPLAYERNAME%!
+	nico	surprised	Characters that are top kakoi; fight sequences brimming with sakuga; plot twists that make you go all "NANI?!"...
+	player	default	It's so good that it makes you go bilingual, huh?	Player_bench_hehe
+	nico	explaining	Basically!
+	nico	default	Anime has this ability to glue your eyes to the screen, you know?
+	nico	thinking	Sure, most of it isn't Shakespeare, full of complex nuance...	NCex_thinking
+	player	thinking	Well, wait. First of all: Shakespeare is a tad overhyped.
+	player	affirming	Second: there are lots of animes that are full of deep characters, nuanced dialogues, and complex plots!
+	nico	eyesclosed	True, true... but that's not the anime I LOVE.	NCex_default
+	nico	explaining	I like the ones with easy-to-get values and catchy catchphrases; the ones that keep it simple.
+	nico	suspicious	Liam had me watching one of the more nuanced ones... and it just didn't do it for me. It didn't have that kick I love so much.	NC_illpass
+	player	thinking	Hey, at least you opened yourself to try!
+	nico	eyesclosed	I did.
+	nico	pensive	I get that the message in the stuff I watch isn't thaaaaat deep; but that's what I like about it.	
+	nico	explaining	I like to watch stories from worlds where it all boils down to "good always triumphs!", or "nothing beats the power of friendship!"	NC_friendshipmagic
+	nico	eyesclosed	It lightens my heart in a way that feels just good.
+	player	default	Nah, I totally get it. Everyone looks for something different in the stuff they watch.
+	player	smilinginlove	And you know what? I'd love for you to show me the most epic anime you've watched lately.
+	nico	hyped	LET'S GOOOOOOO!	NC_woo
+	narrator		You two binge-watch ten episodes of a high-octane shonen. It's true it won't win an Academy Award for its script, but who cares? It has you both roaring at the screen!	
+
+>>>	cdate_nico_2
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			Shapeshifting
+>layout	duo	nico,player
+	nico	asking	Oh, what about it?	
+	player	thinking	Well, I dunno... how come you don't shapeshift?	Player_bench_why
+	player	asking	Isn't it like... a mimic's main thing?	
+	nico	thinking	Ah, right! Yes, yes, it totally is.
+	player	thinking	Then, is it that you [i]can't?[/i]
+	player	blush	It's okay if you'd rather not talk about this...	
+	nico	explaining	Haha, what? No, it's totally fine!
+	nico	proud	Of course I can shapeshift!	NCex_default
+	player	asking	Then why don't you? Wouldn't it be good for cosplay and all that?
+	nico	suspicious	I guess... but it would feel like cheating, y'know?	NCex_thinking
+	nico	smug	I could just do...
+	nico	nicoliam	...this!	NC_farewell6
+	player	surprised	Oh, wow.
+	nico	default	But that's no fun. I'd much prefer to transform with acting and convincing cosplay!	
+	player	default	I see.	Player_bench_sure
+	nico	nicodog	When I'm not cosplaying, I do shapeshift sometimes.	
+	nico	nicoblob	But, like, who I am... out of cosplay, I mean... feels like something that's in constant flux.	NC_presentation1
+	nico	nicozoe	There's no one thing that feels like it's 100% me 24/7.	
+	player	thinking	Yeah, I think I get it. Would you say shape and identity are... fluid things to you?
+	nico	explaining	Exactly!
+	nico	default	I don't shapeshift that often, because I just like this shape better than any others... at least for now!
+	player	blush	...I like this shape too.	Player_bench_likeit
+	nico	smug	It's a good one, isn't it?
+	narrator		Who would've thought there was this much to Nico's elusive shapeshifting? They talk about the topic a bit more. It's great to learn about this side of them.	
+
+>>>	cdate_nico_3
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			Hobbies
+>layout	duo	nico,player
+	nico	thinking	Where to begin? I have A LOT of hobbies.	NCex_thinking
+	player	thinking	Like cosplay, acting, anime... right?
+	nico	default	Yeah, all that of course; but like a hundred other things too!
+	player	surprised	Wait, really?	Player_bench_questionreally
+	nico	explaining	Yes!
+	nico	hyped	Every time I watch an anime, I get sooooo hyped that I get hooked on a new hobby.
+	nico	proud	Like, you binge four seasons of a sports anime, and then next thing you know, you're part of a volleyball team!	NCex_confident
+	player	teasing	Anime can do that, huh?
+	nico	explaining	100%! That's what I love about anime: it can get you excited about anything.
+	nico	hyped	You could be watching someone grabbing a chip from a potato chip bag and it'd be the MOST THRILLING THING EVER!
+	player	affirming	Ah, yes, the potato chip scene...	Player_bench_nice
+	nico	smug	Now, every time I grab a potato chip I feel like I'm in the middle of a clever master plan.
+	nico	eyesclosed	So... yeah. I've joined a volleyball team; I've been in a rock band; I play Mahjong every Thursday at the local retirement home...
+	nico	default	The list goes on!
+	player	asking	Dang... and you're good at all of that?	Player_bench_goodidea
+	nico	scared	Uhm... I'm not sure. It's true that I tend to lose at all of the hobbies in which you can win...
+	nico	default	But one thing is for sure about each one of these hobbies:
+	nico	proud	I GIVE MY VERY BEST!	NC_victoryexc
+	player	affirming	That's the important thing. And I'm sure you're just in the middle of your underdog arc.
+	nico	hyped	Of course, it must be that! %CURRENTPLAYERNAME%, you're a genius!	NC_genius
+	narrator		For the next hours, Nico tells you all about these hobbies. The list is long; but you enjoy every second of it. Dang, Nico's passion is infectious.	
+
+>>>	cdate_nico_4
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			Improv
+>layout	duo	nico,player
+	nico	hyped	I love improv!	
+	nico	proud	As a cosplayer, regular acting isn't enough. You gotta be fast on your feet to adapt to any situation.	NC_presentation2
+	nico	scared	Maybe you prepared your cowboy character when suddenly you're approached by three space marines during the con!
+	player	thinking	Not your regular cowboy encounter, certainly.	Player_bench_yeah
+	nico	smug	Exactly, %CURRENTPLAYERNAME%: no rehearsing prepares you to a situation like that!
+	nico	explaining	But thanks to improv, I can avoid getting nervous and quickly come up with a suitable line, such as...
+	nico	suspicious	"Howdy, pardners! Tell me... eh... do you have cows in space?"	NC_howdy
+	player	teasing	Impressive.
+	nico	eyesclosed	Yeah, improv has given me so much... and it's also how I came to meet Liam and the whole group!
+	player	default	I'm sure there's a story there.
+	nico	default	Yeah. We attended improv classes together. We became fast friends!	NCex_happy
+	player	surprised	Liam? Friendly? Incredible.
+	nico	thinking	Well, he was his usual tsundere. I'd be all like, "Hey, so, if you were an ice cream, what flavor would you be?"
+	nico	shocked	And he would be all like, "Can you please stick to the improv? This is disrupting the class."	
+	nico	thinking	Which is of course his way of saying, "That's an ingenious question, but I can't be seen admitting this in public."
+	nico	pensive	Ah, we were thick as thieves...	NCex_default
+	nico	eyesclosed	One day, I was running some errands when I saw him at a café with some friends.
+	nico	hyped	We locked eyes, and his eyes were saying, "Nico? It's about time we met outside of class! Join us, I want to introduce you to my friends."	
+	player	thinking	You got all that from just looking at his eyes?	Player_bench_questionreally
+	nico	explaining	Haha yeah! You gotta achieve that sort of non-verbal communication with your improv partners, so you can properly "yes, and" each other!
+	player	affirming	Makes sense.	Player_bench_makessense
+	nico	eyesclosed	So the least I could do was accept Liam's offer and join them at the café. The rest, %CURRENTPLAYERNAME%? The rest is history...
+	narrator		Apparently, after that, Nico instantly won the hearts of the rest of the group.
+	narrator		This doesn't come as a surprise to you. They just do that, don't they? They've won you over the same way.
+
+>>>	cdate_nico_5
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			Their Dream Job
+>layout	duo	nico,player
+	nico	thinking	Dream job?	
+	nico	suspicious	Uhm... I do have these recurring dreams in which I'm a "Hotdog Pilot", but I still can't figure out what my exact responsibilities are.	NCex_thinking
+	player	embarrassed	No, silly. I mean like your career; the job you dream of having.
+	nico	explaining	Ah! I don't have one of those. I just want a job that can pay for my hobbies and passions!	NC_illpass
+	nico	eyesclosed	I've made money every now and then with an acting gig, or thanks to my cosplay page; but it isn't my main goal, really.
+	nico	default	Total respect to professional actors and cosplayers... but me personally? I prefer to keep those as hobbies, not jobs.
+	player	affirming	You know what? Valid.	Player_bench_smart
+	player	asking	Then... what's this job that pays for your hobbies?
+	nico	scared	Well, I've been a telemarketer for some months. But I think I'm on thin ice!	NCex_sad
+	player	sorry	Sad face!
+	nico	pensive	Yeah... I don't think they like that I come to work in cosplay and respond to the calls in-character.
+	nico	proud	Apparently going off-script is a bad thing. But my soul speaks in improv!	NC_presentation2
+	player	affirming	For what it's worth, I'd love it if I called customer service and I got attended by a jaded ronin or a foulmouthed cowboy.
+	nico	shocked	That's what I was saying!
+	nico	thinking	But yeah, now it's mostly odd jobs here and there.
+	nico	default	Sometimes I find ads for mimic and slime replacements to populate a dungeon.	
+	nico	hyped	The conditions aren't great, but you can keep some of the loot!	NC_soundslegit
+	player	thinking	Gig economy, amirite?
+	nico	explaining	Completely. But if I get to pay for my cosplay, my photo sessions, and all the rest, then I'm good!	NCex_default
+	player	blush	Just don't get slain, okay?
+	narrator		You ask Nico to share some stories from doing gigs at a dungeon. Man, that job is NOT safe. But you two get a good laugh, so that's good!	
+
+>>>	cdate_nico_6
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	nico
+>action			The Spooky Con friend group
+>layout	duo	nico,player
+	nico	smug	We're a ragtag team of charming underdogs! A full basket of all your all-time favorite tropes!	NC_nowtalking
+	player	animesweat	Okay, that's quite the statement!
+	nico	proud	It's true!
+	nico	explaining	Zoe is your girl-next-door, the genki girl, and also the abrasive-yet-lovable weirdo who has a hard time understanding common social norms.
+	nico	default	Liam is both the tsundere that goes "tch!" and the glasses guy who's always five moves ahead of you.
+	nico	eyesclosed	And Omen is the one from the enemy team who has changed sides. They're angry 24/7, but they will save us when the time comes.
+	player	thinking	Aren't Liam and Zoe also ex-enemy team members who changed sides, technically?	Player_bench_maybe
+	nico	suspicious	Huh, you're not wrong... the enemy team must have a pretty poor loyalty plan!
+	nico	shocked	Or wait... are we... the enemy team?!	NCex_shocked
+	player	surprised	PLOT TWIST!
+	nico	suspicious	Whoa, totally... should we go commit some crimes or...?
+	player	yikes	I'd rather avoid jail, so let's keep cataloguing our friends according to their tropes.	Player_bench_noway
+	nico	default	Okay!
+	nico	explaining	So, where was I...? Ah, yeah! Doug is the big guy with a heart of gold. Can't hurt a fly, but not even a fly would want to hurt him!
+	nico	smug	April is the happy-go-lucky yandere that will go from laughing to murdering you in a heartbeat.
+	nico	proud	And me? I'm the one with the thousand faces. I can adapt to fit any trope the script needs.	NC_presentation3
+	player	affirming	We're lucky to have you!
+	player	thinking	Nico, wait... what trope am I, then?
+	nico	thinking	You? You're always there when there's conflict, and you tend to be the one who solves said conflicts with the most unexpected plans...
+	nico	explaining	...you're the main character!	NCex_default
+	player	affirming	Really? Heck yeah!
+	narrator		You and Nico keep discussing what the title of your show should be; but deep down, you're wondering if Nico could adapt to be your deuteragonist... or even the romantic interest?!	
+
+>>>	cdate_blue
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	player	default	Oh, hey there, cute birb.	
+	bird	lookingleg	...
+	player	asking	What? You wanna know what I'm doing here?
+	player	teasing	Ah, corvids: always the curious minds, aren't you?
+	player	default	Hehe... well, for your information, I was enjoying some quality me-time.	VIC_datealone3
+	bird	lookingcawleg	Ca-caw!	BIRD_squawkb
+	bird	lookingleg
+	player	thinking	Yeah... I guess it's no longer "me-time", since you're here.
+	player	affirming	Welp, it can be some quality us-time!	Player_bench_nice
+	bird	defaultleg	...
+	player	thinking	Okay, if you're so eager to know, I was reflecting on this comic project we've been working on.
+	player	teasing	I've always been all about engineering and robotics; but maybe making comics is the safer career path?
+	bird	caw	Caw!	BIRD_angryb
+	bird	default
+	player	animesweat	I'm kiddin', I'm kiddin'...
+	player	animesweat	Still, it's a fun little thing. It's not like I'll become a comic sensation now!
+	player	thinking	But imagine that...
+	narrator	default	(Silence... maybe the birb is, in fact, imagining it?!)
+	player	lookingdown	I don't care much about it, but it'd be nice to make it big... if only to fund my dreams.
+	bird	looking	...
+	player	affirming	Well, for starters, I'd LOVE to take a sabbatical to do a big, cross-country birdwatching trip!
+	bird	lookingcaw	Ca-caw!	BIRD_squawka
+	bird	looking
+	player	default	You're not wrong! I could totally start by watching you intently.	Player_bench_smart
+	player	teasing	Ready to be watched? Here I go!	VIC_turn9
+	narrator		You spend the next hour watching this one bird. It's a cute little fella. But come to think... who's watching who?	
+
+>>>	cdate_green
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	caw	Ca-caw!	BIRD_squawkb
+	bird	default		
+	player	surprised	Huh... hey.
+	bird	looking	...
+	player	thinking	...Are we okay?
+	player	embarrassed	I... I don't have the best track record with birds.
+	bird	lookingcaw	...Caw.	BIRD_squawkshort
+	bird	looking
+	player	yikes	Oh, no... please tell me you aren't going to try to peck my eyes out.
+	narrator	looking	(The bird looks intently into your eyes... is it adorable or terrifying?)
+	player	embarrassed	Uhhh...
+	player	sorry	Man... between vultures eyeballing my flesh, and that one goose... it's like birds have this life-long vendetta against me.	
+	player	thinking	But I never did anything to birds...
+	bird	cawleg	Caw.	BIRD_squawkshort
+	bird	defaultleg
+	player	default	Yeah, gotta admit, you look chill.
+	player	thinking	Maybe I shouldn't assume all birds have something against me. Maybe it's just SOME birds.
+	bird	defaultleg	...
+	player	asking	What are you looking at now...?
+	player	teasing	Ah, you're eyeing those fries someone left on that table, huh?
+	player	lookingdown	I get you, bird. That's a much better thing to crave than my eyes.
+	player	affirming	Tell you what: what if you and me go feast on those cold, delicious leftover fries?
+	bird	lookingcawleg	Ca-caw!	BIRD_angryb
+	narrator		And so, the bird and you indulge yourselves on those leftover fries. It surely is some dinner. But hey, you'll toast to finding the one bird who doesn't seem set on murdering you!	
+
+>>>	cdate_red
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcawleg	Ca-caw!	BIRD_squawka
+	bird	lookingleg
+	player	default	Hey, you.
+	bird	lookingcaw	Caw.	BIRD_question
+	bird	looking
+	player	teasing	Haha, what's this? An interview?
+	player	thinking	Well, if you're so interested, I'm in the middle of making a comic.
+	player	blush	And I don't want to get ahead of myself, but it would be no surprise if it's such a big hit they end up making a movie about it.
+	bird	caw	...Caw.	BIRD_squawkshort
+	bird	default
+	player	affirming	No, no, you are 100% right: it ISN'T getting ahead of myself. It's being smart and planning ahead.
+	player	thinking	I mean, that movie is, like, 70% guaranteed to happen.
+	player	asking	Do you think it would be smart to start making a potential list of actors, just in case?
+	bird	cleaning	...
+	player	default	Come to think: I've been considering creating a character based on me.
+	player	thinking	I wasn't completely sure, since I dunno if I'd make a good comic character.
+	player	affirming	But I am hands-down sure I'd make a GREAT movie character.
+	player	thinking	So it's obvious that the most pressing matter now isn't finishing the comic, but deciding who should play me.
+	bird	lookingcawleg	Ca-caw!	BIRD_question
+	bird	defaultleg
+	player	animesweat	Nah, lil' fella. Don't get me wrong: you have a certain charm, but you couldn't match my charisma.	
+	player	asking	I had a list of badass action stars with an energy similar to mine. Do you think we can bring that list down to three main options?
+	bird	caw	Caw caw.	BIRD_squawkb
+	bird	default
+	player	teasing	You mad genius! Of course, I was once again being too humble. Who better to play me than myself?!
+	player	thinking	Sure, I have no interest in acting or any sort of acting experience, but I highly suspect I might be a natural.
+	player	affirming	There's no time to lose! I gotta record an audition tape to show the director I can capture the essence of me!
+	narrator		You go back to your hotel room to NOT work on the comic, but at least you'll be prepared if they happen to make a movie of it. Smart thinking!	
+
+>>>	cdate_yellow
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	player	default	Nice to meet you. You can call me Blake.	
+	bird	lookingcawleg	Ca-caw!	BIRD_angryb
+	bird	lookingleg
+	player	yikes	AAAAAAAAH!
+	player	animesweat	Ah... oh... hey there.
+	bird	looking	...
+	player	sorry	Yeah... I bet this must look really weird and dumb. Like, why would anyone be practicing how to introduce themselves?
+	player	blush	Well, thing is... my real name's not Blake. It's %CURRENTPLAYERNAME%.
+	bird	lookingcaw	Caw!	BIRD_squawkshort
+	bird	looking
+	player	lookingdown	Yes, there is a story behind all this.
+	player	thinking	It took me a bit too long to decide if I was coming to the con or not.
+	player	asking	I really wanted to, but I was unsure if I would be disrupting the group's whole dynamic, you know?
+	player	yikes	When I finally decided to attend, it just so happened that tickets were sold out.
+	player	sorry	Classic me; always the lucky one.
+	bird	cawleg	Caw. Caw.	BIRD_squawkshort
+	bird	defaultleg
+	player	asking	Oh, you wondering how I'm here, then?
+	player	default	I got a resale ticket.
+	player	surprised	But it was under "Blake Blanco".
+	player	embarrassed	This has made me super nervous. What if the security guards check me and realize I'm not really Blake Blanco?
+	bird	caw	...Caw.	BIRD_squawka
+	bird	default
+	player	asking	Exactly! So I've been rehearsing to become Blake.
+	player	asking	It's hard, since I have no idea what Blake's actually like... so I've been going off of my best assumptions.
+	player	thinking	But this had me thinking... is it really okay to assume Blake's whole personality without meeting them first?
+	player	yikes	Am I going to jail? Or to Hell, for judging people just by their name?!
+	player	thinking	Also, isn't "Blanco", like... Spanish? Should I learn Spanish, just in case?
+	player	teasing	[i]Hola, el mi nombre se llama Blake Blanco. Encantamiento de conocerlos.[/i]	
+	bird	cleaning	...
+	player	yikes	Ugh... I'm definitely going to jail.
+	narrator		Needless to say, you didn't end up in jail (not for this, that is). But that doesn't mean you didn't get a terrible stomachache from being nervous!
+
+>>>	cdate_damien
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcaw	Caw!	BIRD_angryb
+	bird	looking
+	player	asking	What the fuck are you looking at, you stupid bird?
+	bird	lookingcawleg	Ca-caw!	BIRD_angrya
+	bird	lookingleg
+	player	yikes	You laughing at me, fucko?
+	bird	cawleg	Caw.	BIRD_squawkb
+	bird	defaultleg
+	player	embarrassed	Damn... not even a feathered rat like you is scared of me anymore...
+	player	lookingdown	I used to be feared, you know. Everyone at Spooky Academy used to think twice before even looking me in the eye.
+	player	yikes	And now what? You ca-caw at me shamelessly. What fuckin' disrespect, man...
+	bird	caw	Caw caw.	BIRD_squawka
+	bird	default
+	player	sorry	Ugh... I should set you on fire, you bastard.
+	player	thinking	Where's my lighter...
+	bird	cleaning	...
+	player	thinking	Hmph...
+	player	asking	What's that look? You're thinking what they're always saying, huh?
+	player	embarrassed	"Always resorting to arson isn't badass; it's juvenile."
+	player	yikes	"Character growth this, healthy management of anger that..."
+	player	teasing	Well, what if I do NOT set you on fire, eh? I bet you didn't see that one coming, you fuckbird.
+	bird	cawleg	Ca-caw!	BIRD_angrya
+	bird	defaultleg
+	player	affirming	Well, fuck you too!
+	narrator		You leave, proud of yourself for not letting a bird trigger you. It's a small victory if you ask me, but a victory nonetheless.	
+
+>>>	cdate_valerie
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcaw	Ca-caw!	BIRD_squawka
+	bird	looking
+	player	default	Oh, hey you.
+	player	asking	Wanna know how this thing is going for me?
+	player	lookingdown	Well, quite excellently, thank you very much. I always take these as fun little challenges.
+	player	affirming	I come with zero cash and still try to get everything my heart desires through the noble art of bartering.
+	bird	caw	Caw caw.	BIRD_squawkb
+	bird	default
+	player	thinking	Yep. First you gotta do your research on every vendor who might have anything of interest.
+	player	teasing	"Oh, you don't take cards? What about hockey equipment? I heard you got recently into it, so I'd call this a WIN-WIN situation."
+	player	asking	"Look, I know it says sixty dollars... but what about this prime lobster fresh from the harbor's fish market?"
+	player	thinking	"No bartering, you say? That's so unfortunate..."
+	player	teasing	"...I just happened to have the soul of your deceased husband, trapped in a limbo state as long as I keep it with me."
+	player	affirming	It's always so thrilling to decide which angle you're playing every time.
+	bird	lookingleg	...
+	bird	looking
+	player	lookingdown	Don't blame the player; blame the game.
+	player	teasing	These unorthodox methods allow me to get my paws on the prime goods not everyone gets to see while they're roaming the con.
+	player	affirming	I just got a super rare signed original of a certain Sunday comic strip... my sister will DIE when she sees it. She LOVES that shit.
+	bird	cawleg	Caw!	BIRD_question
+	bird	defaultleg
+	player	asking	What do I barter from my sister in exchange, you ask?
+	player	smilinginlove	Her smile. And I'll be the one getting the good end of the transaction, believe me.
+	bird	caw	Ca-caw.	BIRD_squawka
+	bird	default
+	player	lookingdown	Yeah, yeah... I'm nice like that.
+	player	asking	By the way, since we're talking about me being nice... do you want to get a nice job, feathered fella?	
+	player	teasing	I sometimes train little black beauties like you to bring me anything shiny you can find.
+	player	affirming	In exchange, you get delicious seeds and nuts. And, if I'm feeling generous, the most exquisite carrion.
+	player	teasing	What do you say?
+	bird	lookingcawleg	CA-CAW!	BIRD_angryb
+	bird	lookingleg
+	player	affirming	It's a deal, then.
+	narrator		Look at you, building meaningful business partnerships, even while chilling at the food court. Way to go!
+
+>>>	cdate_aaravi
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcaw	Caw.	BIRD_squawkshort
+	bird	looking
+	player	asking	What's your problem?
+	bird	lookingcaw	Ca-caw.	BIRD_squawkb
+	bird	looking
+	player	thinking	Careful, there. I'm a slayer, and if you test my nerves, you might end up slain.
+	bird	lookingcawleg	Caw caw!	BIRD_angrya
+	bird	lookingleg
+	player	yikes	What?! Are you doubting that I'm a slayer?!
+	player	embarrassed	You...
+	bird	looking	...
+	player	embarrassed	...Hmph.
+	player	blush	You're a perceptive bastard, aren't you?
+	player	lookingdown	I AM a slayer. Or, well, my mother was.
+	player	lookingdown	She died, though.
+	player	affirming	So I decided to become a slayer and honor her memory.
+	player	blush	But the truth is... I've never informed the other slayers.
+	bird	cawleg	Caw!	BIRD_angryb
+	bird	defaultleg
+	player	thinking	Yes, yes, that makes me a sort of rogue slayer.
+	player	default	But I want to become super strong before paying them a visit.
+	player	thinking	I guess... I guess I feel that, this way, they won't turn me down.
+	player	affirming	And it's going well!
+	player	lookingdown	I'm doing just fine with my mother's gear and the things she told me about the slayers.
+	player	yikes	Sure, I might have fucked up once or twice, like trying to kill people like Liam or Damien instead of hunting the real threats.
+	player	thinking	But hey, everyone makes mistakes.
+	bird	caw	Caw.	BIRD_squawkshort
+	bird	default
+	player	blush	I knew you would understand. You're not as stupid as I first suspected.
+	bird	lookingcaw	...Caw.	BIRD_squawkb
+	bird	cleaning
+	player	thinking	Yeah, I should contact the other slayers. I just need to be a bit stronger. I'm getting close.
+	player	affirming	...Soon.
+	narrator		Look at you, doing therapy-by-bird. It looked like you made some progress there, so I won't question your methods.	
+
+>>>	cdate_milo
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcawleg	Ca-caw!	BIRD_squawkb
+	bird	lookingleg
+	player	default	Hey, little fellow.
+	player	asking	What?
+	player	default	Oh, you recognized me from my socials.
+	player	affirming	Yes, it's me, %CURRENTPLAYERNAME%, social media star.
+	player	thinking	But these days, I'm sort of offline.
+	bird	lookingcaw	Caw.	BIRD_question
+	bird	looking
+	player	asking	Why?
+	player	thinking	Well, one must always be willing to turn around the polyhedron that is life, ready to admire new sides strange to oneself.
+	player	lookingdown	I am wonderfully online... but what delicacies might life be hiding in its offline side?
+	player	thinking	Me, always the object of desire... but what would happen if, for once, I was the one pursuing love?
+	bird	caw	Caw caw.	BIRD_squawka
+	bird	default
+	player	surprised	Oh, gosh, no... I am definitely going back online in a few days.
+	player	thinking	It's true that this social media detox has turned out to be quite refreshing...
+	player	surprised	...but at the same time, that idea came to me from a Momentgram reel.	
+	player	teasing	So, if I remained offline forever... how could I stumble upon such great advice?	
+	bird	cawleg	Ca-caw.	BIRD_squawkb
+	bird	defaultleg
+	player	thinking	Exactly. It is a delicious conundrum, right?
+	player	default	I'm planning to talk all about it in a Momentgram livestream, probably next week.
+	player	lookingdown	"The healing power of going offline..."
+	player	teasing	"...but not indefinitely, since you must still follow me and engage with my content."
+	bird	cleaning	...
+	player	affirming	Wanna help me rehearse? It takes some practice for these directs to feel truly fresh and natural!
+	narrator		Ah, yet another delicious conundrum. Well, no one can say you aren't trying your best at going offline (for a few days). Your best could be better... but it's a start.	
+
+>>>	cdate_pizzagirl
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcawleg	Ca-caw!	BIRD_angryb
+	player	yikes	AH! SORRY BOSS! I'LL GO BACK TO WORK!
+	bird	cleaning	...
+	player	surprised	Huh...
+	player	thinking	Dang... maybe all these shitty jobs are starting to take a toll on me...
+	bird	cawleg	Caw.	BIRD_squawkshort
+	player	surprised	A career?
+	player	sorry	I did get a degree. It's just that it doesn't add up to much these days.
+	player	default	Work can get exhausting; but they tell you it's part of the hustle, right? You gotta endure the hardships and all that.
+	bird	caw	Caw caw.	BIRD_squawka
+	player	lookingdown	Well, you know: to get the raises, the promotions, the big positions...
+	bird	cawleg	Ca-caw.	BIRD_question
+	player	teasing	To make more money, so I can spend it on stuff I like.
+	player	embarrassed	Not now, though... I still have debts to pay.
+	player	thinking	They also say you have to be smart about it... thinking long term, managing your savings, maybe put money towards a retirement fund.
+	player	default	I imagine I'll see the results once I retire.
+	bird	lookingcaw	Caw...	BIRD_squawkb
+	player	yikes	In 40 years or so.
+	bird	looking	...
+	player	yikes	Yeah...
+	player	embarrassed	That doesn't sound right...
+	player	thinking	It almost feels like the system is... not super cool?
+	player	thinking	I should put some thought into it...
+	player	sorry	But I don't know, I had to ask days off from a bunch of different jobs just to attend this con... and it's the first time I have for myself in a while.
+	player	lookingdown	Maybe once the con is done? But then again, it's back to work, and I'm usually too tired to even think when I'm back home.
+	player	thinking	Perhaps I can think critically about it... in 40 years or so?
+	bird	lookingleg	...
+	player	embarrassed	...Yikes.
+	narrator		Who made my silly dating sim so serious, amirite? Haha...
+	narrator		But... what if we questioned the systems in place?
+
+>>>	cdate_mothman
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcawleg	Caw!	BIRD_angrya
+	player	surprised	Look who we have here!
+	bird	lookingleg	...
+	player	teasing	I meant you, we have you here.
+	bird	cawleg	Ca-caw.	BIRD_squawkb
+	player	default	So, tell me birb friend: how's the con going for you?
+	bird	caw	Caw caw.	BIRD_squawka
+	player	affirming	Fantastic.
+	bird	lookingcaw	Caw.	BIRD_question
+	player	surprised	Me?
+	player	animesweat	Oh, I'm living all kinds of misadventures!
+	player	thinking	At times I think some of the stuff I do feels so unlike me...
+	player	lookingdown	But I don't know... sometimes it's fun to venture out of your comfort zone, isn't it?
+	bird	cawleg	Caw caw!	BIRD_angryb
+	player	affirming	You got it exactly right: you live your life... for the sake of the anecdote!
+	player	surprised	You may do something reckless, something silly, something nonsensical... and all you can think is:
+	player	teasing	"Dang, this will make one heck of a story!"
+	bird	caw	Caw!	BIRD_squawkshort
+	player	default	Yes, sometimes it feels a bit scary; but also thrilling, and even invigorating.
+	player	smilinginlove	I've spent a good part of my life rejoicing in the stories and gossip of everyone else.
+	player	lookingdown	I love it; but sometimes one can feel like a bystander, a mere commenter of other people's lives.
+	player	affirming	Well, not anymore!
+	bird	cawleg	Caw caw.	BIRD_squawka
+	player	animesweat	No, no, I will continue gossipping, obviously. It's just that now I will also take it one step further...
+	player	affirming	I shall become the gossip!
+
+>>>	cdate_bradphomet
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcaw	Ca-caw!	BIRD_squawkb
+	player	default	Hey, little one.
+	player	asking	How are you feeling tonight?
+	bird	cawleg	Caw!	BIRD_angryb
+	bird	caw
+	player	lookingdown	Tired? I can imagine! With all the flying and the searching for shiny things... being a bird must be hard at times!
+	player	teasing	Have you ever... considered yoga?
+	bird	lookingcawleg	Caw caw!	BIRD_angrya
+	bird	lookingleg
+	player	default	Okay, okay... but bear with me for a minute.
+	player	smilinginlove	Yoga is a healing balm for both the body and the soul.
+	player	teasing	Believe me: I know a thing or two about souls!
+	bird	defaultleg	...
+	player	affirming	But, no, for real! It even goes beyond its many benefits in things like flexibility, all things cardiovascular, or breathing.
+	player	default	It's about presence.
+	player	thinking	I know it sounds all quite obvious, but the reality is that we all tend to forget about these things.
+	player	sorry	We live lives of stress and screens...
+	player	embarrassed	...of algorithms that feed on rage and anxiety...
+	player	yikes	...of financial precariousness that forces us to always be thinking in our futures and never in our present.
+	bird	cawleg	Caw!	BIRD_squawkshort
+	bird	defaultleg
+	player	embarrassed	I know, right? It surely can feel overwhelming at times.
+	player	thinking	Sure, we can fight back... but fighting back can also take a toll, no?
+	player	lookingdown	For that very reason, it's so important to find a modicum of respite.
+	bird	lookingcaw	Caw caw!	BIRD_question
+	bird	looking
+	player	teasing	Me? I find mine through yoga. What about you? Wanna give it a try?
+	bird	lookingcawleg	Ca-caw!	BIRD_squawka
+	player	affirming	Perfect! Let's start with some stretches...
+
+>>>	cdate_walter
+>event_type	conversational
+>conversational_type	stage1
+>conversational_npc	none
+>action			Have a relaxing day off
+>layout	duo	bird,player
+	bird	lookingcaw	Ca-caw!	BIRD_squawkb
+	bird	looking
+	player	teasing	Hey, little fella.
+	player	default	You remind me of the crows in my hometown.
+	bird	caw	Caw.	BIRD_squawkshort
+	bird	default
+	player	thinking	Well, I come from a small town on a mountain. It's almost always snowing there!
+	player	thinking	Winters can get quite cold.
+	player	lookingdown	It'd be really harsh if it wasn't for our local tavern.
+	player	smilinginlove	They serve the best hot cocoa you've ever tried.
+	bird	cawleg	Caw caw!	BIRD_squawka
+	bird	defaultleg
+	player	affirming	Yes... THAT good.
+	player	lookingdown	I used to go there almost every day.
+	player	affirming	The owners had three children around my age, so I could spend all day there, playing and drinking that palate-orgasmic hot cocoa.
+	player	blush	One of them... well, you could say they're an old flame of mine now.
+	bird	lookingcawleg	Caw!	BIRD_squawkshort
+	bird	lookingleg
+	player	smilinginlove	Hehe... yeah. It was via spending nights together that I realized my natural talent for big spooning.
+	player	lookingdown	I liked to imagine that if I spooned someone good enough, I could sort of become the night version of getting hot cocoa.
+	player	default	Something that gives you a legendary warmth, reminding you that everything's gonna be okay, even in your darkest hour.
+	bird	caw	Caw.	BIRD_squawkb
+	bird	default
+	player	lookingdown	Nah, nothing terrible happened. Sometimes people just grow apart, don't they?
+	player	default	And I thought I'd love to bring this warmth of mine to the big city, where many lonely souls could use a warm hug.
+	player	smilinginlove	It's been enriching so far. I've learned a lot about everyone's many differences...
+	player	smilinginlove	...and how you can always bridge those gaps to truly connect with people.
+	player	thinking	But...
+	bird	cawleg	Caw...	BIRD_squawka
+	bird	defaultleg
+	player	lookingdown	Yes, exactly that: lately, I've been feeling like it would be nice to visit home... even if only for some time.
+	narrator		You stay there, showering in the beauty of the starry night, wondering if you're ready to go back home.
