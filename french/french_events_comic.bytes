@@ -5,8 +5,8 @@
 >comic_turn_number	1
 >background	hidden
 >layout	none
-	narrator		The con is a whirlwind of activity (and overstimulation), but somehow you find time to work on your comic.
-	narrator		Time to brainstorm!
+	narrator		La convention est un tourbillion d'activités (et de surstimulation), mais tu trouve quand même du temps pour travailler sur ta création.
+	narrator		Au brainstorm!
 
 >>>	comic_intro_1_2
 >writer	quinn
@@ -15,8 +15,8 @@
 >comic_turn_number	1
 >background	hidden
 >layout	none
-	narrator		Now it's time to take a break from your real-life shenanigans and brainstorm some fictional shenanigans for your comic.
-	narrator		Go for it!
+	narrator		Maintenant c'est l'heure de faire une pause sur les magouilles de la vie et de brainstorm des magouilles de fiction pour ta comic.
+	narrator		On y vas!
 
 >>>	comic_intro_1_3
 >writer	quinn
@@ -25,8 +25,8 @@
 >comic_turn_number	1
 >background	hidden
 >layout	none
-	narrator		Love isn't the only thing you're chasing at this con. You've also got a comic to finish!
-	narrator		Time to brainstorm!
+	narrator		L'amour n'est pas la seule chose à pourchasser toute suite. T'a une BD à finir!
+	narrator		Allons brainstorm!
 
 >>>	comic_intro_1_4
 >writer	julian

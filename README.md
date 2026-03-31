@@ -22,6 +22,7 @@ Merci à Kiki7008 pour l'aide!! <3
 - ☑ prologue_likes
 - ⌑ events_maingame - à faire! (asigné partiellement à kiki)
 - ⌑ events_endings - à faire! (asigné partiellement à blue)
+- ⌑ events_comic - Ligne 38 sur 1162 (à peine débuté.)
 
 **Ce que j'ai à faire pour plus tard...**
 - Faire un meilleur Readme
