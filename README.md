@@ -1,7 +1,7 @@
 # monstercon-fr
 Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
-Merci à Kiki7008 pour l'aide!! <3
+Riripo je te vois
 
 ---
 
@@ -20,9 +20,10 @@ Merci à Kiki7008 pour l'aide!! <3
 - ☑ events_prologue - (Intro, Tuto??)
 - ☑ prologue_conpopquiz
 - ☑ prologue_likes
-- ⌑ events_maingame - à faire! (asigné partiellement à kiki)
-- ⌑ events_endings - à faire! (asigné partiellement à blue)
+- ⌑ events_maingame - à faire!
+- ⌑ events_endings - à faire! 
 - ⌑ events_comic - Ligne 38 sur 1162 (à peine débuté.)
+- ⌑ D'autres...????
 
 **Ce que j'ai à faire pour plus tard...**
 - Faire un meilleur Readme
@@ -42,12 +43,12 @@ NOTE: Sur mac, pour accéder au dossier du jeu, faites Clic Droit sur l'applicat
 
 ---
 
-Vous voulez me supporter? Allez faire un tour sur mon Ko-Fi...
+Vous voulez me supporter? Allez faire un tour sur mon Ko-Fi... ou pas.
 
 
 Ko-Fi - [https://ko-fi.com/linkfandos](https://ko-fi.com/linkfandos)
 
-Rejoignez mon Discord! - [https://discord.gg/Vuspk9cAcS](https://discord.gg/Vuspk9cAcS)
+Discord - [https://discord.gg/Vuspk9cAcS](https://discord.gg/Vuspk9cAcS)
 
 
-Je fais tout mes projets, souvent seul, sans IA (ewww), sur du materiel bas de gamme... Donc merci de vous amuser!
+Je fais tout mes projets, souvent seul (pas cette fois), sans IA (ewww), sur du matériel bas de gamme... Donc merci de vous amuser!
