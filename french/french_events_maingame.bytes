@@ -351,28 +351,28 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		You're hanging out with Omen and Doug when their walkie-talkies beep. They're being summoned by the Con Volunteer Middle Manager!
+	narrator		Tu traines avec Omen et Doug quand leur talkie-walkie bipent. Ils sont  en train d'être convoqués par le manager intermédiaire des volontaires de la convention !
 >layout	trio	conmanager,omen,doug
 >outfit	omen	volunteer
 >outfit	doug	volunteer
-	doug	default	What's the situation, boss? We came as soon as we could!	DOU_greetings1
-	omen	default	Actually, I could have come faster, but consider yourself lucky I even came at all.
-	conmanager	surprised	We have an emergency. Someone let a tiger onto the merch floor!
-	omen	laugh	REALLY?! THIS IS THE MOST GLORIOUS DAY OF MY LIFE!	O_gloriousday
-	conmanager	default	I need you two to get it out of here before it hurts somebody!
-	omen	grumpy	BEFORE it hurts somebody? Ugh, how dull.
-	doug	surprised	N-Not to argue, ma'am, but don't you think you should call animal control or something? We're not experienced at dealing with wild animals...
-	conmanager	default	There's no time to find real professionals. There are lives on the line! Yours, for example.
-	conmanager	ironic	Good luck! Try not to die!
+	doug	default	Quelle est la situation, boss? On est venu aussi vite que possible !	DOU_greetings1
+	omen	default	En vrai, j'aurais pu venir plus rapidement, mais estimez-vous déjà chanceux que je sois venu.
+	conmanager	surprised	On a une urgence. Quelqu'un a laché un tigre dans la zone des stands!
+	omen	laugh	VRAIMENT?! C'EST LE PLUS BEAU JOUR DE MA VIE!	O_gloriousday
+	conmanager	default	J'ai besoin que vous le fassiez sortir de là avant qu'il blesse quelqu'un!
+	omen	grumpy	AVANT qu'il blesse quelqu'un? Urgh, c'est barbant.
+	doug	surprised	C-C'est pas pour discuter, m'dame, mais vous ne pensez pas que vous devriez appeler la fourrièreou quelque chose comme ça? On a pas d'expérience pour gérer des animaux sauvages...
+	conmanager	default	IL n'y pas le temps pour trouver des vrais professionnels. Il y a des vies en jeux! Les vôtre, par exemple.
+	conmanager	ironic	Bonne chance! Essayez de ne pas mourir!
 >layout	trio	omen,doug,nico
 >outfit	nico	cowboy
 >special_command	specialstufftag	nicocosplaycowboy
-	nico	confident	Relax, y'all. I heard the situation. I'll capture the tiger. I've got a natural way with the wild animals of the Wild West.	NC_howdy
-	doug	exhausted	Nico, I love you, but I have several problems with that idea.
-	doug	skeptical	1: You are not actually a cowboy.
-	doug	thinking	2: Tigers aren't native to the Wild West. I don't think you could capture a tiger even if you WERE a cowboy.
-	nico	sad	But... but I can do it! I really can! I've been practicing with my lasso! How do you think I got the tiger in here?
-	doug	shocked	WHAT?! Nico, did you let the tiger into the con just so you could show off your lasso?!	DOU_whatexc
+	nico	confident	Relax, vous tous. J'ai entendu la situation. J'vais capturer le tigre. J'ai un don naturel avec les animaux sauvages du Far West.	NC_howdy
+	doug	exhausted	Nico, je t'adore, Mais j'ai plusieurs problèmes avec cette idée.
+	doug	skeptical	1: Tu n'est pas vraiment un cowboy.
+	doug	thinking	2: Les tigres ne viennent pas du Far West. Je pense pas que tu pourrais capturer un tigre même SI tu étais un cowboy.
+	nico	sad	Mais... Mais je peux le faire! Je peux vraiment! Je me suis entraîner avec mon lasso! Comment tu penses que j'ai fait entrer le tigre ici ??
+	doug	shocked	QUOI?! Nico, did you let the tiger into the con just so you could show off your lasso?!	DOU_whatexc
 	nico	explaining	Heh. This town ain't big enough for the two of us to be askin' questions, buckaroo. We've got a tiger to wrangle!
 	narrator		Well, however it happened, there's a tiger in the con and you need to deal with it before it kills you or any of your hot friends. Any ideas?
 >choice	1		Use the intercom to play annoying, high-pitched anime girl giggles. They have a soundwave frequency that drives most animals away.

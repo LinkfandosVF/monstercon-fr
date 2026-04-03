@@ -20,7 +20,7 @@ Riripo je te vois
 - ☑ events_prologue - (Intro, Tuto??)
 - ☑ prologue_conpopquiz
 - ☑ prologue_likes
-- ⌑ events_maingame - à faire!
+- ⌑ events_maingame - 21,3 sur 24743 (Désolée, j'ai commencé au milieu)
 - ⌑ events_endings - à faire! 
 - ⌑ events_comic - Ligne 38 sur 1162 (à peine débuté.)
 - ⌑ events_challenge - Ligne 3 sur 207 (à peine débuté, sur la branche TEST?? For some reason???)
