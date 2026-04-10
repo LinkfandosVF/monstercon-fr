@@ -351,13 +351,13 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Tu traines avec Omen et Doug quand leur talkie-walkie bipent. Ils sont  en train d'être convoqués par le manager intermédiaire des volontaires de la convention !
+	narrator		Tu traines avec Omen et Doug quand leur talkie-walkie bipent. Ils sont convoqués par le manager intermédiaire des volontaires de la convention !
 >layout	trio	conmanager,omen,doug
 >outfit	omen	volunteer
 >outfit	doug	volunteer
 	doug	default	Quelle est la situation, boss? On est venu aussi vite que possible !	DOU_greetings1
 	omen	default	En vrai, j'aurais pu venir plus rapidement, mais estimez-vous déjà chanceux que je sois venu.
-	conmanager	surprised	On a une urgence. Quelqu'un a laché un tigre dans la zone des stands!
+	conmanager	surprised	On a une urgence. Quelqu'un a laché un tigre dans la zone communautaire!
 	omen	laugh	VRAIMENT?! C'EST LE PLUS BEAU JOUR DE MA VIE!	O_gloriousday
 	conmanager	default	J'ai besoin que vous le fassiez sortir de là avant qu'il blesse quelqu'un!
 	omen	grumpy	AVANT qu'il blesse quelqu'un? Urgh, c'est barbant.
@@ -374,41 +374,40 @@
 	nico	sad	Mais... Mais je peux le faire! Je peux vraiment! Je me suis entraîner avec mon lasso! Comment tu penses que j'ai fait entrer le tigre ici ??
 	doug	shocked	QUOI?! Nico, Est-ce que tu as vraiment laché ce tigre dans la convention juste pour pouvoir frimer avec ton lasso?!	DOU_whatexc
 	nico	explaining	Heh. Cette ville n'est pas assez grande pour nos questions à tous les deux, buckaroo. On a un tigre à dompter!
-	narrator		Well, however it happened, there's a tiger in the con and you need to deal with it before it kills you or any of your hot BG friends. Any ideas?
->choice	1		Use the intercom to play annoying, high-pitched anime girl giggles. They have a soundwave frequency that drives most animals away.
->choice	2		Craft and wear a convincing fursuit to seduce the tiger and lure it out of the con.
+	narrator		Bon, qu'importe comment c'est arrivé, il y a toujours un tigre dont tu dois t'occuper avant qu'il ne tue toi ou un des tes amis très BG. Des idées ? 
+>choice	1		Utilise l'interphone pour diffuser des gloussements extrement aigu et agaçant d'anime girl. Leur fréquence sonore fait fuir la plupart des animaux.
+>choice	2		Fabrique et porte un fursuit très convaincant pour séduire le tigre et l'attirer hors de la convention.
 >outcome	1
-	omen	frustrated	That's moronic. Why would a tiger be driven away by the sounds of vapid anime girl drivel?	Oex_frustrated
-	doug	thinking	Maybe the giggles will remind the tiger of a past lover, and it'll leave because it can't face those painful memories.
-	narrator		Maybe! Or maybe you just made some shit up because you're addicted to providing solutions even if you're not actually equipped to solve the situation.
-	narrator		But what's the alternative? Let Nico lasso a tiger? Your plan can't go much more wrong than that, surely.
+	omen	frustrated	C'est complètement débile. Pourquoi un tigre fuirait les égosillements d'une anime girl insipe ?	Oex_frustrated
+	doug	thinking	Peut-être que les rires lui rappelleront un de ses amours passés, et il partira pour éviter ces souvenirs douloureux.
+	narrator		Mais quelles sont les alternatives ? Laisser Nico et son lasso se charger ? Ton plan de peut pas finir bien pire que ça, sûrement.
 >layout	none
 >background	normal	location_stands
-	narrator		At least, that's what you thought before you got stuck holding a loudspeaker in front of an angry tiger while your friends hide in the intercom room.
+	narrator		Enfin, ça c'est ce que tu pensait avant que  tu ne sois coincé à tendre une enceinte en face d'un tigre énervé pendant que tes amis ce cache avec le micro.
 >layout	trio	omen,doug,nico
-	doug	default	Okay, which waifu laugh should we play?
-	omen	unimpressed	Does it matter?
-	nico	surprised	It matters a lot, Omen! We gotta choose the right frequency to repel the tiger!
-	nico	thinking	What would affect a tiger, though? Maybe a cold, tsundere chuckle?
-	doug	blush	I think it needs to be a giggle full of joy; something that reminds the tiger of better times, the innocence of young love... memories you want to leave behind.	DOUex_blush
-	omen	grumpy	Whatever you play, play it quickly. The tiger is closing in on %CURRENTPLAYERNAME%, and I do not wish to mop %HISHER% guts off the floor.
+	doug	default	Okay, On utilise le rire de quel waifu ?
+	omen	unimpressed	Est-ce que cela à vraiment une importance?
+	nico	surprised	Oui, c'est très important, Omen! On doit trouver la bonne fréquence pour faire fuir le tigre !
+	nico	thinking	Qu'est-ce qui aurait un effet sur un tigre, par contre? Peut-être le rire froid d'une tsundere ?
+	doug	blush	Je pense que ça doit être un rire plinde joie;  quelque chose qui rappelle au  tigre  un temps meilleurs,  l'innocence d'un amour naissant... Des souvenirs que tu veux laisser derrière toi.	DOUex_blush
+	omen	grumpy	Quelque soit ce que tu vas jouer, joue le vite. Le tigre se rapproche de %CURRENTPLAYERNAME%, et j'ai pas envie de nettoyer ses entrailles du sol.
 >layout	none
-	narrator		The tiger's just about to lunge at you when suddenly, from the speakers...!
+	narrator		Le tigre allait se jeter sur toi, quand soudain, des haut-parleurs..!
 >background	normal	tiger
 	narrator		"Teeheehee!"
-	narrator		The tiger stops... you see a melancholic tear shimmering in his eye.
+	narrator		Le tigre s'arrête... Tu aperçois une larme mélancolique qui brille dans son œil.
 >background	normal	location_stands
-	narrator		And then he retreats through the exit! Thank God! You gain +2 SMARTS for your quick thinking and one-track anime mind, but you lose -2 CREATIVITY.	
+	narrator		Puis il se dirige vers la sortie! Dieu Merci! Tu gagnes +2 SMARTS pourta rapidité de pensée et ton problème de monomanie avec les anime, mais tu perds -2 CREATIVITY.	
 >outcome	2
-	narrator		You throw together a tiger fursuit with voluptuous tits.	
-	nico	thinking	It looks good, but it's missing something... like a backstory to help %CURRENTPLAYERNAME% get into character!
-	doug	thinking	What if %HESHE% used to be a tiger toy that came to life thanks to the incredible imagination of a young boy...
-	doug	surprised	...but, too new to the world, the tiger ate the boy. Now it roams the land, yearning to finally learn what it means to be a tiger; yearning to learn what it means... to be loved.
-	omen	scary	Sounds dark and homicidal... I LOVE IT.	O_ilovethis
-	nico	excited	Get out there, %CURRENTPLAYERNAME%, and remember: don't wear the costume, wear the character!
+	narrator		Tu fabriques à la va-vite un fursuit de tigre avec des voluptueux nichons.	
+	nico	thinking	Il est pas mal, mais il manque quelque chose... Comme une backstory pour aider %CURRENTPLAYERNAME% à rentrer dans le personnage !
+	doug	thinking	Et si %HESHE% avait été une figurine de tigre qui a pris vie grâce à l'incroyable imagination d'un jeune garçon...
+	doug	surprised	...Mais, trop nouveau dans ce monde, le tigre mangea le garçon. Maintenant, il vagabonde à la recherche  de ce qui signifie vraiment être un tigre ; ce qu'il signifie... d'être aimé.
+	omen	scary	C'est sombre et sanguinaire... J'ADORE.	O_ilovethis
+	nico	excited	Vas-y, %CURRENTPLAYERNAME%, et souviens toi: ne porte pas le costume, porte le personnage !
 >layout	none
 >background	normal	location_stands
-	narrator		Next thing you know, you're thrust into the merch hall in a fursuit, staring down a pissed-off tiger.	
+	narrator		Avant même de t'en rendre compte, on te pousse dans la zone communautaire en fursuit, à fixer un tigre énervé.	
 	narrator		Stage fright turns your blood to ice and shuts down your brain. For the love of God, you can't remember what sound tigers are supposed to make.
 	narrator		Fuck, this is the school musical all over again! But no — today will be the day you beat your paralyzing stage fright!
 	narrator		Unfortunately, you get mixed up and start doing the tap dancing routine you never got to do back then. Oops.
