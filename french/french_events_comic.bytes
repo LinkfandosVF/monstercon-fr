@@ -35,8 +35,8 @@
 >comic_turn_number	1
 >background	hidden
 >layout	none
-	narrator		You dive into comic work again. You're excited, since the other day you had an idea for a kick-ass new character.
-	narrator		You gotta admit this character is secretly based on a friend of yours, so you first give them a call to check if they're OK with you using their likeness.
+	narrator		Tu te replonge à nouveau dans le travail. T'es excité, vu que l'autre jour t'avais une idée top moumoute pour un nouveau personnage.
+	narrator		Tu dois admettre que le personnage en question est secrètement inspiré d'un amis à toi, donc tu l'appelle d'abords pour savoir si son sosie à le droit d'exister.
 
 >>>	comic_intro_1_5
 >writer	julian
@@ -45,8 +45,8 @@
 >comic_turn_number	1
 >background	hidden
 >layout	none
-	narrator		Before getting into the drawing part of your comic project, you call a couple of your friends.
-	narrator		You just realized some of your characters look exactly like them (happens when you have such cool-looking friends), so you thought it'd be nice to get their approval to use their likeness first!
+	narrator		Avant de rentrer dans la partie dessins de ta comic, tu appelles quelques-uns de tes amis.
+	narrator		Tu réalises que certains de tes personnages leur ressemblent en tous points, (ça arrive quand on a des amis super cool), alors tu as pensé que ça serait mieux de demander leur avis!
 
 >>>	comic_intro_2_1			
 >writer	quinn
@@ -55,8 +55,8 @@
 >comic_turn_number	2
 >background	hidden
 >layout	none
-	narrator		Can you guess what time it is? Yep: it's comic time!
-	narrator		Time to brainstorm!
+	narrator		Vous savez quelle heure il est? Et ouais: l'heure de passer un sal-... DE TRAVAILLER SUR LA COMIC.
+	narrator		C'est ce que je voulais dire. Va brainstormer.
 
 >>>	comic_intro_2_2
 >writer	quinn
@@ -65,8 +65,8 @@
 >comic_turn_number	2
 >background	hidden
 >layout	none
-	narrator		You feel a surge of creative inspiration and rush to work on your comic.
-	narrator		What genius will your pen create today? Brainstorm and find out!
+	narrator		Tu sens une bouffée d'énergie créative remplir ton corps...
+	narrator		Quel génie créatif va animer ton crayon aujourd'hui? Une seule manière de le savoir!
 
 >>>	comic_intro_2_3
 >writer	quinn
@@ -75,8 +75,8 @@
 >comic_turn_number	2
 >background	hidden
 >layout	none
-	narrator		Love is fickle, but at least you have your comic to rely on.
-	narrator		Time to brainstorm!
+	narrator		L'amour c'est compliqué, les bandes dessinées un peu moins.
+	narrator		Allons brainstormer!
 
 >>>	comic_intro_2_4
 >writer	jules
@@ -85,8 +85,8 @@
 >comic_turn_number	2
 >background	hidden
 >layout	none
-	narrator		Another day, another morning to devote to the comic you're working on!
-	narrator		Time to brainstorm!
+	narrator		Un autre jour, une autre matinée à consacrer à ta création...
+	narrator		C'est l'heure de créer!
 
 >>>	comic_intro_3_1			
 >writer	quinn
@@ -95,8 +95,8 @@
 >comic_turn_number	3
 >background	hidden
 >layout	none
-	narrator		Before you know it, the con's almost over, and it's time to put the finishing touches on your comic.
-	narrator		Bring it home with one last brainstorming session!
+	narrator		Avant que tu ne puisses le réaliser, la convention est presque terminée! Et c'est l'heure de faire quelques finitions sur ta comic...
+	narrator		Défonce tout avec une dernière session!
 
 >>>	comic_intro_3_2
 >writer	quinn
@@ -105,8 +105,8 @@
 >comic_turn_number	3
 >background	hidden
 >layout	none
-	narrator		And all of a sudden, it's time for the last brainstorming session for your comic.
-	narrator		Where did the time go?
+	narrator		Et d'un coup, comme ça, c'est l'heure de la dernière session de brainstorming pour ta BD.
+	narrator		Le temps est passé si vite...
 
 >>>	comic_intro_3_3
 >writer	quinn
@@ -115,8 +115,8 @@
 >comic_turn_number	3
 >background	hidden
 >layout	none
-	narrator		It's almost time to find a date, but first, it's almost time to publish your comic!
-	narrator		Now's your chance for one final brainstorming session to polish it!
+	narrator		C'est presque l'heure de trouver un date, mais d'abord, c'est l'heure de publier ta comic!
+	narrator		Maintenant c'est ta chance pour une dernière session d'amélioration!
 
 >>>	comic_endingintro_1
 >event_type	ending
