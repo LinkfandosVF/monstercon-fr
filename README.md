@@ -1,7 +1,7 @@
 # monstercon-fr
 Un patch non officiel français pour Monster Prom 4 - Monster con! (En dev.)
 
-Riripo je suis sous ton lit.
+Riripo je suis sous tes draps.
 
 ---
 
@@ -29,6 +29,7 @@ Un outil créé pour le projet et utilisé durant le développement du patc, qui
 - ⌑ events_endings - à faire! 
 - ⌑ events_comic - Ligne 119 sur 1162 (comic_intro terminé, il reste le reste...)
 - ⌑ events_challenge - Ligne 89 sur 207, Challenge 23 (yay! j'suis à la moitié! plus sur la branche test. la branche test est mort. rest in rip.)
+- ⌑ events_endings- Ligne 104 sur 2079
 - ⌑ D'autres...????... J'ai la flemme de tout écrire ici.
 
 **Ce que j'ai à faire pour plus tard...**

@@ -4,12 +4,12 @@
 >ending_type	success
 >ending_npc	doug
 >action	3		Afterparty	
-	narrator		You finally gather your courage and ask your favorite sexy slime to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ton to andouille de slime préféré d'aller à l'afterparty de la con avec toi...	
 >layout	solo	doug
-	doug	surprised	You wanna be MY date to the party?
+	doug	surprised	Tu veux être mon date pour la fête?
 	doug	excited	[sin]YES YES YES YES YES YES YES YES!!![/sin]	DOU_heckyeah
-	doug	skeptical	Er... *ahem*, I mean...
-	doug	default	That sounds cool.
+	doug	skeptical	Heu... *AHEM* j'veux dire...
+	doug	default	Ça a l'air top.
 
 >>>	success_doug2			
 >writer	quinn
@@ -17,11 +17,11 @@
 >ending_type	success
 >ending_npc	doug
 >action	0		Afterparty	
-	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ton goober vert préféré d'aller à l'afterparty de la con avec toi...
 >layout	solo	doug
-	doug	happy	Awww! Of course I'll go to the party with you!	DOU_awwwhappy
-	doug	default	I'll pick you up at eight. Try not to wear loose-fitting clothing; I don't want it to get stuck in the back wheel of my moped.
-	doug	excited	As long as we don't crash, it'll be fun!
+	doug	happy	Awww! Bien sur que je vais aller à la fête avec toi!	DOU_awwwhappy
+	doug	default	Je viendrais te chercher à 8h. Essaie de pas porter des vètements trop désseré; Je voudrais pas que tes fringues se coincent dans les roues de la mobilette.
+	doug	excited	Tant qu'on se crash pas, ça devrais être fun!
 
 >>>	success_doug3			
 >writer	quinn
@@ -29,12 +29,12 @@
 >ending_type	success
 >ending_npc	doug
 >action	2		Afterparty	
-	narrator		You finally gather your courage and ask your favorite green goober to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ton goober vert préféré d'aller à l'afterparty de la con avec toi...	
 >layout	solo	doug
-	doug	happy	I'd love to be your date to the party!	DOU_heckyeah
-	doug	thinking	Gosh, this'll be the first party I've been to since my cousin's baby shower. Should I buy a gift or something?
-	player	default	Nah, just bring your handsome self.
-	doug	sweat	Oh, good! That sounds affordable!
+	doug	happy	J'adorerais y-aller avec toi!	DOU_heckyeah
+	doug	thinking	Gosh, ça sera ma première fête depuis que j'ai été à la baby shower de ma cousine. Je devrais acheter un cadeau où un truc du genre?
+	player	default	Nan, ammène juste ton cul de beau-gosse.
+	doug	sweat	Oh, bien! Ça à l'air abordable financièrement!
 
 >>>	success_nico1			
 >writer	quinn
@@ -42,13 +42,13 @@
 >ending_type	success
 >ending_npc	nico
 >action	0		Afterparty
-	narrator		You finally gather your courage and ask your favorite not-very-shapeshifting mimic to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ta mimique chouchou pas-si-métamorphosant d'aller à l'afterparty de la con avec toi...	
 >layout	solo	nico
 >outfit	nico	barbarian
 >special_command	specialstufftag	nicocosplaybarbarian
-	nico	determined	IT WOULD BE AN HONOR TO PARTY WITH YOU!	NC_rejoicebarbarians
-	nico	explaining	WE'LL RAID THE FESTIVITIES AT SUNDOWN!
-	nico	excited	THE SNACK TABLE WON'T KNOW WHAT HIT IT!
+	nico	determined	CELA SERAIT UN HONNEUR D'Y ALLER AVEC TOI!	NC_rejoicebarbarians
+	nico	explaining	NOUS FERONS UN RAID SUR LES FESTIVITÉS AU COUCHER DU SOLEIL!
+	nico	excited	LA TABLE DE SNACK NE LE VERRA JAMAIS VENIR!
 
 >>>	success_nico2			
 >writer	quinn
@@ -56,11 +56,11 @@
 >ending_type	success
 >ending_npc	nico
 >action	3		Afterparty
-	narrator		You finally gather your courage and ask your favorite sexy shapeshifter to go to the con afterparty with you...
+	narrator		Tu rassembles enfin ton courage et demande à ta mimique sexy favorite d'aller à l'afterparty de la con avec toi...	
 >layout	solo	nico
-	nico	happy	I'd love to go to the party with you! What cosplay should I wear?	NCex_happy
-	player	default	I think what you're wearing now is already plenty sexy. Why not just go as yourself?
-	nico	default	I can do that! I'm already in character!
+	nico	happy	J'adorerais y aller avec toi! Quel cosplay je devrais porter?	NCex_happy
+	player	default	Je pense que celui que tu porte la toute suite est déja super sexy. Pourquoi ne pas y aller déguisé en toi même?
+	nico	default	Je peux faire ça! J'suis déjà dans le personnage!
 
 >>>	success_nico3			
 >writer	quinn
@@ -68,13 +68,13 @@
 >ending_type	success
 >ending_npc	nico
 >action	1		Afterparty
-	narrator		You finally gather your courage and ask your favorite not-very-shapeshifting mimic to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et demande à ta mimique sexy favorite d'aller à l'afterparty de la con avec toi...
 >layout	solo	nico
 >outfit	nico	noir
 >special_command	specialstufftag	nicocosplaynoir
-	nico	frustrated	Hmmm... it's been a long time since I've believed in the power of love. A long time since I've searched for it anywhere but the bottom of a bottle...	NC_needadrink
-	nico	explaining	But somehow, some way, you weaseled your way into my life and thawed my heart like butter on a hot muzzle.
-	nico	determined	I'm in. Let's paint this town red, kid.	NCex_determined
+	nico	frustrated	Hmmm... cela fait bien longtemps depuis que la dernière fois que j'ai succombé au pouvoir de l'amour. Un long temps durant lequel je n'ai fait que noyer ce manque dans le fond d'une bouteille...	NC_needadrink
+	nico	explaining	Je ne sais comment, mais tu à reussi à creuser ton chemin dans ma vie et à remplis mon coeur comme du beurre sur une poêle.
+	nico	determined	J'suis chaud. Allons se bourrer la gueule, gamin.	NCex_determined
 
 >>>	success_liam1			
 >writer	quinn
@@ -82,13 +82,13 @@
 >ending_type	success
 >ending_npc	liam
 >action	0		Afterparty
-	narrator		You finally gather your courage and ask your favorite grump to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et invite ton garfield blanc pâle à la fête.	
 >layout	solo	liam
-	liam	eyeroll	Ugh, the con afterparty? You're seriously going to that?	L_mainstream
-	player	default	Um... yes, but... I'm going IRONICALLY.
+	liam	eyeroll	Ugh, l'après-fête de la con? Tu vas sérieusement y aller?	L_mainstream
+	player	default	Um... ouais, mais genre... IRONNIQUEMENT.
 	liam	bored	...
 	liam	thinking	...
-	liam	smile	That's genius. Count me in.	L_cool
+	liam	smile	C'est du putain de génie. Je suis.
 
 >>>	success_liam2			
 >writer	quinn
@@ -96,12 +96,12 @@
 >ending_type	success
 >ending_npc	liam
 >action	2		Afterparty
-	narrator		You finally gather your courage and ask your favorite centuries-old hipster to go to the con afterparty with you...	
+	narrator		Tu rassembles enfin ton courage et invite ton hipster millénaire bien aimé à aller à la fête avec toi.
 >layout	solo	liam
-	liam	default	The con afterparty? Hmm, let me check my schedule.
-	liam	thinking	"6:00: brood. 7:00: pass judgment. 8:30: snack break. 9:00: brainstorm titles for my memoir: [i]Liam [WORKING TITLE][/i]...." Sorry, I'm booked.	Lex_thinking
-	liam	surprised	Actually, now that I think about it... [i]Liam: A Working Title[/i] is EXACTLY the subversive title my memoir should have!
-	liam	talking	%CURRENTPLAYERNAME%, you're in luck: my schedule just opened up. It's a date.	Lex_talking
+	liam	default	La fête? Hmm, laisse moi regarder mon schédule...
+	liam	thinking	6 h 00 : ruminer. 7 h 00 : juger. 8 h 30 : pause goûter. 9 h 00 : réfléchir à des titres pour mes mémoires : Liam [TITRE PROVISOIRE]… Désolé, je suis pris. 	Lex_thinking
+	liam	surprised	En fait, maintenant que j'y pense... [i]Liam: Un Titre Provisoire[/i] est EXACTEMENT le titre que mon mémoir devrais avoir!
+	liam	talking	%CURRENTPLAYERNAME%, tu as du cul: mon calendrier viens de s'ouvrir: une date est pour toi.	Lex_talking
 
 >>>	success_liam3			
 >writer	quinn
