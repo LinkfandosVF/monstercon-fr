@@ -429,22 +429,22 @@
 >topic_tags
 >argument_tags
 >layout	none
-	narrator		Some time later, you're in the hotel bathroom giving your remaining shirts the sniff test when you hear Liam grumbling in the other room.
+	narrator		Quelque temps après, tu es dans la salle de bain de l'hotel en train de de faire le test du reniflage sur le reste de tes t-shirts quand tu entends Liam grommeler  dans l'autre pièce.
 >layout	trio	liam,zoe,nico
 >outfit	nico	noir
 >special_command	specialstufftag	nicocosplaynoir
-	liam	default	Dammit... have any of you seen my keys? I could've sworn I left them on the nightstand.	L_dammit
-	nico	frustrated	"Poor Liam: yet another victim of faulty witness testimony. All clues pointed to the keys not being on the nightstand, and yet he went on insisting."
-	nico	bummed	"I couldn't bring myself to put more doubt in his fragile mind, even if his memory had more holes than a wedge of Swiss cheese."
+	liam	default Bon sang... Quelqu'un aurait-il vu mes clé ? J'aurais juré les avoir laissées sur la table de nuit.	L_dammit
+	nico	frustrated	"Pauvre Liam: Encore une autre victime d'un témoignage erroné. Tous les indices pointent vers la clé n'étant pas sur la table de nuit, et pourtant il continu à en insister."
+	nico	bummed	"je ne pouvais me résoudre à instiller plus de doutes dans son fragile esprit, même si sa mémoire avait plus de trous qu'un quartier d'emmental."
 	liam	unimpressed	...
-	zoe	default	Sorry, I don't know where your keys could be. Nico, is your magnifying glass up to the task of finding them?
-	nico	confident	Of course! This detective has stumbled home from enough late-night benders to know how to follow the clues to a set of missing keys.	NCex_confident
-	zoe	happy	Sweet! What clues do we have so far?
-	nico	thinking	Well, has our prime suspect here retraced his steps yet?
-	liam	suspicious	Yes, of course I — wait, what do you mean "prime suspect"?	Lex_suspicious
-	nico	explaining	You were the last to be in possession of the keys, weren't you? How do we know you didn't lose 'em on purpose to hide some shady deeds?
+	zoe	default	Désolée, Je ne sais pas où pourrais être tes clés. Nico, Est-ce que ta superbe loupe est à la hauteur de la tâche de les retrouver ?
+	nico	confident	Évidemment! Ce détective est suffisament rentré chez lui en titubant de beuverie nocturne pour savoir comment suivre les indices vers un trousseau de clés disparu.	NCex_confident
+	zoe	happy	Génial! On a quoi comme indices pour l'instant ?
+	nico	thinking	Et bien, notre suspect principal a-t-il déjà retracé ses pas pour l'instant ?
+	liam	suspicious	Oui, évidemment que j' — attends, qu'est-ce que tu veux dire par "suspect principal"?	Lex_suspicious
+	nico	explaining	Tu étais le dernier en possession des clés, n'est-ce pas ? Comment peut-on être certain que tu les a perdu exprès pour cacher quelques agissements douteux ?
 	zoe	eyebrows	Oooh! Liam, have you been gettin' up to some spicy business in the hotel room you didn't want us to find out about?
-	liam	shocked	NO! I OBVIOUSLY DIDN'T LOSE THE KEYS ON PURPOSE!
+	liam	shocked	NON! JE N'AI ÉVIDEMMENT FAIT EXPRÈS DE PERDRE MES CLÉS!
 	narrator		You'd better solve this mystery before Liam blows a gasket. How can you find the missing keys?
 >choice	1		You gotta trust the noir detective method: go to the hotel bar, get drunk, maybe start a fight. It will help the process, somehow.
 >choice	2		Solve this mystery the same way badly-written detective movies do: cast a spell that conjures a flashback with voiceover narration for convenient exposition!
